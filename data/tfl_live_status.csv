@@ -331,3 +331,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-17T02:00:41Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate.",PlannedWork
 2026-10-17T02:00:41Z,victoria,Victoria,10,Good Service,,
 2026-10-17T02:00:41Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-10-17T08:04:05Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-17T08:04:05Z,central,Central,10,Good Service,,
+2026-10-17T08:04:05Z,circle,Circle,10,Good Service,,
+2026-10-17T08:04:05Z,district,District,5,Part Closure,"DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate.",PlannedWork
+2026-10-17T08:04:05Z,district,District,6,Severe Delays,District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERIVCE on the rest of the line. Tickets are being accepted on London Buses.,RealTime
+2026-10-17T08:04:05Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-17T08:04:05Z,jubilee,Jubilee,10,Good Service,,
+2026-10-17T08:04:05Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-17T08:04:05Z,northern,Northern,10,Good Service,,
+2026-10-17T08:04:05Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate.",PlannedWork
+2026-10-17T08:04:05Z,victoria,Victoria,10,Good Service,,
+2026-10-17T08:04:05Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
