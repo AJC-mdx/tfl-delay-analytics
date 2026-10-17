@@ -61,7 +61,8 @@
     - New quality check: every fact row matches a date, hour, line and data source in the dimension tables.
     - `refresh.py` now also runs `get_bank_holidays.py`.
   - *Done (Power BI):* six tables loaded into `powerbi/TfL_Delays.pbix` from Parquet via a `DataFolder` parameter, following `powerbi/POWERBI_GUIDE.md` → 3.1.
-- [ ] **3.2 Build the Data Model:** Connect your tables (TfL status, Weather, Calendar) in the Power BI relationship view.
+- [x] **3.2 Build the Data Model:** Connect your tables (TfL status, Weather, Calendar) in the Power BI relationship view.
+  - *Done:* star schema with 8 many-to-one, single-direction relationships (both facts → `dim_date`, `dim_hour`, `dim_line`, `dim_data_source`); `dim_date` marked as date table; sort-by columns, summarization and hidden keys set (`powerbi/POWERBI_GUIDE.md` → 3.2).
 - [ ] **3.3 Write DAX Measures:** Create formulas for "Mean Time To Recovery" and "Weather Delay Risk".
 - [ ] **3.4 Design the Dashboard:** Build a clean, 1-page visual report with heatmaps and KPIs.
 - [ ] **3.5 Milestone Reached:** At this point, you have a complete Data Analyst project ready for job applications.

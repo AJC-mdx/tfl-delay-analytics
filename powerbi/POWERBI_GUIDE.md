@@ -176,4 +176,175 @@ Keep the field list clean, so you always slice by the **dimension** columns. In 
 
 ## 3.3 DAX measures
 
+Measures are formulas that recalculate for whatever is selected (a line, a date range, a slicer). We build them in layers: simple **base measures** first, then **headline measures** built from them. If a base measure is right, everything built on it is right too.
+
+### Step 1: Create a measures table
+
+Keeping all measures in one place (instead of scattered across tables) is standard good practice.
+
+1. **Home → Enter data**.
+2. Name the table `_Measures` (the underscore sorts it to the top) → **Load**.
+3. You'll add measures to this table. When you've added the first one, delete the empty `Column1`. The table's icon then changes to a calculator.
+
+### Step 2: Add the measures
+
+For each measure: select `_Measures` in the **Data** pane → **Table tools → New measure** → paste the formula → press Enter. Then set its format in **Measure tools** (shown under each formula).
+
+> Paste one measure at a time. The text before `=` is the measure's name.
+
+#### Base measures
+
+```dax
+Running Line-Hours =
+CALCULATE ( COUNTROWS ( fct_line_hour ), fct_line_hour[is_running] = TRUE () )
+```
+*Hours when a line was actually running (overnight closures excluded).* Format: Whole number, thousands separator.
+
+```dax
+Delays Started =
+CALCULATE ( SUM ( fct_line_hour[delays_started] ), fct_line_hour[is_running] = TRUE () )
+```
+*New delays, counted from the line-hour table, so they can be filtered by weather.* Format: Whole number.
+
+```dax
+Delays =
+COUNTROWS ( fct_delay_episodes )
+```
+*Number of delay episodes, from the episodes table (use this with reasons/durations).* Format: Whole number.
+
+```dax
+Confirmed Delays =
+CALCULATE ( [Delays], fct_delay_episodes[end_confirmed] = TRUE () )
+```
+*Delays where we actually saw the line recover.* Format: Whole number.
+
+#### Headline measures
+
+```dax
+Delay Rate =
+DIVIDE ( [Delays Started], [Running Line-Hours] )
+```
+*The chance a new delay starts on a line in any given hour.* Format: **Percentage**, 1 decimal place.
+
+```dax
+Disrupted Hours % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( fct_line_hour ),
+        fct_line_hour[is_running] = TRUE (),
+        fct_line_hour[any_disruption] = TRUE () ),
+    [Running Line-Hours]
+)
+```
+*Share of running line-hours with any disruption.* Format: Percentage, 1 decimal place.
+
+```dax
+Service Availability % =
+1 - CALCULATE ( AVERAGE ( fct_line_hour[disrupted_share] ), fct_line_hour[is_running] = TRUE () )
+```
+*Share of running time with no disruption.* Format: Percentage, 1 decimal place.
+
+```dax
+MTTR (min) =
+CALCULATE ( AVERAGE ( fct_delay_episodes[duration_minutes] ), fct_delay_episodes[end_confirmed] = TRUE () )
+```
+*Mean Time To Recovery: the average delay length. Only confirmed delays, since unconfirmed ones are minimums, not true lengths (rule from 2.3).* Format: Decimal, 0 decimal places.
+
+```dax
+Longest Delay (min) =
+CALCULATE ( MAX ( fct_delay_episodes[duration_minutes] ), fct_delay_episodes[end_confirmed] = TRUE () )
+```
+Format: Whole number.
+
+#### Weather measures
+
+`is_wet` means **any** rain in the previous hour, which is known in advance, so this also matches what the Phase 4 model can use.
+
+```dax
+Delay Rate (Wet) =
+CALCULATE ( [Delay Rate], fct_line_hour[is_wet] = TRUE () )
+```
+
+```dax
+Delay Rate (Dry) =
+CALCULATE ( [Delay Rate], fct_line_hour[is_wet] = FALSE () )
+```
+Format both: Percentage, 1 decimal place.
+
+```dax
+Weather Delay Risk =
+DIVIDE ( [Delay Rate (Wet)], [Delay Rate (Dry)] )
+```
+*How many times more likely a delay is after rain. 1.5 = 50% more likely.* Format: in **Measure tools → Format**, type the custom format `0.0"×"` so it shows as e.g. **1.5×**.
+
+```dax
+Risk vs Dry =
+VAR DryRate =
+    CALCULATE (
+        [Delay Rate],
+        REMOVEFILTERS ( fct_line_hour[rain_band], fct_line_hour[rain_band_order] ),
+        fct_line_hour[rain_band] = "Dry (0 mm)"
+    )
+RETURN
+    DIVIDE ( [Delay Rate], DryRate )
+```
+*For the rain-band chart: each band's delay rate compared with dry hours.* Format: custom `0.0"×"`.
+
+> **Why `REMOVEFILTERS` on two columns?** When a chart shows `rain_band`, Power BI also filters its sort column `rain_band_order` behind the scenes (from 3.2 Step 3). Removing only `rain_band` would leave the hidden sort filter in place and the "dry" rate would come out blank. This is a classic Power BI trap and a good interview talking point.
+
+#### Labels for the report
+
+```dax
+Data Banner =
+IF (
+    HASONEVALUE ( dim_data_source[data_source] ),
+    IF (
+        SELECTEDVALUE ( dim_data_source[is_simulated] ),
+        "⚠ SIMULATED DATA: mock values for testing the pipeline, not real TfL performance",
+        "Live TfL data, collected every 15 minutes"
+    ),
+    "Select one data source (Simulated or Live)"
+)
+```
+
+```dax
+Data Coverage =
+VAR FirstHour = MIN ( fct_line_hour[hour_london] )
+VAR LastHour  = MAX ( fct_line_hour[hour_london] )
+RETURN
+    IF ( ISBLANK ( FirstHour ), "No data for this selection",
+        "Data: " & FORMAT ( FirstHour, "d mmm yyyy" ) & " to " & FORMAT ( LastHour, "d mmm yyyy" )
+            & " · " & FORMAT ( [Running Line-Hours], "#,0" ) & " line-hours" )
+```
+
+### Step 3: Check the numbers against SQL
+
+Put a **Slicer** with `dim_data_source[data_source_label]` on the page and select **Simulated (mock data)**. Add a **Card** (or a **Table** with all measures) and compare with these values, calculated directly in SQL:
+
+| Measure | Expected (mock data) |
+|---|---|
+| Running Line-Hours | 1,512 |
+| Delays Started | 113 |
+| Delays | 113 |
+| Confirmed Delays | 113 |
+| Delay Rate | 7.5% |
+| Disrupted Hours % | 8.1% |
+| Service Availability % | 91.9% |
+| MTTR (min) | 65 |
+| Longest Delay (min) | 180 |
+| Delay Rate (Wet) | 10.1% |
+| Delay Rate (Dry) | 6.6% |
+| Weather Delay Risk | 1.5× |
+
+Then add a **Table** with `fct_line_hour[rain_band]`, `Delay Rate` and `Risk vs Dry`. **Dry** should show **1.0×**, and no row should be blank.
+
+If any number differs, check (in this order): the slicer is on Simulated, the relationships from 3.2 (all *:1, Single), and that the formula was pasted completely.
+
+> **Why "Weather Delay Risk" is 1.5× rather than the ~2.4× from 2.4:** here *wet* includes **light** rain (≤ 0.5 mm), which in the mock data has no effect, so it dilutes the result. The 2.4× figure was for moderate rain only. The rain-band table shows both views. The measure uses "any rain" on purpose, because it's a neutral definition we didn't pick to match the mock rule.
+
+Delete the test visuals when done and **Save**.
+
+---
+
+## 3.4 Design the dashboard
+
 *Coming next.*
