@@ -10,7 +10,8 @@
 - [x] **1.3 Save to a File (Live Collector):** Upgrade the script so it saves that live status into a local CSV file or database.
   - TfL does not publish historical line status, so this script is how we build our **real** history.
   - *Done:* `collect_tfl_status.py` appends a timestamped (UTC) snapshot of every Tube line's status, severity code and disruption reason to `data/tfl_live_status.csv`. Each run is logged to `logs/collector.log`.
-  - *Done:* Windows Task Scheduler task **"TfL Status Collector"** runs it every 15 minutes (collection started 14 Oct 2026). It only runs while the laptop is on and you're logged in, so expect gaps when it's off or asleep.
+  - *Done (moved to the cloud, 17 Oct 2026):* a **GitHub Actions** workflow (`.github/workflows/collect_tfl_status.yml`) runs the collector every 15 minutes, 24/7, and commits each snapshot to `data/tfl_live_status.csv` in the public repo **github.com/AJC-mdx/tfl-delay-analytics** ("git scraping"). `python refresh.py` now starts with `git pull` to fetch the latest data.
+  - *Why:* the original Windows Task Scheduler task (14–17 Oct) only ran while the laptop was awake, about 00:00–03:00, when the Tube is closed, so it captured no service hours. That task is now **disabled** (not deleted) so the two collectors don't conflict. Real service-hours data starts 17 Oct 2026.
 - [x] **1.4 The Backfill (Mock Data for Now):** Historical TfL status data is not available, so we use mock data to build and test the rest of the pipeline while the live collector gathers real data.
   - *Done:*
     - `get_weather.py` downloads hourly London weather from Open-Meteo → `data/london_weather_sample.csv` (currently 1–7 Jan 2024).

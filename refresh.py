@@ -3,6 +3,8 @@ One command to bring everything up to date:
 
     python refresh.py
 
+0. git pull              - fetch the latest live TfL data collected by
+                           GitHub Actions (.github/workflows/)
 1. get_weather.py        - download weather for all mock + live dates
 2. get_bank_holidays.py  - download UK bank holidays (for the calendar)
 3. load_database.py      - rebuild tfl.duckdb (raw tables, views, quality
@@ -24,7 +26,9 @@ def run(script):
     return subprocess.run([sys.executable, str(PROJECT_DIR / script)], cwd=PROJECT_DIR).returncode
 
 
-downloads = {script: run(script) == 0 for script in ["get_weather.py", "get_bank_holidays.py"]}
+print("\n=== git pull (latest live data) ===", flush=True)
+downloads = {"git pull": subprocess.run(["git", "pull", "--ff-only"], cwd=PROJECT_DIR).returncode == 0}
+downloads.update({script: run(script) == 0 for script in ["get_weather.py", "get_bank_holidays.py"]})
 for script, ok in downloads.items():
     if not ok:
         print(f"\nWARNING: {script} failed - continuing with the existing file.")
