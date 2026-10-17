@@ -355,3 +355,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-17T12:08:38Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate.",PlannedWork
 2026-10-17T12:08:38Z,victoria,Victoria,6,Severe Delays,"Victoria Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services.",RealTime
 2026-10-17T12:08:38Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-10-17T15:43:12Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-17T15:43:12Z,central,Central,10,Good Service,,
+2026-10-17T15:43:12Z,circle,Circle,10,Good Service,,
+2026-10-17T15:43:12Z,district,District,5,Part Closure,"DISTRICT LINE: Saturday 17 and Sunday 18 October, no service between Turnham Green and Ealing Broadway. Replacement bus services operate.",PlannedWork
+2026-10-17T15:43:12Z,district,District,6,Severe Delays,District Line: No service between Turnham Green and Ealing Broadway due to planned engineering work. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-17T15:43:12Z,hammersmith-city,Hammersmith & City,9,Minor Delays,Hammersmith and City Line: Minor delays due to train cancellations.,RealTime
+2026-10-17T15:43:12Z,jubilee,Jubilee,10,Good Service,,
+2026-10-17T15:43:12Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-17T15:43:12Z,northern,Northern,10,Good Service,,
+2026-10-17T15:43:12Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate.",PlannedWork
+2026-10-17T15:43:12Z,victoria,Victoria,6,Severe Delays,"Victoria Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services.",RealTime
+2026-10-17T15:43:12Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
