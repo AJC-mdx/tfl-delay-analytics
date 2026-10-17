@@ -7,7 +7,9 @@ name: Collect TfL status
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 15 min (UTC). GitHub may start runs a few minutes late.
+    # every 15 min (UTC), at off-peak minutes: GitHub is busiest on the hour and
+    # quarter-hour, when scheduled runs are most often delayed or dropped
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:          # adds a "Run workflow" button for manual runs
 
 permissions:
