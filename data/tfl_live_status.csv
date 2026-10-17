@@ -1,0 +1,322 @@
+collected_at_utc,line_id,line_name,status_severity,status_description,reason,disruption_category
+2026-10-14T01:22:11Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:11Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:11Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:11Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:11Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:11Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:11Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:11Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:11Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:11Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:11Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-14T01:22:33Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:33Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:33Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:33Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:33Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:33Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:33Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:33Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:33Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:33Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-14T01:22:33Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-14T01:23:26Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-14T01:23:26Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-14T01:23:26Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-14T01:23:26Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-14T01:23:26Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-14T01:23:26Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-14T01:23:26Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-14T01:23:26Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-14T01:23:26Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-14T01:23:26Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-14T01:23:26Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-14T01:38:28Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-14T01:38:28Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-14T01:38:28Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-14T01:38:28Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-14T01:38:28Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-14T01:38:28Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-14T01:38:28Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-14T01:38:28Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-14T01:38:28Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-14T01:38:28Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-14T01:38:28Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-14T01:53:28Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-14T01:53:28Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-14T01:53:28Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-14T01:53:28Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-14T01:53:28Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-14T01:53:28Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-14T01:53:28Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-14T01:53:28Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-14T01:53:28Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-14T01:53:28Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-14T01:53:28Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-14T02:08:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-14T02:08:27Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-14T02:08:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-14T02:08:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-14T02:08:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-14T02:08:27Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-14T02:08:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-14T02:08:27Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-14T02:08:27Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-14T02:08:27Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-14T02:08:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-14T02:23:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-14T02:23:27Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-14T02:23:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-14T02:23:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-14T02:23:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-14T02:23:27Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-14T02:23:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-14T02:23:27Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-14T02:23:27Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-14T02:23:27Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-14T02:23:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-14T02:38:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-14T02:38:27Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-14T02:38:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-14T02:38:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-14T02:38:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-14T02:38:27Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-14T02:38:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-14T02:38:27Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-14T02:38:27Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-14T02:38:27Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-14T02:38:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-14T02:53:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-14T02:53:27Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-14T02:53:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-14T02:53:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-14T02:53:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-14T02:53:27Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-14T02:53:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-14T02:53:27Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-14T02:53:27Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-14T02:53:27Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-14T02:53:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-16T00:01:34Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-16T00:01:34Z,central,Central,10,Good Service,,
+2026-10-16T00:01:34Z,circle,Circle,10,Good Service,,
+2026-10-16T00:01:34Z,district,District,9,Minor Delays,District Line: Minor delays between Earl's Court and Wimbledon while we fix a track fault at Southfields. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-16T00:01:34Z,hammersmith-city,Hammersmith & City,6,Severe Delays,"Hammersmith and City Line: Severe delays due to train cancellations. Tickets being accepted by London Buses, DLR, Elizabeth Line and C2C via any reasonable route.",RealTime
+2026-10-16T00:01:34Z,jubilee,Jubilee,6,Severe Delays,"Jubilee Line: Severe delays due to earlier points failures at North Greenwich and Canary Wharf. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services.",RealTime
+2026-10-16T00:01:34Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-16T00:01:34Z,northern,Northern,9,Minor Delays,"Northern Line: Minor delays due to an earlier points failure at Camden Town. All southbound trains from High Barnet will run via Bank, take the first train and change at Camden Town for the Charing Cross branch.",RealTime
+2026-10-16T00:01:34Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-16T00:01:34Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-16T00:01:34Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-16T00:08:28Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-16T00:08:28Z,central,Central,10,Good Service,,
+2026-10-16T00:08:28Z,circle,Circle,10,Good Service,,
+2026-10-16T00:08:28Z,district,District,9,Minor Delays,District Line: Minor delays between Earl's Court and Wimbledon while we fix a track fault at Southfields. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-16T00:08:28Z,hammersmith-city,Hammersmith & City,6,Severe Delays,"Hammersmith and City Line: Severe delays due to train cancellations. Tickets being accepted by London Buses, DLR, Elizabeth Line and C2C via any reasonable route.",RealTime
+2026-10-16T00:08:28Z,jubilee,Jubilee,6,Severe Delays,"Jubilee Line: Severe delays due to earlier points failures at North Greenwich and Canary Wharf. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services.",RealTime
+2026-10-16T00:08:28Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-16T00:08:28Z,northern,Northern,9,Minor Delays,"Northern Line: Minor delays due to an earlier points failure at Camden Town. All southbound trains from High Barnet will run via Bank, take the first train and change at Camden Town for the Charing Cross branch.",RealTime
+2026-10-16T00:08:28Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-16T00:08:28Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-16T00:08:28Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-16T00:23:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-16T00:23:27Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-16T00:23:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-16T00:23:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-16T00:23:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-16T00:23:27Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-16T00:23:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-16T00:23:27Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-16T00:23:27Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-16T00:23:27Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-16T00:23:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-16T00:38:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-16T00:38:27Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-16T00:38:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-16T00:38:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-16T00:38:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-16T00:38:27Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-16T00:38:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-16T00:38:27Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-16T00:38:27Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-16T00:38:27Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-16T00:38:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-16T00:53:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-16T00:53:27Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-16T00:53:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-16T00:53:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-16T00:53:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-16T00:53:27Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-16T00:53:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-16T00:53:27Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-16T00:53:27Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-16T00:53:27Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-16T00:53:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-16T01:08:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-16T01:08:27Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-16T01:08:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-16T01:08:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-16T01:08:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-16T01:08:27Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-16T01:08:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-16T01:08:27Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-16T01:08:27Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-16T01:08:27Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-16T01:08:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-16T01:23:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-16T01:23:27Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-16T01:23:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-16T01:23:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-16T01:23:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-16T01:23:27Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-16T01:23:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-16T01:23:27Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-16T01:23:27Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-16T01:23:27Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-16T01:23:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-16T01:38:26Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-16T01:38:26Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-16T01:38:26Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-16T01:38:26Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-16T01:38:26Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-16T01:38:26Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-16T01:38:26Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-16T01:38:26Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-16T01:38:26Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-16T01:38:26Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-16T01:38:26Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-16T01:53:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-16T01:53:27Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-16T01:53:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-16T01:53:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-16T01:53:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-16T01:53:27Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-16T01:53:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-16T01:53:27Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-16T01:53:27Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-16T01:53:27Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-16T01:53:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-16T23:17:43Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-16T23:17:43Z,central,Central,10,Good Service,,
+2026-10-16T23:17:43Z,circle,Circle,10,Good Service,,
+2026-10-16T23:17:43Z,district,District,10,Good Service,,
+2026-10-16T23:17:43Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-16T23:17:43Z,jubilee,Jubilee,10,Good Service,,
+2026-10-16T23:17:43Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-16T23:17:43Z,northern,Northern,10,Good Service,,
+2026-10-16T23:17:43Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays due to a customer incident at Arnos Grove. Tickets are being accepted on, London Buses, Elizabeth line, Weaver line and Great Northern services.",RealTime
+2026-10-16T23:17:43Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to an earlier fire alert at King's Cross St. Pancras.,RealTime
+2026-10-16T23:17:43Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-16T23:23:27Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-16T23:23:27Z,central,Central,10,Good Service,,
+2026-10-16T23:23:27Z,circle,Circle,10,Good Service,,
+2026-10-16T23:23:27Z,district,District,10,Good Service,,
+2026-10-16T23:23:27Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-16T23:23:27Z,jubilee,Jubilee,10,Good Service,,
+2026-10-16T23:23:27Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-16T23:23:27Z,northern,Northern,10,Good Service,,
+2026-10-16T23:23:27Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays due to a customer incident at Arnos Grove. Tickets are being accepted on, London Buses, Elizabeth line, Weaver line and Great Northern services.",RealTime
+2026-10-16T23:23:27Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to an earlier fire alert at King's Cross St. Pancras.,RealTime
+2026-10-16T23:23:27Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-16T23:38:27Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-16T23:38:27Z,central,Central,10,Good Service,,
+2026-10-16T23:38:27Z,circle,Circle,10,Good Service,,
+2026-10-16T23:38:27Z,district,District,10,Good Service,,
+2026-10-16T23:38:27Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-16T23:38:27Z,jubilee,Jubilee,10,Good Service,,
+2026-10-16T23:38:27Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-16T23:38:27Z,northern,Northern,10,Good Service,,
+2026-10-16T23:38:27Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays due to a customer incident at Arnos Grove. Tickets are being accepted on, London Buses, Elizabeth line, Weaver line and Great Northern services.",RealTime
+2026-10-16T23:38:27Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to an earlier fire alert at King's Cross St. Pancras.,RealTime
+2026-10-16T23:38:27Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-16T23:53:27Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-16T23:53:27Z,central,Central,10,Good Service,,
+2026-10-16T23:53:27Z,circle,Circle,10,Good Service,,
+2026-10-16T23:53:27Z,district,District,10,Good Service,,
+2026-10-16T23:53:27Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-16T23:53:27Z,jubilee,Jubilee,10,Good Service,,
+2026-10-16T23:53:27Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-16T23:53:27Z,northern,Northern,10,Good Service,,
+2026-10-16T23:53:27Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays due to a customer incident at Arnos Grove. Tickets are being accepted on, London Buses, Elizabeth line, Weaver line and Great Northern services.",RealTime
+2026-10-16T23:53:27Z,victoria,Victoria,10,Good Service,,
+2026-10-16T23:53:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-10-17T00:08:27Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-17T00:08:27Z,central,Central,10,Good Service,,
+2026-10-17T00:08:27Z,circle,Circle,10,Good Service,,
+2026-10-17T00:08:27Z,district,District,10,Good Service,,
+2026-10-17T00:08:27Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-17T00:08:27Z,jubilee,Jubilee,10,Good Service,,
+2026-10-17T00:08:27Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-17T00:08:27Z,northern,Northern,10,Good Service,,
+2026-10-17T00:08:27Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate.",PlannedWork
+2026-10-17T00:08:27Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays due to a customer incident at Arnos Grove. Tickets are being accepted on, London Buses, Elizabeth line, Weaver line and Great Northern services.",RealTime
+2026-10-17T00:08:27Z,victoria,Victoria,10,Good Service,,
+2026-10-17T00:08:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-10-17T00:23:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-17T00:23:27Z,central,Central,10,Good Service,,
+2026-10-17T00:23:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-17T00:23:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning. There will be no service between Turnham Green and Ealing Broadway due to planned engineering work.,RealTime
+2026-10-17T00:23:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-17T00:23:27Z,jubilee,Jubilee,10,Good Service,,
+2026-10-17T00:23:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-17T00:23:27Z,northern,Northern,10,Good Service,,
+2026-10-17T00:23:27Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate.",PlannedWork
+2026-10-17T00:23:27Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays due to a customer incident at Arnos Grove. Tickets are being accepted on, London Buses, Elizabeth line, Weaver line and Great Northern services.",RealTime
+2026-10-17T00:23:27Z,victoria,Victoria,10,Good Service,,
+2026-10-17T00:23:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-10-17T00:38:29Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-17T00:38:29Z,central,Central,10,Good Service,,
+2026-10-17T00:38:29Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-17T00:38:29Z,district,District,20,Service Closed,District Line: Service will resume later this morning. There will be no service between Turnham Green and Ealing Broadway due to planned engineering work.,RealTime
+2026-10-17T00:38:29Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-17T00:38:29Z,jubilee,Jubilee,10,Good Service,,
+2026-10-17T00:38:29Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-17T00:38:29Z,northern,Northern,10,Good Service,,
+2026-10-17T00:38:29Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate.",PlannedWork
+2026-10-17T00:38:29Z,victoria,Victoria,10,Good Service,,
+2026-10-17T00:38:29Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-10-17T01:15:43Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-17T01:15:43Z,central,Central,10,Good Service,,
+2026-10-17T01:15:43Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-17T01:15:43Z,district,District,20,Service Closed,District Line: Service will resume later this morning. There will be no service between Turnham Green and Ealing Broadway due to planned engineering work.,RealTime
+2026-10-17T01:15:43Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-17T01:15:43Z,jubilee,Jubilee,10,Good Service,,
+2026-10-17T01:15:43Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-17T01:15:43Z,northern,Northern,10,Good Service,,
+2026-10-17T01:15:43Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate.",PlannedWork
+2026-10-17T01:15:43Z,victoria,Victoria,10,Good Service,,
+2026-10-17T01:15:43Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-10-17T01:23:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-17T01:23:27Z,central,Central,10,Good Service,,
+2026-10-17T01:23:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-17T01:23:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning. There will be no service between Turnham Green and Ealing Broadway due to planned engineering work.,RealTime
+2026-10-17T01:23:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-17T01:23:27Z,jubilee,Jubilee,10,Good Service,,
+2026-10-17T01:23:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-17T01:23:27Z,northern,Northern,10,Good Service,,
+2026-10-17T01:23:27Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate.",PlannedWork
+2026-10-17T01:23:27Z,victoria,Victoria,10,Good Service,,
+2026-10-17T01:23:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-10-17T01:38:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-17T01:38:27Z,central,Central,10,Good Service,,
+2026-10-17T01:38:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-17T01:38:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning. There will be no service between Turnham Green and Ealing Broadway due to planned engineering work.,RealTime
+2026-10-17T01:38:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-17T01:38:27Z,jubilee,Jubilee,10,Good Service,,
+2026-10-17T01:38:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-17T01:38:27Z,northern,Northern,10,Good Service,,
+2026-10-17T01:38:27Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate.",PlannedWork
+2026-10-17T01:38:27Z,victoria,Victoria,10,Good Service,,
+2026-10-17T01:38:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-10-17T01:53:27Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-17T01:53:27Z,central,Central,10,Good Service,,
+2026-10-17T01:53:27Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-17T01:53:27Z,district,District,20,Service Closed,District Line: Service will resume later this morning. There will be no service between Turnham Green and Ealing Broadway due to planned engineering work.,RealTime
+2026-10-17T01:53:27Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-17T01:53:27Z,jubilee,Jubilee,10,Good Service,,
+2026-10-17T01:53:27Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-17T01:53:27Z,northern,Northern,10,Good Service,,
+2026-10-17T01:53:27Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate.",PlannedWork
+2026-10-17T01:53:27Z,victoria,Victoria,10,Good Service,,
+2026-10-17T01:53:27Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime

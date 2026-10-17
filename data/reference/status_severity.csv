@@ -1,0 +1,22 @@
+status_severity,status_description,status_category,is_disruption,priority_rank
+1,Closed,suspended,true,1
+2,Suspended,suspended,true,1
+16,Not Running,suspended,true,1
+3,Part Suspended,suspended,true,2
+6,Severe Delays,delay,true,3
+4,Planned Closure,planned_works,false,4
+5,Part Closure,planned_works,false,4
+11,Part Closed,planned_works,false,4
+7,Reduced Service,delay,true,5
+8,Bus Service,planned_works,false,5
+15,Diverted,other,false,5
+9,Minor Delays,delay,true,6
+17,Issues Reported,delay,true,6
+0,Special Service,other,false,7
+12,Exit Only,other,false,7
+13,No Step Free Access,other,false,7
+14,Change of frequency,other,false,7
+19,Information,other,false,7
+10,Good Service,good,false,8
+18,No Issues,good,false,8
+20,Service Closed,service_closed,false,9
