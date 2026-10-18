@@ -1,0 +1,45 @@
+{
+  "name": "TfL Delay Analytics",
+  "dataColors": [
+    "#2a78d6", "#eb6834", "#1baf7a", "#eda100",
+    "#e87ba4", "#008300", "#6250d6", "#e34948"
+  ],
+  "background": "#fcfcfb",
+  "foreground": "#0b0b0b",
+  "tableAccent": "#2a78d6",
+  "good": "#0ca30c",
+  "neutral": "#fab219",
+  "bad": "#d03b3b",
+  "minimum": "#cde2fb",
+  "center": "#5598e7",
+  "maximum": "#0d366b",
+  "textClasses": {
+    "callout": { "fontFace": "Segoe UI", "fontSize": 28, "color": "#0b0b0b" },
+    "title":   { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#0b0b0b" },
+    "header":  { "fontFace": "Segoe UI Semibold", "fontSize": 11, "color": "#0b0b0b" },
+    "label":   { "fontFace": "Segoe UI", "fontSize": 10, "color": "#52514e" }
+  },
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#f9f9f7" } }, "transparency": 0 }]
+      }
+    },
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#fcfcfb" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#e1e0d9" } }, "radius": 6 }],
+        "valueAxis": [{
+          "gridlineShow": true,
+          "gridlineColor": { "solid": { "color": "#e1e0d9" } },
+          "gridlineStyle": "solid",
+          "labelColor": { "solid": { "color": "#898781" } }
+        }],
+        "categoryAxis": [{
+          "gridlineShow": false,
+          "labelColor": { "solid": { "color": "#52514e" } }
+        }]
+      }
+    }
+  }
+}

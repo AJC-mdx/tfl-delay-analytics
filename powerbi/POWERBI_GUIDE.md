@@ -347,4 +347,140 @@ Delete the test visuals when done and **Save**.
 
 ## 3.4 Design the dashboard
 
-*Coming next.*
+A single page that answers four questions at a glance: **How often are there delays? How quickly does service recover? When and where are delays worst? Does rain make it worse?**
+
+### Design rules (and why)
+
+- **One accent colour.** Every bar uses the same blue. Lines are identified by **name**, not colour. TfL has 11 line colours, which is too many to tell apart (especially for colour-blind viewers), and several (Circle yellow, Hammersmith & City pink) are unreadable on white.
+- **Heatmap = one colour, light → dark.** Light blue = rare delays, dark blue = frequent. Never a rainbow.
+- **Never two y-axes.** Power BI's "Line and clustered column" chart tempts you to put Delay Rate and Risk on two scales. Don't: two scales invent correlations that aren't in the data. Show extra numbers in labels or tooltips instead.
+- **Titles say what the chart shows**, and the main ones update with the data (Step 3).
+- **Recessive chrome.** Light hairline gridlines, no heavy borders, plenty of white space.
+
+### Step 1: Apply the theme
+
+1. **View → Themes → Browse for themes** → choose `powerbi/tfl_theme.json`.
+2. **View → Page view → Fit to page**. Leave the page size at the default **16:9 (1280 × 720)**.
+
+The theme sets the colours, fonts (Segoe UI), soft card backgrounds and light gridlines for every visual, so you don't format each one by hand.
+
+### Step 2: Layout
+
+Build this on a 1280 × 720 page. Sizes are a guide (set them in **Format → General → Properties → Size and position**):
+
+```
+ x=16                                                               x=1264
+ ┌────────────────────────────────┬──────────────┬───────────┬───────────┐ y=16
+ │ London Underground Delays      │ Data source  │ Date range│ Line      │ h=56
+ │ (text box)                     │ (slicer)     │ (slicer)  │ (slicer)  │
+ ├────────────────────────────────┴──────────────┴───────────┴───────────┤ y=80
+ │ ⚠ Data Banner (card)                                                   │ h=32
+ ├─────────────────┬─────────────────┬─────────────────┬─────────────────┤ y=124
+ │ Delay Rate      │ MTTR (min)      │ Delays          │ Weather Delay   │ h=96
+ │                 │                 │                 │ Risk            │ w=302 each
+ ├─────────────────┴─────────────────┴───┬─────────────┴─────────────────┤ y=236
+ │ HEATMAP: line × hour of day           │ Delay rate by rain            │ h=260
+ │ (matrix)  w=760                       │ (bar chart)  w=472            │
+ ├───────────────────────────────────────┼───────────────────────────────┤ y=508
+ │ Lines ranked (table)  w=760           │ Top delay reasons (bar chart) │ h=180
+ ├───────────────────────────────────────┴───────────────────────────────┤ y=696
+ │ footer text                                                            │ h=20
+ └────────────────────────────────────────────────────────────────────────┘
+```
+
+Keep **16px gaps** between everything (the numbers above already include them).
+
+### Step 3: Add the dynamic-title measures
+
+Add these to `_Measures` (same as in 3.3). They make chart titles state the current finding, and they update when you change the slicers or when live data arrives.
+
+```dax
+Title Heatmap =
+VAR TopHour = TOPN ( 1, VALUES ( dim_hour[hour_label] ), [Delay Rate], DESC )
+RETURN
+    IF ( ISBLANK ( [Delays Started] ), "No delays in this selection",
+        "Delays are most likely around " & CONCATENATEX ( TopHour, dim_hour[hour_label], ", " ) )
+```
+
+```dax
+Title Rain =
+IF ( ISBLANK ( [Weather Delay Risk] ), "Delay rate by rain in the previous hour",
+    "Delays are " & FORMAT ( [Weather Delay Risk], "0.0" ) & "× as likely after rain" )
+```
+
+```dax
+Title Lines =
+VAR TopLine = TOPN ( 1, VALUES ( dim_line[line_name] ), [Delay Rate], DESC )
+RETURN
+    IF ( ISBLANK ( [Delays Started] ), "Lines ranked by delay rate",
+        CONCATENATEX ( TopLine, dim_line[line_name], " & " ) & " has the highest delay rate" )
+```
+
+To use one as a title: select the visual → **Format → General → Title → Text → fx** (conditional formatting) → **Format style: Field value** → choose the measure.
+
+### Step 4: Build each visual
+
+**Title text box** (Insert → Text box): "London Underground Delays", 20pt Segoe UI Semibold. Under it, add **+ Value** → `Data Coverage` (the dynamic text from 3.3), 10pt grey.
+
+**Slicers** (top right, one row, so all filters sit together above everything they control):
+
+| Slicer | Field | Settings |
+|---|---|---|
+| Data source | `dim_data_source[data_source_label]` | **Format → Slicer settings → Style: Tile**, **Single select: On**. Select **Simulated (mock data)** before saving. |
+| Date range | `dim_date[date]` | Style: **Between** |
+| Line | `dim_line[line_name]` | Style: **Dropdown**, multi-select, **Select all** option on |
+
+**Data banner** (Card): field `Data Banner`. Turn the category label off. Callout font 12pt. This keeps "SIMULATED DATA" visible on every screenshot.
+
+**KPI cards** (four Cards, or the newer **Card** visual with multiple values):
+
+| Card | Measure | Label under the number |
+|---|---|---|
+| 1 | `Delay Rate` | "chance of a new delay per line, per hour" |
+| 2 | `MTTR (min)` | "average minutes to recover" |
+| 3 | `Delays` | "delays recorded" |
+| 4 | `Weather Delay Risk` | "delay risk after rain vs dry" |
+
+Use the theme's callout size (28pt). No icons or extra colour; the number is the point.
+
+**Heatmap** (Matrix):
+- **Rows:** `dim_line[line_name]` · **Columns:** `dim_hour[hour_label]` · **Values:** `Delay Rate`
+- **Format → Cell elements → Background color → On → fx**: Format style **Gradient**, based on `Delay Rate`. Lowest value `#cde2fb`, highest value `#2a78d6`. (Stopping at this mid-blue keeps any black text readable.)
+- **Hide the numbers in the cells.** 264 numbers is noise. Turn **Font color → fx** on with the **same gradient** as the background, so the text disappears into the cell. Values still show on hover (tooltip) and in **Show as a table**.
+- Turn off row/column **subtotals**. Shrink column width so all 24 hours fit (about 26px each).
+- **Title:** `Title Heatmap` (Step 3).
+
+**Delay rate by rain** (Clustered bar chart):
+- **Y-axis:** `fct_line_hour[rain_band]` (sorts Dry → Heavy thanks to the sort column from 3.2) · **X-axis:** `Delay Rate`
+- **Tooltips:** add `Risk vs Dry` and `Running Line-Hours`, so hovering shows "2.4×" and how much data the bar is based on.
+- **Data labels: On** (shows the rate at the end of each bar).
+- One colour: leave the default blue. Do **not** add `Risk vs Dry` as a second axis.
+- **Title:** `Title Rain`
+
+**Lines ranked** (Table):
+- Columns: `dim_line[line_name]`, `Delay Rate`, `Delays`, `MTTR (min)`, `Longest Delay (min)`
+- Sort by `Delay Rate`, descending.
+- **Cell elements → Data bars** on `Delay Rate` (positive bar colour `#2a78d6`). This makes the ranking visible at a glance without a separate chart.
+- **Title:** `Title Lines`
+
+**Top delay reasons** (Clustered bar chart):
+- **Y-axis:** `fct_delay_episodes[first_reason]` · **X-axis:** `Delays` · sort by `Delays` descending
+- Data labels on · Title: "What causes delays"
+- *(With live data, TfL's reason text is long and varied. We may group it into categories later.)*
+
+**Footer** (Text box, 8pt grey):
+> Powered by TfL Open Data · Weather data by Open-Meteo.com (CC BY 4.0) · Bank holidays: GOV.UK · Not affiliated with Transport for London
+
+The attributions are **required** by TfL's and Open-Meteo's terms. Don't use TfL's logo or roundel (they're trademarks).
+
+### Step 5: Accessibility and finishing touches
+
+- **Alt text:** for each visual, **Format → General → Alt text**: one sentence on what it shows (e.g. "Heatmap of delay rate by Tube line and hour of day"). Screen readers use this; recruiters notice it.
+- **Show as a table:** every visual has it built in (right-click → Show as a table), which gives a text version of every chart.
+- **Tab order:** **View → Selection → Tab order**, arranged top-left to bottom-right.
+- **Check the numbers again** with the slicer on **Simulated**: the KPI cards should match the 3.3 table (Delay Rate 7.5%, MTTR 65, Delays 113, Weather Delay Risk 1.5×).
+- Make sure **Simulated** is selected in the data-source slicer, then **Save**.
+
+### Step 6: Screenshot it
+
+**File → Export → Export to PDF**, or take a screenshot of the page (`Win + Shift + S`). Save as `powerbi/dashboard_mock.png`. We'll use it in the README (5.2). Because the banner says SIMULATED DATA, the screenshot can't be mistaken for real results.
