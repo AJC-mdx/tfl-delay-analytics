@@ -494,3 +494,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-18T23:35:49Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 17, from 0100, and all day Sunday 18 October, including Friday and Saturday Night Tube, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow, and for connections between terminals. Replacement bus services operate.",PlannedWork
 2026-10-18T23:35:49Z,victoria,Victoria,10,Good Service,,
 2026-10-18T23:35:49Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-10-19T01:38:11Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-19T01:38:11Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-19T01:38:11Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-19T01:38:11Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-10-19T01:38:11Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-19T01:38:11Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-19T01:38:11Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-19T01:38:11Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-19T01:38:11Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-19T01:38:11Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-19T01:38:11Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
