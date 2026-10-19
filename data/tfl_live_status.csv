@@ -527,3 +527,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-19T14:36:26Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-19T14:36:26Z,victoria,Victoria,10,Good Service,,
 2026-10-19T14:36:26Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-19T20:10:44Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-19T20:10:44Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-19T20:10:44Z,circle,Circle,10,Good Service,,
+2026-10-19T20:10:44Z,district,District,10,Good Service,,
+2026-10-19T20:10:44Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-19T20:10:44Z,jubilee,Jubilee,10,Good Service,,
+2026-10-19T20:10:44Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Moor Park and Watford / Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-19T20:10:44Z,northern,Northern,10,Good Service,,
+2026-10-19T20:10:44Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-19T20:10:44Z,victoria,Victoria,10,Good Service,,
+2026-10-19T20:10:44Z,waterloo-city,Waterloo & City,10,Good Service,,
