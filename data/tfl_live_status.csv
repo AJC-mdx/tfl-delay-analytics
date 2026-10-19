@@ -505,3 +505,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-19T01:38:11Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
 2026-10-19T01:38:11Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
 2026-10-19T01:38:11Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-19T06:57:32Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-19T06:57:32Z,central,Central,6,Severe Delays,"Central Line: Severe delays between Leytonstone and Epping / Hainault (via Newbury Park), and MINOR DELAYS on the rest of the line due to an earlier faulty train at Stratford.",RealTime
+2026-10-19T06:57:32Z,circle,Circle,10,Good Service,,
+2026-10-19T06:57:32Z,district,District,10,Good Service,,
+2026-10-19T06:57:32Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-19T06:57:32Z,jubilee,Jubilee,10,Good Service,,
+2026-10-19T06:57:32Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-19T06:57:32Z,northern,Northern,10,Good Service,,
+2026-10-19T06:57:32Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-19T06:57:32Z,victoria,Victoria,10,Good Service,,
+2026-10-19T06:57:32Z,waterloo-city,Waterloo & City,10,Good Service,,
