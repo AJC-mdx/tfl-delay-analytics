@@ -960,3 +960,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-20T09:45:39Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-20T09:45:39Z,victoria,Victoria,10,Good Service,,
 2026-10-20T09:45:39Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-20T10:01:06Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-20T10:01:06Z,central,Central,9,Minor Delays,Central Line: Minor delays due to an earlier faulty train at Queensway.,RealTime
+2026-10-20T10:01:06Z,circle,Circle,3,Part Suspended,"Circle Line: No service clockwise only due to an earlier signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line.",RealTime
+2026-10-20T10:01:06Z,district,District,6,Severe Delays,"District Line: Severe delays due to an earlier signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line.",RealTime
+2026-10-20T10:01:06Z,hammersmith-city,Hammersmith & City,6,Severe Delays,"Hammersmith and City Line: Severe delays due to an earlier signal failure at Mansion House.  Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line.",RealTime
+2026-10-20T10:01:06Z,jubilee,Jubilee,10,Good Service,,
+2026-10-20T10:01:06Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-20T10:01:06Z,northern,Northern,10,Good Service,,
+2026-10-20T10:01:06Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-20T10:01:06Z,victoria,Victoria,10,Good Service,,
+2026-10-20T10:01:06Z,waterloo-city,Waterloo & City,10,Good Service,,
