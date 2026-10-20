@@ -926,3 +926,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-20T09:01:02Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-20T09:01:02Z,victoria,Victoria,10,Good Service,,
 2026-10-20T09:01:02Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-20T09:15:38Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-20T09:15:38Z,central,Central,9,Minor Delays,Central Line: Minor delays while we fix a faulty train at Queensway.,RealTime
+2026-10-20T09:15:38Z,circle,Circle,9,Minor Delays,Circle Line: Minor delays clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise.,RealTime
+2026-10-20T09:15:38Z,district,District,9,Minor Delays,District Line: Minor delays between Upminster and Earl's Court westbound only while we fix a signal fault at Mansion house. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-20T09:15:38Z,hammersmith-city,Hammersmith & City,9,Minor Delays,Hammersmith and City Line: Minor delays westbound only while we fix a signal failure at Mansion House. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-20T09:15:38Z,jubilee,Jubilee,10,Good Service,,
+2026-10-20T09:15:38Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-20T09:15:38Z,northern,Northern,3,Part Suspended,Northern Line: No service between Camden Town and Kennington via Bank northbound only while respond to a fire alert at Moorgate. Tickets are being accepted on London Buses and Southeastern services. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-20T09:15:38Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-20T09:15:38Z,victoria,Victoria,10,Good Service,,
+2026-10-20T09:15:38Z,waterloo-city,Waterloo & City,10,Good Service,,
