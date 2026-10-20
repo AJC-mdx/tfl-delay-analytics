@@ -1,0 +1,25 @@
+{
+  "source": "mock",
+  "trained_at_utc": "2026-10-20 20:16:11",
+  "cutoff_utc": "2024-03-09 06:00:00",
+  "train_rows": 13650,
+  "test_rows": 4550,
+  "base_rate": 0.0726,
+  "results": {
+    "Baseline (always the average rate)": {
+      "roc_auc": 0.5,
+      "pr_auc": 0.073,
+      "brier": 0.0673
+    },
+    "Logistic regression": {
+      "roc_auc": 0.581,
+      "pr_auc": 0.106,
+      "brier": 0.0668
+    },
+    "XGBoost": {
+      "roc_auc": 0.608,
+      "pr_auc": 0.121,
+      "brier": 0.0659
+    }
+  }
+}

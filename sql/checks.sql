@@ -66,6 +66,16 @@ WHERE f.d           NOT IN (SELECT date FROM dim_date)
    OR f.data_source NOT IN (SELECT data_source FROM dim_data_source)
 
 UNION ALL
+-- ML leakage guard: the "status at start" snapshot must be BEFORE the hour
+SELECT 'ml: feature uses data from inside the hour (leakage)', COUNT(*)
+FROM fct_ml_features
+WHERE start_snapshot_utc >= hour_utc
+
+UNION ALL
+SELECT 'ml: duplicate line-hour', COUNT(*)
+FROM (SELECT data_source, line_id, hour_utc FROM fct_ml_features GROUP BY ALL HAVING COUNT(*) > 1)
+
+UNION ALL
 SELECT 'weather: duplicate hour', COUNT(*)
 FROM (SELECT hour_utc FROM stg_weather GROUP BY 1 HAVING COUNT(*) > 1)
 

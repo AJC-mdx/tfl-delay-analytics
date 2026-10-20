@@ -322,24 +322,26 @@ Put a **Slicer** with `dim_data_source[data_source_label]` on the page and selec
 
 | Measure | Expected (mock data) |
 |---|---|
-| Running Line-Hours | 1,512 |
-| Delays Started | 113 |
-| Delays | 113 |
-| Confirmed Delays | 113 |
-| Delay Rate | 7.5% |
-| Disrupted Hours % | 8.1% |
-| Service Availability % | 91.9% |
-| MTTR (min) | 65 |
+| Running Line-Hours | 19,656 |
+| Delays Started | 1,325 |
+| Delays | 1,325 |
+| Confirmed Delays | 1,324 |
+| Delay Rate | 6.7% |
+| Disrupted Hours % | 7.4% |
+| Service Availability % | 92.6% |
+| MTTR (min) | 66 |
 | Longest Delay (min) | 180 |
-| Delay Rate (Wet) | 10.1% |
-| Delay Rate (Dry) | 6.6% |
-| Weather Delay Risk | 1.5× |
+| Delay Rate (Wet) | 9.6% |
+| Delay Rate (Dry) | 6.0% |
+| Weather Delay Risk | 1.6× |
+
+*(Updated 20 Oct 2026 when the mock data was extended from 1 week to 3 months, Jan–Mar 2024. The first version used 1 week: 1,512 line-hours, 113 delays, 7.5%, 1.5×.)*
 
 Then add a **Table** with `fct_line_hour[rain_band]`, `Delay Rate` and `Risk vs Dry`. **Dry** should show **1.0×**, and no row should be blank.
 
 If any number differs, check (in this order): the slicer is on Simulated, the relationships from 3.2 (all *:1, Single), and that the formula was pasted completely.
 
-> **Why "Weather Delay Risk" is 1.5× rather than the ~2.4× from 2.4:** here *wet* includes **light** rain (≤ 0.5 mm), which in the mock data has no effect, so it dilutes the result. The 2.4× figure was for moderate rain only. The rain-band table shows both views. The measure uses "any rain" on purpose, because it's a neutral definition we didn't pick to match the mock rule.
+> **Why "Weather Delay Risk" is 1.6× rather than the ~2.4× from 2.4:** here *wet* includes **light** rain (≤ 0.5 mm), which in the mock data has no effect, so it dilutes the result. The 2.4× figure was for moderate rain only. The rain-band table shows both views. The measure uses "any rain" on purpose, because it's a neutral definition we didn't pick to match the mock rule.
 
 Delete the test visuals when done and **Save**.
 
@@ -478,7 +480,7 @@ The attributions are **required** by TfL's and Open-Meteo's terms. Don't use TfL
 - **Alt text:** for each visual, **Format → General → Alt text**: one sentence on what it shows (e.g. "Heatmap of delay rate by Tube line and hour of day"). Screen readers use this; recruiters notice it.
 - **Show as a table:** every visual has it built in (right-click → Show as a table), which gives a text version of every chart.
 - **Tab order:** **View → Selection → Tab order**, arranged top-left to bottom-right.
-- **Check the numbers again** with the slicer on **Simulated**: the KPI cards should match the 3.3 table (Delay Rate 7.5%, MTTR 65, Delays 113, Weather Delay Risk 1.5×).
+- **Check the numbers again** with the slicer on **Simulated**: the KPI cards should match the 3.3 table (Delay Rate 6.7%, MTTR 66, Delays 1,325, Weather Delay Risk 1.6×).
 - Make sure **Simulated** is selected in the data-source slicer, then **Save**.
 
 ### Step 6: Screenshot it

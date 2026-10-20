@@ -75,10 +75,22 @@
 ## Phase 4: The Data Science Upgrade (Machine Learning)
 **Goal:** Train an AI model to predict delays before they happen.
 
-- [ ] **4.1 Feature Engineering:** Use Python to create predictive columns (e.g., "Is it Rush Hour?", "Did it rain in the last 3 hours?").
-- [ ] **4.2 Train the Model:** Train a classification model (like XGBoost) using scikit-learn to predict if a line will be delayed.
-- [ ] **4.3 Explain the Model:** Use a tool called SHAP to visualize why the model made its prediction (e.g., "The model predicted a delay because wind speeds were high").
-- [ ] **4.4 Export Predictions:** Save the model's predictions back into your SQL database.
+> **Built and validated on mock data (20 Oct 2026).** To run on real data once enough is collected (~3–4 weeks, more is better): `python refresh.py` then `python train_model.py --source live`. The script refuses to train until there are 30+ delays in both the train and test periods.
+>
+> To test the model properly, the mock data was extended from 1 week to **3 months (Jan–Mar 2024)**: `generate_tfl_history.py` now downloads its own weather and uses a fixed random seed, so it is reproducible. Same rule as before (5% → 15% when rain > 0.5 mm or wind > 25 km/h). Dashboard numbers changed as a result; the expected values in `powerbi/POWERBI_GUIDE.md` 3.3 are updated. **Refresh Power BI and retake `dashboard_mock.png`.**
+
+- [x] **4.1 Feature Engineering:** Use Python to create predictive columns (e.g., "Is it Rush Hour?", "Did it rain in the last 3 hours?").
+  - *Done:* `sql/11_fct_ml_features.sql` → `fct_ml_features`. Question: *"the line is running normally at the start of the hour, will a new delay start during it?"* (hours already disrupted at the start are excluded, otherwise the model just learns "already delayed → no new delay").
+  - Features (all known at the start of the hour, so no **data leakage**): hour of day, day of week, weekend, bank holiday, rush hour, line, rain in previous hour / 3 hours, wind, temperature, delays on the line in the last 24h, other lines disrupted last hour. Start-of-hour status uses an **ASOF join** to the last snapshot strictly before the hour.
+  - Two new quality checks: no feature uses data from inside the hour (leakage guard), no duplicate line-hours.
+- [x] **4.2 Train the Model:** Train a classification model (like XGBoost) using scikit-learn to predict if a line will be delayed.
+  - *Done:* `train_model.py`. **Time-based split** (train on the first 75% of hours, test on the last 25%; never random). XGBoost with **early stopping** on a time-based validation slice (kept 72 trees) vs two baselines. Scored with ROC-AUC and PR-AUC (accuracy is useless at ~7% positives).
+  - Mock results (test set): baseline ROC-AUC 0.500 / PR-AUC 0.073 · logistic regression 0.581 / 0.106 · **XGBoost 0.608 / 0.121**. The best possible on this data (a model that knows the exact mock rule) is **0.620**, so XGBoost captures nearly all of the available signal. It beats logistic regression because the rule is a threshold, which trees handle naturally.
+  - Risk bands on unseen test hours: **High → 16.2%** actual delays vs **Normal → 5.5%**.
+- [x] **4.3 Explain the Model:** Use a tool called SHAP to visualize why the model made its prediction (e.g., "The model predicted a delay because wind speeds were high").
+  - *Done:* `ml/mock/shap_importance.png` (overall drivers), `shap_beeswarm.png` (how each feature's value moves risk), `shap_example_prediction.png` (why one hour was rated high-risk). SHAP values come from XGBoost's exact TreeSHAP. **Wind and rain in the previous hour are the top two drivers, matching the mock rule**; rush hour, weekend and bank holiday ≈ 0. Early stopping cut the noise the first version picked up from hour of day and temperature.
+- [x] **4.4 Export Predictions:** Save the model's predictions back into your SQL database.
+  - *Done:* table `ml_predictions` in `tfl.duckdb` and `powerbi/data/fct_ml_predictions.parquet`: predicted risk, risk vs average, risk band (Normal / Elevated / High), top risk factor (from SHAP), actual outcome, and `dataset_split` (train/test; only **test** rows show honest performance). Metrics and the model are saved in `ml/<source>/`.
 
 ## Phase 5: The Portfolio Showcase (Packaging)
 **Goal:** Make the project irresistible to a recruiter who only has 30 seconds to look at it.
