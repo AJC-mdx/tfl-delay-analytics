@@ -1639,3 +1639,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-20T22:45:36Z,piccadilly,Piccadilly,9,Minor Delays,"Piccadilly Line: Severe delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier security alert. Tickets are being accepted on London Buses, Elizabeth line, Weaver Line, Great Northern and South Western Railway. MINOR DELAYS on the rest of the line.",RealTime
 2026-10-20T22:45:36Z,victoria,Victoria,10,Good Service,,
 2026-10-20T22:45:36Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-20T23:01:01Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-20T23:01:01Z,central,Central,6,Severe Delays,"Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.",RealTime
+2026-10-20T23:01:01Z,circle,Circle,10,Good Service,,
+2026-10-20T23:01:01Z,district,District,9,Minor Delays,"District Line: Severe delays between Ealing Broadway and Upminster and MINOR DELAYS between Earl's Court and Wimbledon and between Turnham Green and Richmond due to an earlier signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, South Western Railway and Mildmay Line. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-20T23:01:01Z,district,District,6,Severe Delays,"District Line: Severe delays between Ealing Broadway and Upminster and MINOR DELAYS between Earl's Court and Wimbledon and between Turnham Green and Richmond due to an earlier signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, South Western Railway and Mildmay Line. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-20T23:01:01Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-20T23:01:01Z,jubilee,Jubilee,10,Good Service,,
+2026-10-20T23:01:01Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-20T23:01:01Z,northern,Northern,10,Good Service,,
+2026-10-20T23:01:01Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor due to an earlier security alert.,RealTime
+2026-10-20T23:01:01Z,victoria,Victoria,10,Good Service,,
+2026-10-20T23:01:01Z,waterloo-city,Waterloo & City,10,Good Service,,
