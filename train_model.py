@@ -296,14 +296,25 @@ def main():
         predictions["risk_vs_average"], bins=[-np.inf, 1.25, 1.75, np.inf],
         labels=["Normal", "Elevated", "High"],
     ).astype(str)
+    predictions["risk_band_order"] = predictions["risk_band"].map({"Normal": 1, "Elevated": 2, "High": 3})
+
+    # One row per model per source, for the dashboard's model-performance cards
+    model_metrics = pd.DataFrame([
+        {"data_source": source, "model": name, **scores, "test_rows": len(test),
+         "test_delays": int(test[TARGET].sum()), "trained_at_utc": trained_at}
+        for name, scores in results.items()
+    ])
 
     with duckdb.connect(str(DB_FILE)) as con:
-        con.register("new_predictions", predictions)
-        con.execute("CREATE TABLE IF NOT EXISTS ml_predictions AS SELECT * FROM new_predictions WHERE FALSE")
-        # replace this source's predictions, keep the other source's
-        con.execute("DELETE FROM ml_predictions WHERE data_source = ?", [source])
-        con.execute("INSERT INTO ml_predictions BY NAME SELECT * FROM new_predictions")
-        con.execute(f"COPY ml_predictions TO '{(POWERBI_DIR / 'fct_ml_predictions.parquet').as_posix()}' (FORMAT parquet)")
+        for table, frame, parquet in [("ml_predictions", predictions, "fct_ml_predictions"),
+                                      ("ml_model_metrics", model_metrics, "ml_model_metrics")]:
+            con.register("new_rows", frame)
+            con.execute(f"CREATE TABLE IF NOT EXISTS {table} AS SELECT * FROM new_rows WHERE FALSE")
+            # replace this source's rows, keep the other source's
+            con.execute(f"DELETE FROM {table} WHERE data_source = ?", [source])
+            con.execute(f"INSERT INTO {table} BY NAME SELECT * FROM new_rows")
+            con.execute(f"COPY {table} TO '{(POWERBI_DIR / f'{parquet}.parquet').as_posix()}' (FORMAT parquet)")
+            con.unregister("new_rows")
         saved = con.execute("SELECT COUNT(*) FROM ml_predictions WHERE data_source = ?", [source]).fetchone()[0]
 
     metrics = {"source": source, "trained_at_utc": trained_at, "cutoff_utc": str(pd.Timestamp(cutoff)),

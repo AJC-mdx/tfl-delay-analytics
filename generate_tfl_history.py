@@ -20,9 +20,7 @@ MOCK_START = "2024-01-01"
 MOCK_END = "2024-03-31"
 SEED = 42
 
-DATA_DIR = Path(__file__).resolve().parent / "data"
-WEATHER_FILE = DATA_DIR / "london_weather_sample.csv"
-OUTPUT_FILE = DATA_DIR / "tfl_history_sample.csv"
+OUTPUT_FILE = Path(__file__).resolve().parent / "data" / "tfl_history_sample.csv"
 
 TUBE_LINES = ["Bakerloo", "Central", "Circle", "District", "Jubilee",
               "Northern", "Piccadilly", "Victoria", "Waterloo & City"]
@@ -43,7 +41,8 @@ weather_df = pd.DataFrame({
     "rain_mm": hourly["precipitation"],
     "wind_kph": hourly["wind_speed_10m"],
 })
-weather_df.to_csv(WEATHER_FILE, index=False)
+# (get_weather.py downloads the same hours into data/london_weather.csv for
+# the database, so this copy is only used here and isn't saved)
 
 # 2. For every hour and line, roll the dice using the rule above
 print("Generating simulated TfL history...")

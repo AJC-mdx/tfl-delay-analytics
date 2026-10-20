@@ -486,3 +486,157 @@ The attributions are **required** by TfL's and Open-Meteo's terms. Don't use TfL
 ### Step 6: Screenshot it
 
 **File → Export → Export to PDF**, or take a screenshot of the page (`Win + Shift + S`). Save as `powerbi/dashboard_mock.png`. We'll use it in the README (5.2). Because the banner says SIMULATED DATA, the screenshot can't be mistaken for real results.
+
+---
+
+## 5.1 Page 2: the delay-prediction model
+
+This page answers: **Can we predict delays before they happen, and why?** It shows the model's predictions for hours it **never saw during training** (the test period), so the results are honest.
+
+First run `python train_model.py` (it creates two new files in `powerbi/data/`).
+
+### Step 1: Load the two new tables
+
+As in 3.1 Step 3 (Transform data → New Source → Blank Query → Advanced Editor):
+
+| Query name | File name |
+|---|---|
+| `fct_ml_predictions` | `fct_ml_predictions.parquet` (one row per line-hour: predicted risk, risk band, top risk factor, what actually happened) |
+| `ml_model_metrics` | `ml_model_metrics.parquet` (the model's test scores, plus the two baselines) |
+
+**Close & Apply.** Check that `fct_ml_predictions[date_london]` is a **date** and `hour_london` is **date/time**.
+
+### Step 2: Relationships, sorting, hiding
+
+In **Model view → Manage relationships → New**, all **Many to one, Single, Active**:
+
+| From | Column | To | Column |
+|---|---|---|---|
+| `fct_ml_predictions` | `date_london` | `dim_date` | `date` |
+| `fct_ml_predictions` | `hour_of_day` | `dim_hour` | `hour_of_day` |
+| `fct_ml_predictions` | `line_id` | `dim_line` | `line_id` |
+| `fct_ml_predictions` | `data_source` | `dim_data_source` | `data_source` |
+| `ml_model_metrics` | `data_source` | `dim_data_source` | `data_source` |
+
+Then:
+- **Sort** `fct_ml_predictions[risk_band]` by `risk_band_order` (so it reads Normal → Elevated → High).
+- **Hide** in `fct_ml_predictions`: `date_london`, `hour_of_day`, `line_id`, `data_source`, `risk_band_order`, `hour_utc`. In `ml_model_metrics`: `data_source`.
+
+### Step 3: Measures
+
+Add to `_Measures`:
+
+```dax
+Predicted Risk =
+AVERAGE ( fct_ml_predictions[predicted_risk] )
+```
+*Average chance of a new delay, according to the model.* Format: Percentage, 1 decimal.
+
+```dax
+Actual Delay Rate (Model) =
+AVERAGE ( fct_ml_predictions[actual_new_delay] )
+```
+*How often a new delay really started in those same hours.* Format: Percentage, 1 decimal.
+
+```dax
+Delay Rate When High Risk =
+CALCULATE ( [Actual Delay Rate (Model)], fct_ml_predictions[risk_band] = "High" )
+```
+
+```dax
+Delay Rate When Normal Risk =
+CALCULATE ( [Actual Delay Rate (Model)], fct_ml_predictions[risk_band] = "Normal" )
+```
+Format both: Percentage, 1 decimal.
+
+```dax
+Model Lift =
+DIVIDE ( [Delay Rate When High Risk], [Delay Rate When Normal Risk] )
+```
+*How many times more often delays really happen in hours the model flags as High risk.* Format: custom `0.0"×"`.
+
+```dax
+Model ROC-AUC =
+CALCULATE ( MAX ( ml_model_metrics[roc_auc] ), ml_model_metrics[model] = "XGBoost" )
+```
+*0.5 = no better than guessing, 1.0 = perfect.* Format: Decimal, 2 decimal places.
+
+```dax
+Hours Predicted =
+COUNTROWS ( fct_ml_predictions )
+```
+Format: Whole number.
+
+### Step 4: Build the page
+
+1. Right-click the page tab → **Duplicate page**. This keeps the title, banner, slicers and footer, all already styled. Rename the new page **Delay Risk Model** and delete everything except those.
+2. Change the title text to **"Predicting Delays Before They Happen"**, and the `Data Coverage` line to a text box: *"XGBoost model · results are for the most recent 25% of hours, which the model never saw during training"*.
+3. **Page filter** (Filters pane → **Filters on this page**): `fct_ml_predictions[dataset_split]` **is** `test`. This is what keeps the page honest.
+4. **Sync the slicers** with page 1: **View → Sync slicers**, tick both pages for the data source and line slicers.
+
+**Layout** (same page size as page 1):
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│ Title · subtitle                          │ Data source │ Line       │
+├──────────────────────────────────────────────────────────────────────┤
+│ ⚠ Data Banner                                                         │
+├────────────────┬────────────────┬────────────────┬───────────────────┤
+│ Model ROC-AUC  │ Delay rate:    │ Delay rate:    │ Model Lift        │
+│                │ High risk      │ Normal risk    │                   │
+├────────────────┴───────────┬────┴────────────────┴───────────────────┤
+│ Does the risk score match  │ What makes an hour high-risk?           │
+│ reality? (column chart)    │ (bar chart)                             │
+├────────────────────────────┴─────────────────────────────────────────┤
+│ Where and when the model expects delays (heatmap: line × hour)       │
+├──────────────────────────────────────────────────────────────────────┤
+│ footer                                                                │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+**KPI cards** (four):
+
+| Measure | Label |
+|---|---|
+| `Model ROC-AUC` | "ranking skill · 0.5 = guessing, 1 = perfect" |
+| `Delay Rate When High Risk` | "delays when the model says High risk" |
+| `Delay Rate When Normal Risk` | "delays when the model says Normal" |
+| `Model Lift` | "more delays in High-risk hours" |
+
+**Does the risk score match reality?** (Clustered column chart):
+- **X-axis:** `fct_ml_predictions[risk_band]` · **Y-axis:** `Predicted Risk` **and** `Actual Delay Rate (Model)`
+- Both are percentages on **one** axis (same units, so no second axis needed). Legend on, data labels on.
+- If the bars in each pair are similar heights, the model's percentages can be trusted (it is *calibrated*).
+- **Tooltip:** `Hours Predicted` (how much data each band is based on).
+
+**What makes an hour high-risk?** (Clustered bar chart):
+- **Y-axis:** `fct_ml_predictions[top_risk_factor]` · **X-axis:** `Hours Predicted`
+- **Filters on this visual:** `risk_band` **is** `High`. Sort descending, data labels on, one colour (blue).
+- This comes from SHAP: for each High-risk hour, the factor that pushed its risk up the most.
+
+**Where and when the model expects delays** (Matrix), the same as the page 1 heatmap:
+- Rows `dim_line[line_name]`, columns `dim_hour[hour_short]`, values `Predicted Risk`.
+- Same blue gradient on background **and** font colour, subtotals off.
+- Subtitle: "Darker = higher predicted risk · hover for values".
+
+*Optional:* **Insert → Image** → `ml/mock/shap_beeswarm.png` as a static "how each factor moves the risk" panel. It's an image, so it won't react to slicers. Its title already says SIMULATED DATA.
+
+### Step 5: Check the numbers
+
+With the data source on **Simulated** (and the page filter on `test`):
+
+| Measure | Expected (mock data) |
+|---|---|
+| Hours Predicted | 4,550 |
+| Model ROC-AUC | 0.61 |
+| Delay Rate When High Risk | 16.2% |
+| Delay Rate When Normal Risk | 5.5% |
+| Model Lift | 2.9× |
+| Predicted Risk / Actual (Normal) | 5.6% / 5.5% |
+| Predicted Risk / Actual (Elevated) | 11.3% / 16.2% |
+| Predicted Risk / Actual (High) | 15.2% / 16.2% |
+| High-risk hours by top factor | Wind speed 452, Rain in previous hour 73 |
+
+Add alt text to each visual (as in 3.4 Step 5), **Save**, and screenshot the page as `powerbi/dashboard_model_mock.png`.
+
+> **Live data:** the page will be empty for **Live** until you've collected enough data and run `python train_model.py --source live`.

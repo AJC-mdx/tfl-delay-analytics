@@ -6,7 +6,7 @@
 - [x] **1.1 Workspace Setup:** Create the project folder and install Python tools (requests, pandas).
   - *Done:* `TFL_project` folder created; Anaconda Python has pandas 3.0.3 and requests 2.34.2. PowerShell execution policy fixed so the Anaconda environment loads in new terminals.
 - [x] **1.2 "Hello World" API Call:** Write a 15-line Python script that successfully prints the live TfL status to your screen.
-  - *Done:* `test_tfl.py` calls the TfL API and prints the status of every Tube line.
+  - *Done:* `test_tfl.py` called the TfL API and printed the status of every Tube line. (Removed in 5.3; superseded by `collect_tfl_status.py`.)
 - [x] **1.3 Save to a File (Live Collector):** Upgrade the script so it saves that live status into a local CSV file or database.
   - TfL does not publish historical line status, so this script is how we build our **real** history.
   - *Done:* `collect_tfl_status.py` appends a timestamped (UTC) snapshot of every Tube line's status, severity code and disruption reason to `data/tfl_live_status.csv`. Each run is logged to `logs/collector.log`.
@@ -15,7 +15,7 @@
   - *Why:* the original Windows Task Scheduler task (14–17 Oct) only ran while the laptop was awake, about 00:00–03:00, when the Tube is closed, so it captured no service hours. That task is now **disabled** (not deleted) so the two collectors don't conflict. Real service-hours data starts 17 Oct 2026.
 - [x] **1.4 The Backfill (Mock Data for Now):** Historical TfL status data is not available, so we use mock data to build and test the rest of the pipeline while the live collector gathers real data.
   - *Done:*
-    - `get_weather.py` downloads hourly London weather from Open-Meteo → `data/london_weather_sample.csv` (currently 1–7 Jan 2024).
+    - `get_weather.py` downloaded hourly London weather from Open-Meteo for 1–7 Jan 2024. (Later extended to cover all mock and live dates; see 2.4 and Phase 4.)
     - `generate_tfl_history.py` creates **simulated** TfL status history based on the weather → `data/tfl_history_sample.csv`.
     - `data/StationFootfall_2024.csv` downloaded.
   - *Later:* once enough real data has been collected, swap the mock TfL history for the collected data (and download weather for the matching dates). Keep the mock and real data clearly labelled so the dashboard and model never mix them by accident.
@@ -43,8 +43,7 @@
   - Durations are accurate to the snapshot interval (15 min live, 1 hour mock). For averages like Mean Time To Recovery, use only `end_confirmed = true` episodes.
   - Two new quality checks: no negative durations, no overlapping episodes on the same line.
 - [x] **2.4 Weather Join:** Write a query that joins the weather data to the TfL data to see how rain impacts delays.
-  - *Done:* `get_weather.py` now downloads weather for every date we have TfL data for (mock week + live collection) into `data/london_weather.csv`, using Open-Meteo's archive plus its forecast service for the last 7 days (the archive runs ~5 days behind). **To update everything, run `python refresh.py`**: it runs `get_weather.py` then `load_database.py` and prints a summary (if the weather download fails, it still rebuilds the database with the existing weather). (`london_weather_sample.csv` is kept only as the input to the mock generator.)
-  - *Done:* `sql/05_fct_line_hour.sql` → `fct_line_hour`: one row per line per hour with `is_running` (closed hours excluded from rates), `new_delay_started`, `disrupted_share` and weather. Three rain columns because of timing (Open-Meteo rain at 10:00 = rain from 09:00–10:00): `rain_this_hour_mm` (same time as the delays), `rain_prev_hour_mm` and `rain_last_3h_mm` (known in advance, so the only ones usable for prediction in Phase 4).
+  - *Done:* `get_weather.py` now downloads weather for every date we have TfL data for (mock week + live collection) into `data/london_weather.csv`, using Open-Meteo's archive plus its forecast service for the last 7 days (the archive runs ~5 days behind). **To update everything, run `python refresh.py`**: it runs `get_weather.py` then `load_database.py` and prints a summary (if the weather download fails, it still rebuilds the database with the existing weather).  - *Done:* `sql/05_fct_line_hour.sql` → `fct_line_hour`: one row per line per hour with `is_running` (closed hours excluded from rates), `new_delay_started`, `disrupted_share` and weather. Three rain columns because of timing (Open-Meteo rain at 10:00 = rain from 09:00–10:00): `rain_this_hour_mm` (same time as the delays), `rain_prev_hour_mm` and `rain_last_3h_mm` (known in advance, so the only ones usable for prediction in Phase 4).
   - *Done:* `sql/06_rpt_weather_impact.sql` → `rpt_weather_impact`: delay rate and relative risk by rain band (Dry / Light / Moderate / Heavy) and wind band, with sample sizes.
   - *Validated on mock data:* the generator's built-in rule (5% → 15% delay chance when rain > 0.5 mm or wind > 25 km/h) was recovered as 5.6% → 14.7%, with the jumps at exactly the right thresholds. This proves the query works; it is **not** a real finding. Real conclusions come from live data.
   - Three new quality checks: running hours all have weather, no delays start in closed hours, no delays lost when grouping by hour.
@@ -96,5 +95,11 @@
 **Goal:** Make the project irresistible to a recruiter who only has 30 seconds to look at it.
 
 - [ ] **5.1 Update Power BI:** Add a second page to your dashboard showing the Machine Learning predictions.
-- [ ] **5.2 Write the README:** Write a professional summary for your GitHub page explaining the business value of your project.
-- [ ] **5.3 Clean the Code:** Remove leftover test code and add clear comments.
+  - *Done (data side):* `train_model.py` adds `risk_band_order` and a `ml_model_metrics` table (test scores for XGBoost and both baselines), both exported to `powerbi/data/`.
+  - *To do (you):* follow **`powerbi/POWERBI_GUIDE.md` → 5.1**: load 2 tables, 5 relationships, 7 measures, a "Delay Risk Model" page filtered to the **test** period (KPI cards, predicted vs actual by risk band, top risk factors, predicted-risk heatmap). Screenshot as `powerbi/dashboard_model_mock.png`.
+- [x] **5.2 Write the README:** Write a professional summary for your GitHub page explaining the business value of your project.
+  - *Done:* `README.md`: one-line summary, live collector status badge, project-status note (simulated vs real), dashboard screenshot, business value, pipeline diagram (Mermaid), skills table, key decisions (gaps and islands, overnight closures, leakage, honest evaluation, validation against a known rule), results table with SHAP charts, run instructions, project structure, data sources and attributions, limitations and next steps.
+  - *To do:* add the page 2 screenshot once 5.1 is done; replace the simulated results with real ones once enough live data is collected.
+- [x] **5.3 Clean the Code:** Remove leftover test code and add clear comments.
+  - *Done:* removed `test_tfl.py` (superseded by the collector) and `data/london_weather_sample.csv` (the mock generator now keeps its weather in memory). Added `requirements.txt` with pinned versions. Every script has a header docstring explaining what it does and how to run it, and every SQL file explains its rules. Confirmed the mock data regenerates byte-for-byte identically (fixed seed).
+  - *Optional:* delete the disabled Windows task "TfL Status Collector" (Task Scheduler → right-click → Delete); it's no longer needed.
