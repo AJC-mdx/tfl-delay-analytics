@@ -1396,3 +1396,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-20T17:56:39Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-20T17:56:39Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-20T17:56:39Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-20T18:01:02Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-20T18:01:02Z,central,Central,6,Severe Delays,"Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.",RealTime
+2026-10-20T18:01:02Z,circle,Circle,10,Good Service,,
+2026-10-20T18:01:02Z,district,District,6,Severe Delays,"District Line: Severe delays due to an earlier signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, South Western Railway and Mildmay Line.",RealTime
+2026-10-20T18:01:02Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-20T18:01:02Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to train cancellations.,RealTime
+2026-10-20T18:01:02Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays due to an earlier faulty train at Baker Street.,RealTime
+2026-10-20T18:01:02Z,northern,Northern,10,Good Service,,
+2026-10-20T18:01:02Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-20T18:01:02Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-20T18:01:02Z,waterloo-city,Waterloo & City,10,Good Service,,
