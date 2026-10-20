@@ -1091,3 +1091,17 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-20T12:15:38Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-20T12:15:38Z,victoria,Victoria,10,Good Service,,
 2026-10-20T12:15:38Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-20T12:30:51Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-20T12:30:51Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-20T12:30:51Z,circle,Circle,3,Part Suspended,"CIRCLE LINE: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line.",RealTime
+2026-10-20T12:30:51Z,circle,Circle,3,Part Suspended,"Circle Line: No service clockwise only while we fix a signal failure at Mansion House. GOOD SERVICE anticlockwise. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line.",RealTime
+2026-10-20T12:30:51Z,district,District,6,Severe Delays,"District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line.",RealTime
+2026-10-20T12:30:51Z,district,District,3,Part Suspended,"District Line: No service between Tower Hill and Earl's Court and SEVERE DELAYS on the rest of the line while we fix a signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line.",RealTime
+2026-10-20T12:30:51Z,hammersmith-city,Hammersmith & City,6,Severe Delays,"Hammersmith and City Line: No service between Paddington and Barking and SEVERE DELAYS on the rest of the line while we fix a signal failure at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line.",RealTime
+2026-10-20T12:30:51Z,hammersmith-city,Hammersmith & City,3,Part Suspended,"Hammersmith and City Line: No service between Paddington and Barking and SEVERE DELAYS on the rest of the line while we fix a signal failure at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line.",RealTime
+2026-10-20T12:30:51Z,jubilee,Jubilee,10,Good Service,,
+2026-10-20T12:30:51Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-20T12:30:51Z,northern,Northern,10,Good Service,,
+2026-10-20T12:30:51Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-20T12:30:51Z,victoria,Victoria,10,Good Service,,
+2026-10-20T12:30:51Z,waterloo-city,Waterloo & City,10,Good Service,,
