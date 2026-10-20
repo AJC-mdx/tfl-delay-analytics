@@ -65,8 +65,11 @@
   - *Done:* star schema with 8 many-to-one, single-direction relationships (both facts → `dim_date`, `dim_hour`, `dim_line`, `dim_data_source`); `dim_date` marked as date table; sort-by columns, summarization and hidden keys set (`powerbi/POWERBI_GUIDE.md` → 3.2).
 - [x] **3.3 Write DAX Measures:** Create formulas for "Mean Time To Recovery" and "Weather Delay Risk".
   - *Done:* `_Measures` table with base measures (Running Line-Hours, Delays Started, Delays, Confirmed Delays), headline measures (Delay Rate, Disrupted Hours %, Service Availability %, **MTTR** on confirmed delays only, Longest Delay), weather measures (Delay Rate Wet/Dry, **Weather Delay Risk**, Risk vs Dry using `REMOVEFILTERS` on the band and its sort column) and report labels (Data Banner, Data Coverage). All values match the SQL results (mock: Delay Rate 7.5%, MTTR 65 min, Weather Delay Risk 1.5×).
-- [ ] **3.4 Design the Dashboard:** Build a clean, 1-page visual report with heatmaps and KPIs.
-- [ ] **3.5 Milestone Reached:** At this point, you have a complete Data Analyst project ready for job applications.
+- [x] **3.4 Design the Dashboard:** Build a clean, 1-page visual report with heatmaps and KPIs.
+  - *Done:* one-page report in `powerbi/TfL_Delays.pbix` using `powerbi/tfl_theme.json`: filter row (data source / date / line), SIMULATED DATA banner, 4 KPI cards (Delay Rate, MTTR, Delays, Weather Delay Risk), line × hour heatmap (single-hue blue), delay rate by rain band, lines ranked table with data bars, top delay reasons, dynamic titles, alt text and data attributions (`powerbi/POWERBI_GUIDE.md` → 3.4).
+  - *To do:* save a screenshot as `powerbi/dashboard_mock.png` for the README.
+- [x] **3.5 Milestone Reached:** At this point, you have a complete Data Analyst project ready for job applications.
+  - *Reached 20 Oct 2026* with the full pipeline working end to end on mock data. Note: the headline numbers are simulated. Once a few weeks of live data are collected, switch the slicer to Live and refresh the screenshot; the real numbers are what make it compelling to recruiters.
 
 ## Phase 4: The Data Science Upgrade (Machine Learning)
 **Goal:** Train an AI model to predict delays before they happen.
