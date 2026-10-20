@@ -1663,3 +1663,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-20T23:15:37Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays due to an earlier security alert.,RealTime
 2026-10-20T23:15:37Z,victoria,Victoria,10,Good Service,,
 2026-10-20T23:15:37Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-20T23:30:51Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-20T23:30:51Z,central,Central,6,Severe Delays,"Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.",RealTime
+2026-10-20T23:30:51Z,circle,Circle,10,Good Service,,
+2026-10-20T23:30:51Z,district,District,9,Minor Delays,District Line: Minor delays between Tower Hill and Upminster eastbound only due to an earlier signal fault at Mansion House. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-20T23:30:51Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-20T23:30:51Z,jubilee,Jubilee,10,Good Service,,
+2026-10-20T23:30:51Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-20T23:30:51Z,northern,Northern,10,Good Service,,
+2026-10-20T23:30:51Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays due to an earlier security alert.,RealTime
+2026-10-20T23:30:51Z,victoria,Victoria,10,Good Service,,
+2026-10-20T23:30:51Z,waterloo-city,Waterloo & City,10,Good Service,,
