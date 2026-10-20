@@ -1473,3 +1473,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-20T19:30:51Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-20T19:30:51Z,victoria,Victoria,10,Good Service,,
 2026-10-20T19:30:51Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-20T19:45:38Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-20T19:45:38Z,central,Central,6,Severe Delays,"Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.",RealTime
+2026-10-20T19:45:38Z,circle,Circle,10,Good Service,,
+2026-10-20T19:45:38Z,district,District,6,Severe Delays,"District Line: Severe delays due to an earlier signal fault at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, South Western Railway and Mildmay Line.",RealTime
+2026-10-20T19:45:38Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-20T19:45:38Z,jubilee,Jubilee,10,Good Service,,
+2026-10-20T19:45:38Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-20T19:45:38Z,northern,Northern,10,Good Service,,
+2026-10-20T19:45:38Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line: No service between Hammersmith and Cockfosters Eastbound and between Cockfosters and King's Cross St. Pancras Westbound while we respond to a security alert. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-20T19:45:38Z,victoria,Victoria,10,Good Service,,
+2026-10-20T19:45:38Z,waterloo-city,Waterloo & City,10,Good Service,,
