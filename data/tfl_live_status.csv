@@ -915,3 +915,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-20T08:45:39Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-20T08:45:39Z,victoria,Victoria,10,Good Service,,
 2026-10-20T08:45:39Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-20T09:01:02Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-20T09:01:02Z,central,Central,9,Minor Delays,Central Line: Minor delays while we fix a faulty train at Queensway.,RealTime
+2026-10-20T09:01:02Z,circle,Circle,10,Good Service,,
+2026-10-20T09:01:02Z,district,District,10,Good Service,,
+2026-10-20T09:01:02Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-20T09:01:02Z,jubilee,Jubilee,10,Good Service,,
+2026-10-20T09:01:02Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-20T09:01:02Z,northern,Northern,3,Part Suspended,Northern Line: No service between Camden Town and Kennington via Bank northbound only while respond to a fire alert at Moorgate. Tickets are being accepted on London Buses and Southeastern services. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-20T09:01:02Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-20T09:01:02Z,victoria,Victoria,10,Good Service,,
+2026-10-20T09:01:02Z,waterloo-city,Waterloo & City,10,Good Service,,
