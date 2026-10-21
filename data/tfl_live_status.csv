@@ -1971,3 +1971,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-21T05:45:37Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Rayners Lane due to an earlier points failure at Northfields. GOOD SERVICE on the rest of the line.,RealTime
 2026-10-21T05:45:37Z,victoria,Victoria,10,Good Service,,
 2026-10-21T05:45:37Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-21T06:01:04Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-21T06:01:04Z,central,Central,10,Good Service,,
+2026-10-21T06:01:04Z,circle,Circle,10,Good Service,,
+2026-10-21T06:01:04Z,district,District,6,Severe Delays,District Line: Severe delays between  Earl's Court and Tower Hill  westbound only due to an earlier faulty train at Plaistow. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-21T06:01:04Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-21T06:01:04Z,jubilee,Jubilee,10,Good Service,,
+2026-10-21T06:01:04Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-21T06:01:04Z,northern,Northern,10,Good Service,,
+2026-10-21T06:01:04Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Rayners Lane due to an earlier points failure at Northfields. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-21T06:01:04Z,victoria,Victoria,10,Good Service,,
+2026-10-21T06:01:04Z,waterloo-city,Waterloo & City,10,Good Service,,
