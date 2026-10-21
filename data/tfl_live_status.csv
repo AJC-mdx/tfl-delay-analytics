@@ -1927,3 +1927,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-21T04:45:41Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-21T04:45:41Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays between Seven Sisters and Walthamstow Central due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
 2026-10-21T04:45:41Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-21T05:00:59Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-21T05:00:59Z,central,Central,10,Good Service,,
+2026-10-21T05:00:59Z,circle,Circle,10,Good Service,,
+2026-10-21T05:00:59Z,district,District,9,Minor Delays,District Line: Minor delays between Barking and Earl's Court westbound only while we fix a faulty train at Plaistow. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-21T05:00:59Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-21T05:00:59Z,jubilee,Jubilee,10,Good Service,,
+2026-10-21T05:00:59Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-21T05:00:59Z,northern,Northern,10,Good Service,,
+2026-10-21T05:00:59Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-21T05:00:59Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays between Seven Sisters and Walthamstow Central due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-21T05:00:59Z,waterloo-city,Waterloo & City,10,Good Service,,
