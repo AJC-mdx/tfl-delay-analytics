@@ -1685,3 +1685,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-20T23:45:36Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Rayners Lane eastbound only due to an earlier security alert. GOOD SERVICE on the rest of the line.,RealTime
 2026-10-20T23:45:36Z,victoria,Victoria,10,Good Service,,
 2026-10-20T23:45:36Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-21T00:01:10Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-21T00:01:10Z,central,Central,6,Severe Delays,"Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.",RealTime
+2026-10-21T00:01:10Z,circle,Circle,10,Good Service,,
+2026-10-21T00:01:10Z,district,District,9,Minor Delays,District Line: Minor delays between Tower Hill and Upminster eastbound only due to an earlier signal fault at Mansion House. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-21T00:01:10Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-21T00:01:10Z,jubilee,Jubilee,10,Good Service,,
+2026-10-21T00:01:10Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-21T00:01:10Z,northern,Northern,10,Good Service,,
+2026-10-21T00:01:10Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Rayners Lane eastbound only due to an earlier security alert. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-21T00:01:10Z,victoria,Victoria,10,Good Service,,
+2026-10-21T00:01:10Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
