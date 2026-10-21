@@ -2393,3 +2393,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-21T14:45:38Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-21T14:45:38Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-21T14:45:38Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-21T15:01:07Z,bakerloo,Bakerloo,3,Part Suspended,Bakerloo Line: No service between Harrow & Wealdstone and Stonebridge Park while we fix a track fault at Kenton. Tickets are being accepted on London Buses and the Lioness line. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-21T15:01:07Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-21T15:01:07Z,circle,Circle,10,Good Service,,
+2026-10-21T15:01:07Z,district,District,9,Minor Delays,District Line: No service between High Street Kensington and Edgware Road and MINOR DELAYS between High Street Kensington and Wimbledon while we fix a faults failure at High Street Kensington. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-21T15:01:07Z,district,District,3,Part Suspended,District Line: No service between High Street Kensington and Edgware Road and MINOR DELAYS between High Street Kensington and Wimbledon while we fix a faults failure at High Street Kensington. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-21T15:01:07Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-21T15:01:07Z,jubilee,Jubilee,10,Good Service,,
+2026-10-21T15:01:07Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-21T15:01:07Z,northern,Northern,10,Good Service,,
+2026-10-21T15:01:07Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-21T15:01:07Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-21T15:01:07Z,waterloo-city,Waterloo & City,10,Good Service,,
