@@ -631,7 +631,7 @@ With the data source on **Simulated** (and the page filter on `test`):
 | Model ROC-AUC | 0.61 |
 | Delay Rate When High Risk | 16.2% |
 | Delay Rate When Normal Risk | 5.5% |
-| Model Lift | 2.9× |
+| Model Lift | 3.0× (exactly 2.96) |
 | Predicted Risk / Actual (Normal) | 5.6% / 5.5% |
 | Predicted Risk / Actual (Elevated) | 11.3% / 16.2% |
 | Predicted Risk / Actual (High) | 15.2% / 16.2% |

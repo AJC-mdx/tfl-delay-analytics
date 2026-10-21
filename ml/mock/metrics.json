@@ -1,6 +1,6 @@
 {
   "source": "mock",
-  "trained_at_utc": "2026-10-20 20:22:08",
+  "trained_at_utc": "2026-10-20 20:58:35",
   "cutoff_utc": "2024-03-09 06:00:00",
   "train_rows": 13650,
   "test_rows": 4550,

@@ -94,12 +94,13 @@
 ## Phase 5: The Portfolio Showcase (Packaging)
 **Goal:** Make the project irresistible to a recruiter who only has 30 seconds to look at it.
 
-- [ ] **5.1 Update Power BI:** Add a second page to your dashboard showing the Machine Learning predictions.
+- [x] **5.1 Update Power BI:** Add a second page to your dashboard showing the Machine Learning predictions.
+  - *Done (21 Oct 2026):* "Predicting Delays Before They Happen" page, filtered to the test period, screenshot in `powerbi/dashboard_model_mock.png` and added to the README. Values match SQL (ROC-AUC 0.61, 16.2% vs 5.5%, lift 3.0×).
   - *Done (data side):* `train_model.py` adds `risk_band_order` and a `ml_model_metrics` table (test scores for XGBoost and both baselines), both exported to `powerbi/data/`.
   - *To do (you):* follow **`powerbi/POWERBI_GUIDE.md` → 5.1**: load 2 tables, 5 relationships, 7 measures, a "Delay Risk Model" page filtered to the **test** period (KPI cards, predicted vs actual by risk band, top risk factors, predicted-risk heatmap). Screenshot as `powerbi/dashboard_model_mock.png`.
 - [x] **5.2 Write the README:** Write a professional summary for your GitHub page explaining the business value of your project.
   - *Done:* `README.md`: one-line summary, live collector status badge, project-status note (simulated vs real), dashboard screenshot, business value, pipeline diagram (Mermaid), skills table, key decisions (gaps and islands, overnight closures, leakage, honest evaluation, validation against a known rule), results table with SHAP charts, run instructions, project structure, data sources and attributions, limitations and next steps.
-  - *To do:* add the page 2 screenshot once 5.1 is done; replace the simulated results with real ones once enough live data is collected.
+  - *To do:* replace the simulated results with real ones once enough live data is collected.
 - [x] **5.3 Clean the Code:** Remove leftover test code and add clear comments.
   - *Done:* removed `test_tfl.py` (superseded by the collector) and `data/london_weather_sample.csv` (the mock generator now keeps its weather in memory). Added `requirements.txt` with pinned versions. Every script has a header docstring explaining what it does and how to run it, and every SQL file explains its rules. Confirmed the mock data regenerates byte-for-byte identically (fixed seed).
   - *Optional:* delete the disabled Windows task "TfL Status Collector" (Task Scheduler → right-click → Delete); it's no longer needed.

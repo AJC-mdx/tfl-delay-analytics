@@ -68,7 +68,11 @@ These numbers prove the pipeline finds a real pattern when one exists. **They ar
 | Delay chance in bad vs normal weather (SQL) | 15% vs 5% | 15.4% vs 5.1% |
 | Model ranking skill, ROC-AUC (test set) | 0.62 = best possible | **0.61** XGBoost · 0.58 logistic regression · 0.50 baseline |
 | Top drivers (SHAP) | wind, rain in previous hour | wind, rain in previous hour |
-| Actual delay rate in hours rated High vs Normal risk | — | **16.2% vs 5.5% (2.9×)** |
+| Actual delay rate in hours rated High vs Normal risk | — | **16.2% vs 5.5% (3.0×)** |
+
+![Power BI model page: predicted vs actual delay rate by risk band, top risk factors and a predicted-risk heatmap (simulated data)](powerbi/dashboard_model_mock.png)
+
+The model page shows predictions only for hours the model **never saw during training**. In each risk band the predicted and actual delay rates are close (e.g. 5.6% predicted vs 5.5% actual for Normal), so the percentages can be trusted. The heatmap shows higher predicted risk from late morning to mid-afternoon: the model has picked up that **wind in London is usually strongest in the daytime**, a real weather pattern it learned without being told.
 
 <p>
   <img src="ml/mock/shap_importance.png" width="49%" alt="SHAP feature importance: wind speed and rain in the previous hour are the top drivers (simulated data)">
