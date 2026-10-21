@@ -7,6 +7,7 @@ APPENDS it to data/tfl_live_status.csv. Run it on a schedule (e.g. every
 """
 import csv
 import logging
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -38,10 +39,26 @@ logging.basicConfig(
 )
 
 
-def fetch_status():
-    response = requests.get(URL, timeout=30)
-    response.raise_for_status()
-    return response.json()
+def fetch_status(attempts=3, wait_seconds=10):
+    """Get the status of every line. TfL's API occasionally returns an empty or
+    broken response (seen 21 Oct 2026: HTTP 200 with an empty body), so check
+    the response really contains line data and retry a few times, waiting a
+    little longer each time, before giving up."""
+    for attempt in range(1, attempts + 1):
+        try:
+            response = requests.get(URL, timeout=30)
+            response.raise_for_status()
+            lines = response.json()
+            if not isinstance(lines, list) or not lines or "lineStatuses" not in lines[0]:
+                raise ValueError(f"unexpected response: {response.text[:200]!r}")
+            return lines
+        except (requests.RequestException, ValueError) as error:
+            # (requests' JSON decode error is a ValueError too)
+            logging.warning("Attempt %d/%d failed: %s", attempt, attempts, error)
+            print(f"Attempt {attempt}/{attempts} failed: {error}")
+            if attempt == attempts:
+                raise
+            time.sleep(wait_seconds * attempt)  # 10s, then 20s
 
 
 def to_rows(lines, collected_at):
@@ -74,9 +91,11 @@ def append_to_csv(rows):
 
 
 def main():
-    collected_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     try:
-        rows = to_rows(fetch_status(), collected_at)
+        lines = fetch_status()
+        # timestamp the moment the data actually arrived (after any retries)
+        collected_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        rows = to_rows(lines, collected_at)
         append_to_csv(rows)
         logging.info("Saved %d rows", len(rows))
         print(f"Saved {len(rows)} rows to {DATA_FILE}")
