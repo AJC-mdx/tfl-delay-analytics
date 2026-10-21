@@ -1883,3 +1883,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-21T04:01:04Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-21T04:01:04Z,victoria,Victoria,10,Good Service,,
 2026-10-21T04:01:04Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-21T04:15:35Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-21T04:15:35Z,central,Central,10,Good Service,,
+2026-10-21T04:15:35Z,circle,Circle,10,Good Service,,
+2026-10-21T04:15:35Z,district,District,10,Good Service,,
+2026-10-21T04:15:35Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-21T04:15:35Z,jubilee,Jubilee,10,Good Service,,
+2026-10-21T04:15:35Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-21T04:15:35Z,northern,Northern,10,Good Service,,
+2026-10-21T04:15:35Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-21T04:15:35Z,victoria,Victoria,10,Good Service,,
+2026-10-21T04:15:35Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
