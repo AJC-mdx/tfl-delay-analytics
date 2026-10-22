@@ -3012,3 +3012,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-22T03:45:37Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-22T03:45:37Z,victoria,Victoria,10,Good Service,,
 2026-10-22T03:45:37Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-22T04:00:58Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-22T04:00:58Z,central,Central,10,Good Service,,
+2026-10-22T04:00:58Z,circle,Circle,10,Good Service,,
+2026-10-22T04:00:58Z,district,District,6,Severe Delays,District Line: Severe delays between Acton Town and Ealing Broadway due to train cancellations. London Buses are accepting valid tickets. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-22T04:00:58Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-22T04:00:58Z,jubilee,Jubilee,10,Good Service,,
+2026-10-22T04:00:58Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-22T04:00:58Z,northern,Northern,10,Good Service,,
+2026-10-22T04:00:58Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-22T04:00:58Z,victoria,Victoria,10,Good Service,,
+2026-10-22T04:00:58Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
