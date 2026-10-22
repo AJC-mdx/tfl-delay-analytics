@@ -3592,3 +3592,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-22T16:15:36Z,piccadilly,Piccadilly,3,Part Suspended,"Piccadilly Line: No service between Acton Town and Cockfosters Eastbound only. SEVERE DELAYS rest of the line while we fix a signal failure at Leicester Square. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line via any reasonable route.",RealTime
 2026-10-22T16:15:36Z,victoria,Victoria,10,Good Service,,
 2026-10-22T16:15:36Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-22T16:30:53Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-22T16:30:53Z,central,Central,10,Good Service,,
+2026-10-22T16:30:53Z,circle,Circle,10,Good Service,,
+2026-10-22T16:30:53Z,district,District,10,Good Service,,
+2026-10-22T16:30:53Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-22T16:30:53Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to an earlier signal system failure.,RealTime
+2026-10-22T16:30:53Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-22T16:30:53Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays between Camden Town and Kennington (via Bank) northbound only due to train cancellations.,RealTime
+2026-10-22T16:30:53Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays while we fix a signal failure in the Leicester Square area. Tickets are being accepted on London buses, Elizabeth line, Great Northern and Weaver line via any reasonable route.",RealTime
+2026-10-22T16:30:53Z,victoria,Victoria,10,Good Service,,
+2026-10-22T16:30:53Z,waterloo-city,Waterloo & City,10,Good Service,,
