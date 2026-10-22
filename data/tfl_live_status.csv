@@ -3738,3 +3738,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-22T19:28:37Z,piccadilly,Piccadilly,3,Part Suspended,"Piccadilly Line: No service between Hammersmith and King's Cross St. Pancras Eastbound only and SEVERE DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line services via any reasonable route.",RealTime
 2026-10-22T19:28:37Z,victoria,Victoria,10,Good Service,,
 2026-10-22T19:28:37Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-22T19:30:53Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-22T19:30:53Z,central,Central,10,Good Service,,
+2026-10-22T19:30:53Z,circle,Circle,10,Good Service,,
+2026-10-22T19:30:53Z,district,District,10,Good Service,,
+2026-10-22T19:30:53Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-22T19:30:53Z,jubilee,Jubilee,10,Good Service,,
+2026-10-22T19:30:53Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-22T19:30:53Z,northern,Northern,10,Good Service,,
+2026-10-22T19:30:53Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays while we fix a signal failure at Leicester Square. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line services via any reasonable route.",RealTime
+2026-10-22T19:30:53Z,victoria,Victoria,10,Good Service,,
+2026-10-22T19:30:53Z,waterloo-city,Waterloo & City,10,Good Service,,
