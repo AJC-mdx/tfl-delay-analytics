@@ -3832,3 +3832,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-22T21:15:38Z,piccadilly,Piccadilly,3,Part Suspended,"Piccadilly Line: No service between Rayners Lane and Uxbridge and SEVERE DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line services via any reasonable route.",RealTime
 2026-10-22T21:15:38Z,victoria,Victoria,10,Good Service,,
 2026-10-22T21:15:38Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-22T21:30:49Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-22T21:30:49Z,central,Central,10,Good Service,,
+2026-10-22T21:30:49Z,circle,Circle,10,Good Service,,
+2026-10-22T21:30:49Z,district,District,10,Good Service,,
+2026-10-22T21:30:49Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-22T21:30:49Z,jubilee,Jubilee,10,Good Service,,
+2026-10-22T21:30:49Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-22T21:30:49Z,northern,Northern,10,Good Service,,
+2026-10-22T21:30:49Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: No service between Rayners Lane and Uxbridge and SEVERE DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line services via any reasonable route.",RealTime
+2026-10-22T21:30:49Z,piccadilly,Piccadilly,3,Part Suspended,"Piccadilly Line: No service between Rayners Lane and Uxbridge and SEVERE DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line services via any reasonable route.",RealTime
+2026-10-22T21:30:49Z,victoria,Victoria,10,Good Service,,
+2026-10-22T21:30:49Z,waterloo-city,Waterloo & City,10,Good Service,,
