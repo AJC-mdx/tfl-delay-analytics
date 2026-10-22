@@ -3915,3 +3915,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-22T22:45:34Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line services via any reasonable route.",RealTime
 2026-10-22T22:45:34Z,victoria,Victoria,10,Good Service,,
 2026-10-22T22:45:34Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-22T23:01:05Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-22T23:01:05Z,central,Central,10,Good Service,,
+2026-10-22T23:01:05Z,circle,Circle,10,Good Service,,
+2026-10-22T23:01:05Z,district,District,10,Good Service,,
+2026-10-22T23:01:05Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-22T23:01:05Z,jubilee,Jubilee,10,Good Service,,
+2026-10-22T23:01:05Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-22T23:01:05Z,northern,Northern,10,Good Service,,
+2026-10-22T23:01:05Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line services via any reasonable route.",RealTime
+2026-10-22T23:01:05Z,victoria,Victoria,10,Good Service,,
+2026-10-22T23:01:05Z,waterloo-city,Waterloo & City,10,Good Service,,
