@@ -3702,3 +3702,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-22T18:45:43Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays while we fix a signal failure in the Leicester Square area. Tickets are being accepted on London buses, Elizabeth line, Great Northern and Weaver line via any reasonable route.",RealTime
 2026-10-22T18:45:43Z,victoria,Victoria,10,Good Service,,
 2026-10-22T18:45:43Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-22T19:01:03Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-22T19:01:03Z,central,Central,10,Good Service,,
+2026-10-22T19:01:03Z,circle,Circle,10,Good Service,,
+2026-10-22T19:01:03Z,district,District,10,Good Service,,
+2026-10-22T19:01:03Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-22T19:01:03Z,jubilee,Jubilee,10,Good Service,,
+2026-10-22T19:01:03Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-22T19:01:03Z,northern,Northern,10,Good Service,,
+2026-10-22T19:01:03Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: No service between Hammersmith and King's Cross St. Pancras Eastbound only while we fix signal failure at Leicester Square. SEVERE DELAYS rest of the line. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line via any reasonable route.",RealTime
+2026-10-22T19:01:03Z,piccadilly,Piccadilly,3,Part Suspended,"Piccadilly Line: No service between Hammersmith and King's Cross St. Pancras Eastbound only while we fix signal failure at Leicester Square. SEVERE DELAYS rest of the line. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line via any reasonable route.",RealTime
+2026-10-22T19:01:03Z,victoria,Victoria,10,Good Service,,
+2026-10-22T19:01:03Z,waterloo-city,Waterloo & City,10,Good Service,,
