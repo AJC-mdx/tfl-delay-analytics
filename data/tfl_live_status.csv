@@ -3401,3 +3401,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-22T12:15:48Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Cockfosters eastbound only while we fix a signal failure at Leicester Square. GOOD SERVICE on the rest of the line.,RealTime
 2026-10-22T12:15:48Z,victoria,Victoria,10,Good Service,,
 2026-10-22T12:15:48Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-22T12:30:55Z,bakerloo,Bakerloo,9,Minor Delays,Bakerloo Line: No service northbound only and MINOR DELAYS on the rest of the line due to a customer incident at Kilburn Park.,RealTime
+2026-10-22T12:30:55Z,bakerloo,Bakerloo,3,Part Suspended,Bakerloo Line: No service northbound only and MINOR DELAYS on the rest of the line due to a customer incident at Kilburn Park.,RealTime
+2026-10-22T12:30:55Z,central,Central,10,Good Service,,
+2026-10-22T12:30:55Z,circle,Circle,10,Good Service,,
+2026-10-22T12:30:55Z,district,District,10,Good Service,,
+2026-10-22T12:30:55Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-22T12:30:55Z,jubilee,Jubilee,10,Good Service,,
+2026-10-22T12:30:55Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-22T12:30:55Z,northern,Northern,10,Good Service,,
+2026-10-22T12:30:55Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Cockfosters eastbound only while we fix a signal failure at Leicester Square. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-22T12:30:55Z,victoria,Victoria,10,Good Service,,
+2026-10-22T12:30:55Z,waterloo-city,Waterloo & City,10,Good Service,,
