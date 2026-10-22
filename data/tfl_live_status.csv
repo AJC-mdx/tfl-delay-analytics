@@ -3569,3 +3569,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-22T15:45:36Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: SEVERE DELAYS while we fix a signal failure at Leicester Square. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line via any reasonable route.",RealTime
 2026-10-22T15:45:36Z,victoria,Victoria,10,Good Service,,
 2026-10-22T15:45:36Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-22T16:01:14Z,bakerloo,Bakerloo,9,Minor Delays,Bakerloo Line: Minor delays between Harrow and Wealdstone and Queen's Park due to an earlier customer incident at Maida Vale. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-22T16:01:14Z,central,Central,10,Good Service,,
+2026-10-22T16:01:14Z,circle,Circle,10,Good Service,,
+2026-10-22T16:01:14Z,district,District,10,Good Service,,
+2026-10-22T16:01:14Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-22T16:01:14Z,jubilee,Jubilee,10,Good Service,,
+2026-10-22T16:01:14Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-22T16:01:14Z,northern,Northern,10,Good Service,,
+2026-10-22T16:01:14Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: SEVERE DELAYS while we fix a signal failure at Leicester Square. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line via any reasonable route.",RealTime
+2026-10-22T16:01:14Z,victoria,Victoria,10,Good Service,,
+2026-10-22T16:01:14Z,waterloo-city,Waterloo & City,10,Good Service,,
