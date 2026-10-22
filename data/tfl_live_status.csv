@@ -2990,3 +2990,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-22T03:15:40Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
 2026-10-22T03:15:40Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
 2026-10-22T03:15:40Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-22T03:30:49Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-22T03:30:49Z,central,Central,10,Good Service,,
+2026-10-22T03:30:49Z,circle,Circle,10,Good Service,,
+2026-10-22T03:30:49Z,district,District,10,Good Service,,
+2026-10-22T03:30:49Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-22T03:30:49Z,jubilee,Jubilee,10,Good Service,,
+2026-10-22T03:30:49Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-22T03:30:49Z,northern,Northern,10,Good Service,,
+2026-10-22T03:30:49Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-22T03:30:49Z,victoria,Victoria,10,Good Service,,
+2026-10-22T03:30:49Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
