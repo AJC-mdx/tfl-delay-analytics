@@ -3023,3 +3023,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-22T04:00:58Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-22T04:00:58Z,victoria,Victoria,10,Good Service,,
 2026-10-22T04:00:58Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-22T04:15:37Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-22T04:15:37Z,central,Central,10,Good Service,,
+2026-10-22T04:15:37Z,circle,Circle,10,Good Service,,
+2026-10-22T04:15:37Z,district,District,9,Minor Delays,"District Line: Severe delays between Acton Town and Ealing Broadway, and MINOR DELAYS between Barking and Upminster westbound only due to train cancellations. London Buses are accepting valid tickets. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-22T04:15:37Z,district,District,6,Severe Delays,"District Line: Severe delays between Acton Town and Ealing Broadway, and MINOR DELAYS between Barking and Upminster westbound only due to train cancellations. London Buses are accepting valid tickets. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-22T04:15:37Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-22T04:15:37Z,jubilee,Jubilee,10,Good Service,,
+2026-10-22T04:15:37Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-22T04:15:37Z,northern,Northern,10,Good Service,,
+2026-10-22T04:15:37Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-22T04:15:37Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays between Seven Sisters and Walthamstow Central due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-22T04:15:37Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
