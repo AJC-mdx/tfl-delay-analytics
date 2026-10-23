@@ -4782,3 +4782,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-23T16:30:51Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals and Acton Town and Uxbridge while we fix a signal failure at Leicester Square. GOOD SERVICE on the rest of the line.,RealTime
 2026-10-23T16:30:51Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-23T16:30:51Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-23T16:45:40Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-23T16:45:40Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-23T16:45:40Z,circle,Circle,10,Good Service,,
+2026-10-23T16:45:40Z,district,District,3,Part Suspended,District Line: No service between High Street Kensington and Edgware Road while we fix a points failure at High street Kensington. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE rest of the line.,RealTime
+2026-10-23T16:45:40Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-23T16:45:40Z,jubilee,Jubilee,10,Good Service,,
+2026-10-23T16:45:40Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-23T16:45:40Z,northern,Northern,10,Good Service,,
+2026-10-23T16:45:40Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals and Acton Town and Uxbridge while we fix a signal failure at Leicester Square. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-23T16:45:40Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-23T16:45:40Z,waterloo-city,Waterloo & City,10,Good Service,,
