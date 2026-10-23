@@ -5030,3 +5030,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-23T21:30:49Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-23T21:30:49Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-23T21:30:49Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-23T21:45:33Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-23T21:45:33Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-23T21:45:33Z,circle,Circle,10,Good Service,,
+2026-10-23T21:45:33Z,district,District,6,Severe Delays,District Line: Severe delays between Barking and Upminster due to an earlier points failure at High Street Kensington. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-23T21:45:33Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-23T21:45:33Z,jubilee,Jubilee,10,Good Service,,
+2026-10-23T21:45:33Z,metropolitan,Metropolitan,9,Minor Delays,"Metropolitan Line: Severe delays between Harrow on-the-Hill and Uxbridge, and MINOR DELAYS between Watford and Moor Park due to train cancellations. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-23T21:45:33Z,metropolitan,Metropolitan,6,Severe Delays,"Metropolitan Line: Severe delays between Harrow on-the-Hill and Uxbridge, and MINOR DELAYS between Watford and Moor Park due to train cancellations. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-23T21:45:33Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays due to an earlier points failure at Morden.,RealTime
+2026-10-23T21:45:33Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-23T21:45:33Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-23T21:45:33Z,waterloo-city,Waterloo & City,10,Good Service,,
