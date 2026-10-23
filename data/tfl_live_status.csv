@@ -4182,3 +4182,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-23T04:30:50Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses.,RealTime
 2026-10-23T04:30:50Z,victoria,Victoria,10,Good Service,,
 2026-10-23T04:30:50Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-23T04:45:40Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-23T04:45:40Z,central,Central,3,Part Suspended,"Central Line: No service between Hainault and Leytonstone westbound only due to a late finish of engineering work and no service between North Acton and West Ruislip due to a faulty train at Perivale. Tickets are being accepted on London Buses, Elizabeth Line, Chiltern Railways and Great Western Railway services via any reasonable routes. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-23T04:45:40Z,circle,Circle,10,Good Service,,
+2026-10-23T04:45:40Z,district,District,9,Minor Delays,"District Line: Minor delays between Earl's Court and Ealing Broadway, westbound only, due to train cancellations. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-23T04:45:40Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-23T04:45:40Z,jubilee,Jubilee,10,Good Service,,
+2026-10-23T04:45:40Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. The next southbound train from Amersham will be at 05:43. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-23T04:45:40Z,northern,Northern,10,Good Service,,
+2026-10-23T04:45:40Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses.,RealTime
+2026-10-23T04:45:40Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses.,RealTime
+2026-10-23T04:45:40Z,victoria,Victoria,10,Good Service,,
+2026-10-23T04:45:40Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
