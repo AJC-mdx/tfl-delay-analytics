@@ -4333,3 +4333,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-23T07:15:37Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.,RealTime
 2026-10-23T07:15:37Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-23T07:15:37Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-23T07:30:53Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-23T07:30:53Z,central,Central,9,Minor Delays,Central Line: Minor delays due to an earlier faulty train at Perivale and following a late finish of engineering work.,RealTime
+2026-10-23T07:30:53Z,circle,Circle,9,Minor Delays,Circle Line: Minor delays Anticlockwise only while we fix a faulty train at Edgware Road. GOOD SERVICE Clockwise.,RealTime
+2026-10-23T07:30:53Z,district,District,9,Minor Delays,District Line: Minor delays between Turnham Green and Ealing Broadway / Richmond due to an earlier customer incident at Ravenscourt Park. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-23T07:30:53Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-23T07:30:53Z,jubilee,Jubilee,10,Good Service,,
+2026-10-23T07:30:53Z,metropolitan,Metropolitan,6,Severe Delays,"Metropolitan Line: Severe delays while we fix a signal failure at Harrow-on-the-Hill. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway and Thameslink via any reasonable route.",RealTime
+2026-10-23T07:30:53Z,northern,Northern,10,Good Service,,
+2026-10-23T07:30:53Z,piccadilly,Piccadilly,6,Severe Delays,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.,RealTime
+2026-10-23T07:30:53Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line.,RealTime
+2026-10-23T07:30:53Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-23T07:30:53Z,waterloo-city,Waterloo & City,10,Good Service,,
