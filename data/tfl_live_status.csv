@@ -4511,3 +4511,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-23T11:01:03Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays while we fix a signal failure at Leicester Square. Please avoid the Piccadilly line where possible. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern, Weaver Line and South Western Railway.",RealTime
 2026-10-23T11:01:03Z,victoria,Victoria,10,Good Service,,
 2026-10-23T11:01:03Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-23T11:15:38Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-23T11:15:38Z,central,Central,10,Good Service,,
+2026-10-23T11:15:38Z,circle,Circle,10,Good Service,,
+2026-10-23T11:15:38Z,district,District,10,Good Service,,
+2026-10-23T11:15:38Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-23T11:15:38Z,jubilee,Jubilee,10,Good Service,,
+2026-10-23T11:15:38Z,metropolitan,Metropolitan,9,Minor Delays,"Metropolitan Line: Minor delays due to an earlier signal failure at Harrow-on-the-Hill and an earlier faulty train at Euston Square. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route.",RealTime
+2026-10-23T11:15:38Z,northern,Northern,6,Severe Delays,"Northern Line: Severe delays due to an earlier signal failure at Archway. Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway via any reasonable route.",RealTime
+2026-10-23T11:15:38Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays while we fix a signal failure at Leicester Square. Please avoid the Piccadilly line where possible. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern, Weaver Line and South Western Railway.",RealTime
+2026-10-23T11:15:38Z,victoria,Victoria,10,Good Service,,
+2026-10-23T11:15:38Z,waterloo-city,Waterloo & City,10,Good Service,,
