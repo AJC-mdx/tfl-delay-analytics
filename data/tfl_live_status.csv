@@ -4146,3 +4146,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-23T03:45:35Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-23T03:45:35Z,victoria,Victoria,10,Good Service,,
 2026-10-23T03:45:35Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-23T04:01:03Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-23T04:01:03Z,central,Central,3,Part Suspended,Central Line: No service between Hainault and Leytonstone westbound only due to a late finish of engineering work. London Buses are accepting valid tickets. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-23T04:01:03Z,circle,Circle,10,Good Service,,
+2026-10-23T04:01:03Z,district,District,6,Severe Delays,"District Line: Severe delays between Acton town and Ealing Broadway due to train cancellations. GOOD SERVICE on the rest of the line.Tickets are being accepted on London Buses,",RealTime
+2026-10-23T04:01:03Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-23T04:01:03Z,jubilee,Jubilee,10,Good Service,,
+2026-10-23T04:01:03Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-23T04:01:03Z,northern,Northern,10,Good Service,,
+2026-10-23T04:01:03Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses.,RealTime
+2026-10-23T04:01:03Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses.,RealTime
+2026-10-23T04:01:03Z,victoria,Victoria,10,Good Service,,
+2026-10-23T04:01:03Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
