@@ -4307,3 +4307,16 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-23T06:45:37Z,piccadilly,Piccadilly,3,Part Suspended,"Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only, and MINOR DELAYS on the rest of the line while we fix a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line.",RealTime
 2026-10-23T06:45:37Z,victoria,Victoria,10,Good Service,,
 2026-10-23T06:45:37Z,waterloo-city,Waterloo & City,2,Suspended,Waterloo and City Line: No service due to the unavailability of control room staff. Tickets are being accepted on London Buses.,RealTime
+2026-10-23T07:00:59Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-23T07:00:59Z,central,Central,9,Minor Delays,Central Line: Minor delays due to an earlier faulty train at Perivale and following a late finish of engineering work.,RealTime
+2026-10-23T07:00:59Z,circle,Circle,9,Minor Delays,Circle Line: Minor delays Anticlockwise only while we fix a faulty train at Edgware Road. GOOD SERVICE Clockwise.,RealTime
+2026-10-23T07:00:59Z,district,District,10,Good Service,,
+2026-10-23T07:00:59Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-23T07:00:59Z,jubilee,Jubilee,10,Good Service,,
+2026-10-23T07:00:59Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-23T07:00:59Z,northern,Northern,10,Good Service,,
+2026-10-23T07:00:59Z,piccadilly,Piccadilly,9,Minor Delays,"Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. MINOR DELAYS on the rest of the line.",RealTime
+2026-10-23T07:00:59Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. MINOR DELAYS on the rest of the line.",RealTime
+2026-10-23T07:00:59Z,piccadilly,Piccadilly,3,Part Suspended,"Piccadilly Line: No service between Rayners Lane and Uxbridge, SEVERE DELAYS between Acton Town and Cockfosters eastbound only while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. MINOR DELAYS on the rest of the line.",RealTime
+2026-10-23T07:00:59Z,victoria,Victoria,10,Good Service,,
+2026-10-23T07:00:59Z,waterloo-city,Waterloo & City,10,Good Service,,
