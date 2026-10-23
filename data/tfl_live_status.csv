@@ -4862,3 +4862,17 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-23T18:15:35Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-23T18:15:35Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-23T18:15:35Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-23T18:30:51Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-23T18:30:51Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-23T18:30:51Z,circle,Circle,10,Good Service,,
+2026-10-23T18:30:51Z,district,District,10,Good Service,,
+2026-10-23T18:30:51Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-23T18:30:51Z,jubilee,Jubilee,10,Good Service,,
+2026-10-23T18:30:51Z,metropolitan,Metropolitan,9,Minor Delays,"Metropolitan Line: No service between Chalfont & Latimer and Amersham, and MINOR DELAYS between Rickmansworth and Chesham while we fix a signal failure at Chorleywood. Tickets are being accepted on Chiltern services. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-23T18:30:51Z,metropolitan,Metropolitan,3,Part Suspended,"Metropolitan Line: No service between Chalfont & Latimer and Amersham, and MINOR DELAYS between Rickmansworth and Chesham while we fix a signal failure at Chorleywood. Tickets are being accepted on Chiltern services. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-23T18:30:51Z,northern,Northern,6,Severe Delays,"Northern Line: Severe delays due to an earlier points failure at Morden. Tickets will be accepted on London Buses, Southeastern, Thameslink and South Western Railway via any reasonable routes.",RealTime
+2026-10-23T18:30:51Z,northern,Northern,6,Severe Delays,"Northern Line: No service between Morden and Tooting Broadway while we fix a points failure at Morden. SEVERE DELAYS on the rest of the line. Tickets will be accepted on London Buses, Southeastern, Thameslink and South Western Railway via reasonable routes.",RealTime
+2026-10-23T18:30:51Z,northern,Northern,3,Part Suspended,"Northern Line: No service between Morden and Tooting Broadway while we fix a points failure at Morden. SEVERE DELAYS on the rest of the line. Tickets will be accepted on London Buses, Southeastern, Thameslink and South Western Railway via reasonable routes.",RealTime
+2026-10-23T18:30:51Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-23T18:30:51Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-23T18:30:51Z,waterloo-city,Waterloo & City,10,Good Service,,
