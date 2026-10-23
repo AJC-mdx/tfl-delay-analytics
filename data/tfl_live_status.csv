@@ -4219,3 +4219,17 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-23T05:15:34Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses.,RealTime
 2026-10-23T05:15:34Z,victoria,Victoria,10,Good Service,,
 2026-10-23T05:15:34Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-23T05:30:50Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-23T05:30:50Z,central,Central,6,Severe Delays,"Central Line: No service between North Acton and West Ruislip due to a faulty train at Perivale. SEVERE DELAYS between Hainault and Leytonstone following a late finish of engineering work. Tickets are being accepted on London Buses, Elizabeth Line, Chiltern Railways and Great Western Railway services via any reasonable routes. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-23T05:30:50Z,central,Central,3,Part Suspended,"Central Line: No service between North Acton and West Ruislip due to a faulty train at Perivale. SEVERE DELAYS between Hainault and Leytonstone following a late finish of engineering work. Tickets are being accepted on London Buses, Elizabeth Line, Chiltern Railways and Great Western Railway services via any reasonable routes. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-23T05:30:50Z,circle,Circle,10,Good Service,,
+2026-10-23T05:30:50Z,district,District,9,Minor Delays,"District Line: Severe delays between Ealing Broadway and Acton Town eastbound only  and MINOR DELAYS between Earl's Court and Ealing Broadway westbound only, due to train cancellations. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-23T05:30:50Z,district,District,6,Severe Delays,"District Line: Severe delays between Ealing Broadway and Acton Town eastbound only  and MINOR DELAYS between Earl's Court and Ealing Broadway westbound only, due to train cancellations. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-23T05:30:50Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-23T05:30:50Z,jubilee,Jubilee,10,Good Service,,
+2026-10-23T05:30:50Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-23T05:30:50Z,northern,Northern,10,Good Service,,
+2026-10-23T05:30:50Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses.,RealTime
+2026-10-23T05:30:50Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses.,RealTime
+2026-10-23T05:30:50Z,victoria,Victoria,10,Good Service,,
+2026-10-23T05:30:50Z,waterloo-city,Waterloo & City,10,Good Service,,
