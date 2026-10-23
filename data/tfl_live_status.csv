@@ -4233,3 +4233,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-23T05:30:50Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line:  No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses.,RealTime
 2026-10-23T05:30:50Z,victoria,Victoria,10,Good Service,,
 2026-10-23T05:30:50Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-23T05:45:36Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-23T05:45:36Z,central,Central,6,Severe Delays,"Central Line: Severe delays between North Acton and West Ruislip due to an earlier faulty train at Perivale. SEVERE DELAYS between Hainault and Leytonstone following a late finish of engineering work. Tickets are being accepted on London Buses, Elizabeth Line, Chiltern Railways and Great Western Railway services via any reasonable routes. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-23T05:45:36Z,circle,Circle,10,Good Service,,
+2026-10-23T05:45:36Z,district,District,9,Minor Delays,District Line: Minor delays between Ealing Broadway and Acton Town due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-23T05:45:36Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-23T05:45:36Z,jubilee,Jubilee,10,Good Service,,
+2026-10-23T05:45:36Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-23T05:45:36Z,northern,Northern,10,Good Service,,
+2026-10-23T05:45:36Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: No service between Rayners Lane and Uxbridge due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line.,RealTime
+2026-10-23T05:45:36Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line: No service between Rayners Lane and Uxbridge due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line.,RealTime
+2026-10-23T05:45:36Z,victoria,Victoria,10,Good Service,,
+2026-10-23T05:45:36Z,waterloo-city,Waterloo & City,10,Good Service,,
