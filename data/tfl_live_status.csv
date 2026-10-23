@@ -4771,3 +4771,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-23T16:15:38Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals and Acton Town and Uxbridge while we fix a signal failure at Leicester Square. GOOD SERVICE on the rest of the line.,RealTime
 2026-10-23T16:15:38Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-23T16:15:38Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-23T16:30:51Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-23T16:30:51Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-23T16:30:51Z,circle,Circle,10,Good Service,,
+2026-10-23T16:30:51Z,district,District,10,Good Service,,
+2026-10-23T16:30:51Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-23T16:30:51Z,jubilee,Jubilee,10,Good Service,,
+2026-10-23T16:30:51Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-23T16:30:51Z,northern,Northern,6,Severe Delays,"Northern Line: Severe delays due to earlier trespasser on the track at Golders Green. Tickets will be accepted on London Buses, Southeastern, Thameslink and South Western Railway services via reasonable routes.",RealTime
+2026-10-23T16:30:51Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals and Acton Town and Uxbridge while we fix a signal failure at Leicester Square. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-23T16:30:51Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-23T16:30:51Z,waterloo-city,Waterloo & City,10,Good Service,,
