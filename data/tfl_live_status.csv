@@ -4970,3 +4970,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-23T20:15:36Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-23T20:15:36Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-23T20:15:36Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-23T20:30:50Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-23T20:30:50Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-23T20:30:50Z,circle,Circle,10,Good Service,,
+2026-10-23T20:30:50Z,district,District,6,Severe Delays,District Line: Severe delays between High Street Kensington and Edgware Road while we fix a points failure at High Street Kensington. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-23T20:30:50Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-23T20:30:50Z,jubilee,Jubilee,10,Good Service,,
+2026-10-23T20:30:50Z,metropolitan,Metropolitan,9,Minor Delays,"Metropolitan Line: Severe delays between Watford and Moor Park, and MINOR DELAYS between Rickmansworth and Amersham / Chesham due to an earlier signal failure at Chorleywood. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-23T20:30:50Z,metropolitan,Metropolitan,6,Severe Delays,"Metropolitan Line: Severe delays between Watford and Moor Park, and MINOR DELAYS between Rickmansworth and Amersham / Chesham due to an earlier signal failure at Chorleywood. GOOD SERVICE on the rest of the line.",RealTime
+2026-10-23T20:30:50Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays due to an earlier points failure at Morden.,RealTime
+2026-10-23T20:30:50Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-23T20:30:50Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-23T20:30:50Z,waterloo-city,Waterloo & City,10,Good Service,,
