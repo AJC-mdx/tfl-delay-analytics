@@ -5177,3 +5177,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-24T00:30:50Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-24T00:30:50Z,victoria,Victoria,10,Good Service,,
 2026-10-24T00:30:50Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-10-24T00:45:35Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-24T00:45:35Z,central,Central,10,Good Service,,
+2026-10-24T00:45:35Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work.,RealTime
+2026-10-24T00:45:35Z,district,District,20,Service Closed,District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.,RealTime
+2026-10-24T00:45:35Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-24T00:45:35Z,jubilee,Jubilee,10,Good Service,,
+2026-10-24T00:45:35Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-24T00:45:35Z,northern,Northern,10,Good Service,,
+2026-10-24T00:45:35Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-24T00:45:35Z,victoria,Victoria,10,Good Service,,
+2026-10-24T00:45:35Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
