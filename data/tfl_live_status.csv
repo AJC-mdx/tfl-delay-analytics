@@ -5234,3 +5234,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-24T01:31:10Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line: No service between Hammersmith and King's Cross St. Pancras due to emergency engineering work to fix a signal fault at Leicester Square. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line,RealTime
 2026-10-24T01:31:10Z,victoria,Victoria,10,Good Service,,
 2026-10-24T01:31:10Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-10-24T01:45:36Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-24T01:45:36Z,central,Central,10,Good Service,,
+2026-10-24T01:45:36Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work.,RealTime
+2026-10-24T01:45:36Z,district,District,20,Service Closed,District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.,RealTime
+2026-10-24T01:45:36Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-24T01:45:36Z,jubilee,Jubilee,10,Good Service,,
+2026-10-24T01:45:36Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-24T01:45:36Z,northern,Northern,10,Good Service,,
+2026-10-24T01:45:36Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Saturday 24 October, between 0200 and 0400, no service between Kings Cross St Pancras and Hammersmith due to emergency engineering works to fix a faulty signal at Leicester Square. Please use alternative London Underground lines and Night Buses.",PlannedWork
+2026-10-24T01:45:36Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line: No service between Hammersmith and King's Cross St. Pancras due to emergency engineering work to fix a signal fault at Leicester Square. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line,RealTime
+2026-10-24T01:45:36Z,victoria,Victoria,10,Good Service,,
+2026-10-24T01:45:36Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
