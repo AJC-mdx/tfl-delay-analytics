@@ -6296,3 +6296,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-24T22:01:40Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-24T22:01:40Z,victoria,Victoria,10,Good Service,,
 2026-10-24T22:01:40Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-10-24T22:15:38Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-24T22:15:38Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-24T22:15:38Z,circle,Circle,5,Part Closure,"CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)",PlannedWork
+2026-10-24T22:15:38Z,district,District,5,Part Closure,"DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level.",PlannedWork
+2026-10-24T22:15:38Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-24T22:15:38Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to an earlier faulty train at Westminster and Finchley Road.,RealTime
+2026-10-24T22:15:38Z,metropolitan,Metropolitan,6,Severe Delays,"Metropolitan Line: No service between Wembley Park and Aldgate, and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.",RealTime
+2026-10-24T22:15:38Z,metropolitan,Metropolitan,3,Part Suspended,"Metropolitan Line: No service between Wembley Park and Aldgate, and SEVERE DELAYS on the rest of the line while we remove a tree from the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.",RealTime
+2026-10-24T22:15:38Z,northern,Northern,10,Good Service,,
+2026-10-24T22:15:38Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-24T22:15:38Z,victoria,Victoria,10,Good Service,,
+2026-10-24T22:15:38Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
