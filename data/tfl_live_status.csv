@@ -7245,3 +7245,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-25T17:30:49Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-25T17:30:49Z,victoria,Victoria,10,Good Service,,
 2026-10-25T17:30:49Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-10-25T17:36:27Z,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays while we fix a signal failure at Kensal Green. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway and Thameslink services via any reasonable route.",RealTime
+2026-10-25T17:36:27Z,central,Central,10,Good Service,,
+2026-10-25T17:36:27Z,circle,Circle,5,Part Closure,"CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)",PlannedWork
+2026-10-25T17:36:27Z,district,District,5,Part Closure,"DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level.",PlannedWork
+2026-10-25T17:36:27Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-25T17:36:27Z,jubilee,Jubilee,6,Severe Delays,"Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses.",RealTime
+2026-10-25T17:36:27Z,jubilee,Jubilee,3,Part Suspended,"Jubilee Line: No service between Wembley Park and Stanmore, and SEVERE DELAYS on the rest of the line while we remove an obstruction from the track at Queensbury. Tickets are being accepted on London Buses.",RealTime
+2026-10-25T17:36:27Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-25T17:36:27Z,northern,Northern,10,Good Service,,
+2026-10-25T17:36:27Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-25T17:36:27Z,victoria,Victoria,10,Good Service,,
+2026-10-25T17:36:27Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
