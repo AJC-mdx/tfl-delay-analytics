@@ -6698,3 +6698,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-25T06:01:01Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-25T06:01:01Z,victoria,Victoria,10,Good Service,,
 2026-10-25T06:01:01Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-10-25T06:15:37Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-25T06:15:37Z,central,Central,10,Good Service,,
+2026-10-25T06:15:37Z,circle,Circle,5,Part Closure,"CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)",PlannedWork
+2026-10-25T06:15:37Z,district,District,5,Part Closure,"DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level.",PlannedWork
+2026-10-25T06:15:37Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-25T06:15:37Z,jubilee,Jubilee,10,Good Service,,
+2026-10-25T06:15:37Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-25T06:15:37Z,northern,Northern,10,Good Service,,
+2026-10-25T06:15:37Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-25T06:15:37Z,victoria,Victoria,10,Good Service,,
+2026-10-25T06:15:37Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
