@@ -6519,3 +6519,16 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-25T02:30:57Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-25T02:30:57Z,victoria,Victoria,10,Good Service,,
 2026-10-25T02:30:57Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-10-25T02:45:37Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-25T02:45:37Z,central,Central,10,Good Service,,
+2026-10-25T02:45:37Z,circle,Circle,5,Part Closure,"CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)",PlannedWork
+2026-10-25T02:45:37Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning. There will be no service between Edgware Road and Tower Hill via Victoria due to planned engineering work,RealTime
+2026-10-25T02:45:37Z,district,District,5,Part Closure,"DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level.",PlannedWork
+2026-10-25T02:45:37Z,district,District,20,Service Closed,District Line: Service will resume later this morning. There will be no service between Edgware Road and Embankment to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work.,RealTime
+2026-10-25T02:45:37Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-25T02:45:37Z,jubilee,Jubilee,10,Good Service,,
+2026-10-25T02:45:37Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-25T02:45:37Z,northern,Northern,10,Good Service,,
+2026-10-25T02:45:37Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-25T02:45:37Z,victoria,Victoria,10,Good Service,,
+2026-10-25T02:45:37Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
