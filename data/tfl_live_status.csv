@@ -8616,3 +8616,16 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-26T21:45:37Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Ruislip. SEVERE DELAYS between Acton Town and Rayners Lane. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route.,RealTime
 2026-10-26T21:45:37Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-26T21:45:37Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-26T21:56:03Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-26T21:56:03Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-26T21:56:03Z,circle,Circle,10,Good Service,,
+2026-10-26T21:56:03Z,district,District,10,Good Service,,
+2026-10-26T21:56:03Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-26T21:56:03Z,jubilee,Jubilee,10,Good Service,,
+2026-10-26T21:56:03Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge while we fix a signal failure at Ruislip. MINOR DELAYS between Moor Park and Watford / Amersham due to train cancellations. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.,RealTime
+2026-10-26T21:56:03Z,metropolitan,Metropolitan,3,Part Suspended,Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge while we fix a signal failure at Ruislip. MINOR DELAYS between Moor Park and Watford / Amersham due to train cancellations. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.,RealTime
+2026-10-26T21:56:03Z,northern,Northern,10,Good Service,,
+2026-10-26T21:56:03Z,piccadilly,Piccadilly,6,Severe Delays,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Ruislip. SEVERE DELAYS between Acton Town and Rayners Lane. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route.,RealTime
+2026-10-26T21:56:03Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Ruislip. SEVERE DELAYS between Acton Town and Rayners Lane. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route.,RealTime
+2026-10-26T21:56:03Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-26T21:56:03Z,waterloo-city,Waterloo & City,10,Good Service,,
