@@ -7934,3 +7934,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-26T07:15:38Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-26T07:15:38Z,victoria,Victoria,10,Good Service,,
 2026-10-26T07:15:38Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-26T07:30:58Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-26T07:30:58Z,central,Central,10,Good Service,,
+2026-10-26T07:30:58Z,circle,Circle,6,Severe Delays,Circle Line: Severe delays following a late finish of engineering work.,RealTime
+2026-10-26T07:30:58Z,district,District,6,Severe Delays,"District Line: No service between Earl's Court and Wimbledon and between Turnham Green and Richmond and SEVERE DELAYS on the rest of the line following a late finish of engineering works at Gloucester Road. Tickets are being accepted on London Buses, DLR, Mildmay line, Elizabeth line and South Western Railway.",RealTime
+2026-10-26T07:30:58Z,district,District,3,Part Suspended,"District Line: No service between Earl's Court and Wimbledon and between Turnham Green and Richmond and SEVERE DELAYS on the rest of the line following a late finish of engineering works at Gloucester Road. Tickets are being accepted on London Buses, DLR, Mildmay line, Elizabeth line and South Western Railway.",RealTime
+2026-10-26T07:30:58Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-26T07:30:58Z,jubilee,Jubilee,10,Good Service,,
+2026-10-26T07:30:58Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-26T07:30:58Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays between Camden Town and High Barnet due to an earlier signal failure at Totteridge & Whetstone. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-26T07:30:58Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-26T07:30:58Z,victoria,Victoria,10,Good Service,,
+2026-10-26T07:30:58Z,waterloo-city,Waterloo & City,10,Good Service,,
