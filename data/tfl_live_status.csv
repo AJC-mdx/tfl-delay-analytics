@@ -8397,3 +8397,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-26T17:30:54Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-26T17:30:54Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-26T17:30:54Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-26T17:37:09Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-26T17:37:09Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-26T17:37:09Z,circle,Circle,10,Good Service,,
+2026-10-26T17:37:09Z,district,District,10,Good Service,,
+2026-10-26T17:37:09Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-26T17:37:09Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to earlier faulty platform edge doors.,RealTime
+2026-10-26T17:37:09Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-26T17:37:09Z,northern,Northern,10,Good Service,,
+2026-10-26T17:37:09Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-26T17:37:09Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-26T17:37:09Z,waterloo-city,Waterloo & City,10,Good Service,,
