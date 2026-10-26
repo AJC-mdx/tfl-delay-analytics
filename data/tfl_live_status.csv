@@ -8056,3 +8056,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-26T10:01:07Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-26T10:01:07Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-26T10:01:07Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-26T10:15:38Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-26T10:15:38Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-26T10:15:38Z,circle,Circle,10,Good Service,,
+2026-10-26T10:15:38Z,district,District,9,Minor Delays,District Line: Minor delays following a late finish of engineering works at Gloucester Road.,RealTime
+2026-10-26T10:15:38Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-26T10:15:38Z,jubilee,Jubilee,10,Good Service,,
+2026-10-26T10:15:38Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-26T10:15:38Z,northern,Northern,10,Good Service,,
+2026-10-26T10:15:38Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-26T10:15:38Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-26T10:15:38Z,waterloo-city,Waterloo & City,10,Good Service,,
