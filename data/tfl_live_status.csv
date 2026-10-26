@@ -7566,3 +7566,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-26T00:01:02Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-26T00:01:02Z,victoria,Victoria,10,Good Service,,
 2026-10-26T00:01:02Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-10-26T00:15:36Z,bakerloo,Bakerloo,9,Minor Delays,Bakerloo Line: Minor delays due to an earlier signal failure at Kensal Green.,RealTime
+2026-10-26T00:15:36Z,central,Central,10,Good Service,,
+2026-10-26T00:15:36Z,circle,Circle,5,Part Closure,"CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)",PlannedWork
+2026-10-26T00:15:36Z,district,District,5,Part Closure,"DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level.",PlannedWork
+2026-10-26T00:15:36Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-26T00:15:36Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Severe delays between Wembley Park and Stratford southbound/eastbound only and MINOR DELAYS on the rest of the line due to an earlier obstruction on the track at Queensbury.,RealTime
+2026-10-26T00:15:36Z,jubilee,Jubilee,6,Severe Delays,Jubilee Line: Severe delays between Wembley Park and Stratford southbound/eastbound only and MINOR DELAYS on the rest of the line due to an earlier obstruction on the track at Queensbury.,RealTime
+2026-10-26T00:15:36Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-26T00:15:36Z,northern,Northern,10,Good Service,,
+2026-10-26T00:15:36Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-26T00:15:36Z,victoria,Victoria,10,Good Service,,
+2026-10-26T00:15:36Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
