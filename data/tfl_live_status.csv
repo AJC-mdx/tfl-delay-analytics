@@ -7946,3 +7946,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-26T07:30:58Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-26T07:30:58Z,victoria,Victoria,10,Good Service,,
 2026-10-26T07:30:58Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-26T07:45:41Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-26T07:45:41Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-26T07:45:41Z,circle,Circle,6,Severe Delays,Circle Line: Severe delays following a late finish of engineering work.,RealTime
+2026-10-26T07:45:41Z,district,District,6,Severe Delays,"District Line: Severe delays following a late finish of engineering works at Gloucester Road. Tickets are being accepted on London Buses, DLR, Mildmay line, Elizabeth line and South Western Railway.",RealTime
+2026-10-26T07:45:41Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-26T07:45:41Z,jubilee,Jubilee,10,Good Service,,
+2026-10-26T07:45:41Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-26T07:45:41Z,northern,Northern,10,Good Service,,
+2026-10-26T07:45:41Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-26T07:45:41Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-26T07:45:41Z,waterloo-city,Waterloo & City,10,Good Service,,
