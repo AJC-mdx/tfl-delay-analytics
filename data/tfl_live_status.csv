@@ -7968,3 +7968,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-26T08:01:02Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-26T08:01:02Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-26T08:01:02Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-26T08:15:35Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-26T08:15:35Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-26T08:15:35Z,circle,Circle,9,Minor Delays,Circle Line: Minor delays following a late finish of engineering work.,RealTime
+2026-10-26T08:15:35Z,district,District,6,Severe Delays,"District Line: Severe delays following a late finish of engineering works at Gloucester Road. Tickets are being accepted on London Buses, DLR, Mildmay line, Elizabeth line and South Western Railway. Piccadilly line trains are stopping at Turnham Green station.",RealTime
+2026-10-26T08:15:35Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-26T08:15:35Z,jubilee,Jubilee,10,Good Service,,
+2026-10-26T08:15:35Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-26T08:15:35Z,northern,Northern,10,Good Service,,
+2026-10-26T08:15:35Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-26T08:15:35Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-26T08:15:35Z,waterloo-city,Waterloo & City,10,Good Service,,
