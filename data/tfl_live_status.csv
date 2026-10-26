@@ -7690,3 +7690,14 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-26T02:31:01Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
 2026-10-26T02:31:01Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
 2026-10-26T02:31:01Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-10-26T02:45:34Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-10-26T02:45:34Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-10-26T02:45:34Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-10-26T02:45:34Z,district,District,20,Service Closed,"District Line: Service will resume later this morning. There will be no service between Ealing Broadway / Kensington (Olympia) / Wimbledon and Embankment due to a late finish to engineering work. Services will run between Richmond and Hammersmith, and between Upminster and Embankment.",RealTime
+2026-10-26T02:45:34Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-10-26T02:45:34Z,jubilee,Jubilee,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime
+2026-10-26T02:45:34Z,metropolitan,Metropolitan,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime
+2026-10-26T02:45:34Z,northern,Northern,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime
+2026-10-26T02:45:34Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime
+2026-10-26T02:45:34Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
+2026-10-26T02:45:34Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
