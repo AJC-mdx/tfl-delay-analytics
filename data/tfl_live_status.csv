@@ -8490,3 +8490,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-26T19:15:38Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-26T19:15:38Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-26T19:15:38Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-26T19:30:53Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-26T19:30:53Z,central,Central,6,Severe Delays,Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route.,RealTime
+2026-10-26T19:30:53Z,central,Central,9,Minor Delays,Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route.,RealTime
+2026-10-26T19:30:53Z,circle,Circle,10,Good Service,,
+2026-10-26T19:30:53Z,district,District,10,Good Service,,
+2026-10-26T19:30:53Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-26T19:30:53Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to earlier faulty platform edge doors at Canary Wharf.,RealTime
+2026-10-26T19:30:53Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-26T19:30:53Z,northern,Northern,10,Good Service,,
+2026-10-26T19:30:53Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-26T19:30:53Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-26T19:30:53Z,waterloo-city,Waterloo & City,10,Good Service,,
