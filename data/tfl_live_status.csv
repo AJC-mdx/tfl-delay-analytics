@@ -9159,3 +9159,16 @@ Tickets are being accepted on London Buses, London Trams, Southeastern, Thamesli
 2026-10-27T08:30:49Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-27T08:30:49Z,victoria,Victoria,9,Minor Delays,Victoria Line:  Minor delays due to train cancellations.,RealTime
 2026-10-27T08:30:49Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-27T08:45:36Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-27T08:45:36Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-27T08:45:36Z,circle,Circle,6,Severe Delays,Circle Line: Severe delays due to an earlier faulty train at Barbican.,RealTime
+2026-10-27T08:45:36Z,district,District,9,Minor Delays,District Line: Minor delays due to train cancellations.,RealTime
+2026-10-27T08:45:36Z,hammersmith-city,Hammersmith & City,6,Severe Delays,Hammersmith and City Line: Severe delays due to an earlier faulty train at Barbican.,RealTime
+2026-10-27T08:45:36Z,jubilee,Jubilee,10,Good Service,,
+2026-10-27T08:45:36Z,metropolitan,Metropolitan,6,Severe Delays,Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-27T08:45:36Z,metropolitan,Metropolitan,3,Part Suspended,Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS between Harrow-on-the-Hill and Baker Street while we fix a faulty train at Barbican. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-27T08:45:36Z,northern,Northern,6,Severe Delays,"Northern Line: Severe delays due to an earlier signal failure at Balham. 
+Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway Services.",RealTime
+2026-10-27T08:45:36Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-27T08:45:36Z,victoria,Victoria,9,Minor Delays,Victoria Line:  Minor delays due to train cancellations.,RealTime
+2026-10-27T08:45:36Z,waterloo-city,Waterloo & City,10,Good Service,,
