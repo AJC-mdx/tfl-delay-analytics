@@ -8737,3 +8737,15 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-27T00:01:03Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Ruislip. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route.,RealTime
 2026-10-27T00:01:03Z,victoria,Victoria,10,Good Service,,
 2026-10-27T00:01:03Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-27T00:15:36Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-27T00:15:36Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-27T00:15:36Z,circle,Circle,10,Good Service,,
+2026-10-27T00:15:36Z,district,District,10,Good Service,,
+2026-10-27T00:15:36Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-27T00:15:36Z,jubilee,Jubilee,10,Good Service,,
+2026-10-27T00:15:36Z,metropolitan,Metropolitan,9,Minor Delays,"Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses.",RealTime
+2026-10-27T00:15:36Z,metropolitan,Metropolitan,3,Part Suspended,"Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge, and MINOR DELAYS on the rest of the line while we fix a signal failure at Ruislip. Tickets are being accepted on London Buses.",RealTime
+2026-10-27T00:15:36Z,northern,Northern,10,Good Service,,
+2026-10-27T00:15:36Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Ruislip. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route.,RealTime
+2026-10-27T00:15:36Z,victoria,Victoria,10,Good Service,,
+2026-10-27T00:15:36Z,waterloo-city,Waterloo & City,10,Good Service,,
