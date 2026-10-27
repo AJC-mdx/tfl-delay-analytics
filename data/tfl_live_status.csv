@@ -9185,3 +9185,16 @@ Tickets are being accepted on London Buses, London Trams, Southeastern, Thamesli
 2026-10-27T09:01:02Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-27T09:01:02Z,victoria,Victoria,9,Minor Delays,Victoria Line:  Minor delays due to train cancellations.,RealTime
 2026-10-27T09:01:02Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-27T09:15:38Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-27T09:15:38Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-27T09:15:38Z,circle,Circle,9,Minor Delays,Circle Line: Minor delays due to an earlier faulty train at Barbican.,RealTime
+2026-10-27T09:15:38Z,district,District,9,Minor Delays,District Line: Minor delays due to train cancellations.,RealTime
+2026-10-27T09:15:38Z,hammersmith-city,Hammersmith & City,9,Minor Delays,Hammersmith and City Line: Minor delays due to an earlier faulty train at Barbican.,RealTime
+2026-10-27T09:15:38Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays between Willesden Green and North Greenwich eastbound only due to an earlier faulty train at Finchley Road. GOOD SERVICE on the rest of the line.,RealTime
+2026-10-27T09:15:38Z,metropolitan,Metropolitan,9,Minor Delays,"Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate due to an earlier faulty train at Barbican. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. MINOR DELAYS on the rest of the line.",RealTime
+2026-10-27T09:15:38Z,metropolitan,Metropolitan,6,Severe Delays,"Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate due to an earlier faulty train at Barbican. Tickets are being accepted on London Buses, London Overground, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. MINOR DELAYS on the rest of the line.",RealTime
+2026-10-27T09:15:38Z,northern,Northern,6,Severe Delays,"Northern Line: Severe delays due to an earlier signal failure at Balham. 
+Tickets are being accepted on London Buses, London Trams, Southeastern, Thameslink and South Western Railway Services.",RealTime
+2026-10-27T09:15:38Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-27T09:15:38Z,victoria,Victoria,9,Minor Delays,Victoria Line:  Minor delays due to train cancellations.,RealTime
+2026-10-27T09:15:38Z,waterloo-city,Waterloo & City,10,Good Service,,
