@@ -9039,3 +9039,16 @@ collected_at_utc,line_id,line_name,status_severity,status_description,reason,dis
 2026-10-27T06:30:59Z,piccadilly,Piccadilly,10,Good Service,,
 2026-10-27T06:30:59Z,victoria,Victoria,10,Good Service,,
 2026-10-27T06:30:59Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-27T06:45:37Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-27T06:45:37Z,central,Central,10,Good Service,,
+2026-10-27T06:45:37Z,circle,Circle,10,Good Service,,
+2026-10-27T06:45:37Z,district,District,10,Good Service,,
+2026-10-27T06:45:37Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-27T06:45:37Z,jubilee,Jubilee,10,Good Service,,
+2026-10-27T06:45:37Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-27T06:45:37Z,northern,Northern,6,Severe Delays,Northern Line: No service between Stockwell and Morden southbound only and SEVERE DELAYS between Morden and Kennington northbound only while we fix a signal failure at Balham. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line.,RealTime
+2026-10-27T06:45:37Z,northern,Northern,9,Minor Delays,Northern Line: No service between Stockwell and Morden southbound only and SEVERE DELAYS between Morden and Kennington northbound only while we fix a signal failure at Balham. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line.,RealTime
+2026-10-27T06:45:37Z,northern,Northern,3,Part Suspended,Northern Line: No service between Stockwell and Morden southbound only and SEVERE DELAYS between Morden and Kennington northbound only while we fix a signal failure at Balham. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line.,RealTime
+2026-10-27T06:45:37Z,piccadilly,Piccadilly,10,Good Service,,
+2026-10-27T06:45:37Z,victoria,Victoria,10,Good Service,,
+2026-10-27T06:45:37Z,waterloo-city,Waterloo & City,10,Good Service,,
