@@ -10086,3 +10086,14 @@ Tickets are being accepted on London Buses, London Trams, Southeastern, Thamesli
 2026-10-28T04:15:38Z,piccadilly,Piccadilly,20,Service Closed,Piccadilly Line: Service will resume later this morning. There will be no service between Cockfosters and Uxbridge due to planned engineering work.,RealTime
 2026-10-28T04:15:38Z,victoria,Victoria,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime
 2026-10-28T04:15:38Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-10-28T04:30:54Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-28T04:30:54Z,central,Central,10,Good Service,,
+2026-10-28T04:30:54Z,circle,Circle,10,Good Service,,
+2026-10-28T04:30:54Z,district,District,10,Good Service,,
+2026-10-28T04:30:54Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-28T04:30:54Z,jubilee,Jubilee,10,Good Service,,
+2026-10-28T04:30:54Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-28T04:30:54Z,northern,Northern,10,Good Service,,
+2026-10-28T04:30:54Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate.",PlannedWork
+2026-10-28T04:30:54Z,victoria,Victoria,10,Good Service,,
+2026-10-28T04:30:54Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
