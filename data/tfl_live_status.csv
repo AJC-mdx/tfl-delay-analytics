@@ -10731,3 +10731,16 @@ Tickets are being accepted on London Buses, London Trams, Southeastern, Thamesli
 2026-10-28T18:01:05Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate.",PlannedWork
 2026-10-28T18:01:05Z,victoria,Victoria,10,Good Service,,
 2026-10-28T18:01:05Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-28T18:15:42Z,bakerloo,Bakerloo,10,Good Service,,
+2026-10-28T18:15:42Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-28T18:15:42Z,circle,Circle,6,Severe Delays,Circle Line: No service between Edgware Road and Aldgate via Victoria while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses.,RealTime
+2026-10-28T18:15:42Z,circle,Circle,3,Part Suspended,Circle Line: No service between Edgware Road and Aldgate via Victoria while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses.,RealTime
+2026-10-28T18:15:42Z,district,District,6,Severe Delays,"District Line: No service between Whitechapel and Embankment while emergency services deal with a casualty on the track. SEVERE DELAYS on the rest of the line. London Buses, Mildmay line, DLR, Elizabeth line and South Western Railway are accepting valid tickets via any reasonable route.",RealTime
+2026-10-28T18:15:42Z,district,District,3,Part Suspended,"District Line: No service between Whitechapel and Embankment while emergency services deal with a casualty on the track. SEVERE DELAYS on the rest of the line. London Buses, Mildmay line, DLR, Elizabeth line and South Western Railway are accepting valid tickets via any reasonable route.",RealTime
+2026-10-28T18:15:42Z,hammersmith-city,Hammersmith & City,6,Severe Delays,"Hammersmith and City Line: Severe delays while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses, London Overground, DLR, Elizabeth line, C2C and South Western Railway.",RealTime
+2026-10-28T18:15:42Z,jubilee,Jubilee,10,Good Service,,
+2026-10-28T18:15:42Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-28T18:15:42Z,northern,Northern,10,Good Service,,
+2026-10-28T18:15:42Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate.",PlannedWork
+2026-10-28T18:15:42Z,victoria,Victoria,10,Good Service,,
+2026-10-28T18:15:42Z,waterloo-city,Waterloo & City,10,Good Service,,
