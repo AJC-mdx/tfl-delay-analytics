@@ -10780,3 +10780,14 @@ Tickets are being accepted on London Buses, London Trams, Southeastern, Thamesli
 2026-10-28T19:01:07Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate.",PlannedWork
 2026-10-28T19:01:07Z,victoria,Victoria,10,Good Service,,
 2026-10-28T19:01:07Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-10-28T19:15:43Z,bakerloo,Bakerloo,9,Minor Delays,Bakerloo Line: Minor delays due to train cancellations.,RealTime
+2026-10-28T19:15:43Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-28T19:15:43Z,circle,Circle,6,Severe Delays,"Circle Line: Severe delays due to an earlier customer incident. London Buses, Mildmay line, DLR, Elizabeth line and South Western Railway are accepting valid tickets via any reasonable route.",RealTime
+2026-10-28T19:15:43Z,district,District,6,Severe Delays,"District Line: Severe delays due to an earlier customer incident. London Buses, Mildmay line, DLR, Elizabeth line and South Western Railway are accepting valid tickets via any reasonable route.",RealTime
+2026-10-28T19:15:43Z,hammersmith-city,Hammersmith & City,6,Severe Delays,"Hammersmith and City Line: Severe delays while emergency services deal with a casualty on the track. Tickets will be accepted on London Buses, London Overground, DLR, Elizabeth line, C2C and South Western Railway.",RealTime
+2026-10-28T19:15:43Z,jubilee,Jubilee,10,Good Service,,
+2026-10-28T19:15:43Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-28T19:15:43Z,northern,Northern,10,Good Service,,
+2026-10-28T19:15:43Z,piccadilly,Piccadilly,5,Part Closure,"PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate.",PlannedWork
+2026-10-28T19:15:43Z,victoria,Victoria,10,Good Service,,
+2026-10-28T19:15:43Z,waterloo-city,Waterloo & City,10,Good Service,,
