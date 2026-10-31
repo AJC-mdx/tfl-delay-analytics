@@ -14322,3 +14322,16 @@ Tickets are being accepted on London Buses, London Trams, Southeastern, Thamesli
 2026-10-31T20:01:01Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-10-31T20:01:01Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
 2026-10-31T20:01:01Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-10-31T20:15:37Z,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone, and MINOR DELAYS on the rest of the line due to an earlier points failure at Elephant & Castle.  Tickets are being accepted on London Buses.",RealTime
+2026-10-31T20:15:37Z,bakerloo,Bakerloo,9,Minor Delays,"Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone, and MINOR DELAYS on the rest of the line due to an earlier points failure at Elephant & Castle.  Tickets are being accepted on London Buses.",RealTime
+2026-10-31T20:15:37Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-10-31T20:15:37Z,circle,Circle,10,Good Service,,
+2026-10-31T20:15:37Z,district,District,6,Severe Delays,District Line: Severe delays due to train cancellations.,RealTime
+2026-10-31T20:15:37Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-10-31T20:15:37Z,jubilee,Jubilee,10,Good Service,,
+2026-10-31T20:15:37Z,metropolitan,Metropolitan,10,Good Service,,
+2026-10-31T20:15:37Z,northern,Northern,10,Good Service,,
+2026-10-31T20:15:37Z,piccadilly,Piccadilly,4,Planned Closure,"PICCADILLY LINE: Saturday 31 October, from 0100, and all day Sunday 1 November, including Friday and Saturday Night Tube, no service on the entire line. Use ELIZABETH LINE services between Central London and Heathrow, and METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement bus services operate.",PlannedWork
+2026-10-31T20:15:37Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-10-31T20:15:37Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-10-31T20:15:37Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
