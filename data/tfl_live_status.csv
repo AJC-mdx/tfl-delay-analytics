@@ -14898,3 +14898,16 @@ Tickets are being accepted on London Buses, London Trams, Southeastern, Thamesli
 2026-11-01T08:00:59Z,piccadilly,Piccadilly,4,Planned Closure,"PICCADILLY LINE: Saturday 31 October, from 0100, and all day Sunday 1 November, including Friday and Saturday Night Tube, no service on the entire line. Use ELIZABETH LINE services between Central London and Heathrow, and METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement bus services operate.",PlannedWork
 2026-11-01T08:00:59Z,victoria,Victoria,10,Good Service,,
 2026-11-01T08:00:59Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-01T08:03:58Z,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone while we fix a points failure at Elephant & Castle. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line and Thameslink services.",RealTime
+2026-11-01T08:03:58Z,bakerloo,Bakerloo,9,Minor Delays,"Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone while we fix a points failure at Elephant & Castle. MINOR DELAYS on the rest of the line. Tickets being accepted on London Buses, Lioness line and Thameslink services.",RealTime
+2026-11-01T08:03:58Z,central,Central,10,Good Service,,
+2026-11-01T08:03:58Z,circle,Circle,10,Good Service,,
+2026-11-01T08:03:58Z,district,District,6,Severe Delays,District Line: Severe delays between Earl's Court and Kensington Olympia and MINOR DELAYS between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-01T08:03:58Z,district,District,9,Minor Delays,District Line: Severe delays between Earl's Court and Kensington Olympia and MINOR DELAYS between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-01T08:03:58Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-01T08:03:58Z,jubilee,Jubilee,10,Good Service,,
+2026-11-01T08:03:58Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-01T08:03:58Z,northern,Northern,10,Good Service,,
+2026-11-01T08:03:58Z,piccadilly,Piccadilly,4,Planned Closure,"PICCADILLY LINE: Saturday 31 October, from 0100, and all day Sunday 1 November, including Friday and Saturday Night Tube, no service on the entire line. Use ELIZABETH LINE services between Central London and Heathrow, and METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement bus services operate.",PlannedWork
+2026-11-01T08:03:58Z,victoria,Victoria,10,Good Service,,
+2026-11-01T08:03:58Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
