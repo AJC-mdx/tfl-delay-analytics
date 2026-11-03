@@ -17736,3 +17736,15 @@ Severe delays between North Acton and Ealing Broadway  and between Leytonstone a
 2026-11-03T18:15:50Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-03T18:15:50Z,victoria,Victoria,10,Good Service,,
 2026-11-03T18:15:50Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-03T18:31:02Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-03T18:31:02Z,central,Central,6,Severe Delays,"Central Line: Severe delays due to an earlier faulty train at Bond Street. Tickets are being accepted on London Buses, Greater Anglia and the Elizabeth Line.",RealTime
+2026-11-03T18:31:02Z,circle,Circle,6,Severe Delays,Circle Line: Severe delays anticlockwise only due to an earlier faulty train at South Kensington. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.,RealTime
+2026-11-03T18:31:02Z,district,District,6,Severe Delays,District Line: Severe delays between Tower Hill and Upminster. MINOR DELAYS between Turnham Green and Richmond due to an earlier faulty train at South Kensington. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route.,RealTime
+2026-11-03T18:31:02Z,district,District,9,Minor Delays,District Line: Severe delays between Tower Hill and Upminster. MINOR DELAYS between Turnham Green and Richmond due to an earlier faulty train at South Kensington. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route.,RealTime
+2026-11-03T18:31:02Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-03T18:31:02Z,jubilee,Jubilee,10,Good Service,,
+2026-11-03T18:31:02Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-03T18:31:02Z,northern,Northern,10,Good Service,,
+2026-11-03T18:31:02Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-03T18:31:02Z,victoria,Victoria,10,Good Service,,
+2026-11-03T18:31:02Z,waterloo-city,Waterloo & City,10,Good Service,,
