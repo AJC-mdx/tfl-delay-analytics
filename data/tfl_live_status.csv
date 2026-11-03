@@ -17403,3 +17403,15 @@ Severe delays between North Acton and Ealing Broadway  and between Leytonstone a
 2026-11-03T11:01:06Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Rayners Lane / Heathrow Terminals westbound only due to an earlier signalling problem at Acton Town. GOOD SERVICE on the rest of the line.,RealTime
 2026-11-03T11:01:06Z,victoria,Victoria,10,Good Service,,
 2026-11-03T11:01:06Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-03T11:15:41Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-03T11:15:41Z,central,Central,9,Minor Delays,Central Line: Minor delays between North Acton and Ealing Broadway/ West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to earlier signal failures at Hanger Lane and Loughton. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-03T11:15:41Z,circle,Circle,10,Good Service,,
+2026-11-03T11:15:41Z,district,District,6,Severe Delays,District Line: Severe delays between Earl's Court and Wimbledon while we fix a faulty train at Parsons Green. MINOR DELAYS between Earl's Court and Ealing Broadway / Richmond due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-03T11:15:41Z,district,District,9,Minor Delays,District Line: Severe delays between Earl's Court and Wimbledon while we fix a faulty train at Parsons Green. MINOR DELAYS between Earl's Court and Ealing Broadway / Richmond due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-03T11:15:41Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-03T11:15:41Z,jubilee,Jubilee,10,Good Service,,
+2026-11-03T11:15:41Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-03T11:15:41Z,northern,Northern,10,Good Service,,
+2026-11-03T11:15:41Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Rayners Lane / Heathrow Terminals westbound only due to an earlier signalling problem at Acton Town. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-03T11:15:41Z,victoria,Victoria,10,Good Service,,
+2026-11-03T11:15:41Z,waterloo-city,Waterloo & City,10,Good Service,,
