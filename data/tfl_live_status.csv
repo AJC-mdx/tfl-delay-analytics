@@ -17874,3 +17874,14 @@ Severe delays between North Acton and Ealing Broadway  and between Leytonstone a
 2026-11-03T21:15:44Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-03T21:15:44Z,victoria,Victoria,6,Severe Delays,"Victoria Line: Severe delays due to an earlier faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway,",RealTime
 2026-11-03T21:15:44Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-03T21:31:00Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-03T21:31:00Z,central,Central,9,Minor Delays,Central Line: Minor delays due to an earlier faulty train at Bond Street.,RealTime
+2026-11-03T21:31:00Z,circle,Circle,10,Good Service,,
+2026-11-03T21:31:00Z,district,District,10,Good Service,,
+2026-11-03T21:31:00Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-03T21:31:00Z,jubilee,Jubilee,10,Good Service,,
+2026-11-03T21:31:00Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill to Aldgate due to an earlier trespasser on the track. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-03T21:31:00Z,northern,Northern,10,Good Service,,
+2026-11-03T21:31:00Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-03T21:31:00Z,victoria,Victoria,6,Severe Delays,"Victoria Line: Severe delays due to an earlier faulty train at Warren Street. Tickets are being accepted on London Buses, Greater Anglia, Great Northern, Themeslink the Weaver line, Southeastern and South Western Railway,",RealTime
+2026-11-03T21:31:00Z,waterloo-city,Waterloo & City,2,Suspended,Waterloo and City Line: No service due to a fire alert. Tickets are being accepted on London Buses via reasonable routes.,RealTime
