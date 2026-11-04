@@ -18538,3 +18538,15 @@ Severe delays between North Acton and Ealing Broadway  and between Leytonstone a
 2026-11-04T11:30:55Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays due to an earlier signal failure at South Kensington. Tickets are being accepted on London Buses, Weaver line, Great Northern, South Western Railway, Weaver line and Elizabeth Line services via any reasonable route.",RealTime
 2026-11-04T11:30:55Z,victoria,Victoria,10,Good Service,,
 2026-11-04T11:30:55Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-04T11:45:39Z,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line while we fix a signal failure at Stonebridge Park. Tickets are being accepted on London Buses, Lioness line and London Northwestern Railway.",RealTime
+2026-11-04T11:45:39Z,bakerloo,Bakerloo,3,Part Suspended,"Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line while we fix a signal failure at Stonebridge Park. Tickets are being accepted on London Buses, Lioness line and London Northwestern Railway.",RealTime
+2026-11-04T11:45:39Z,central,Central,9,Minor Delays,Central Line: Minor delays Westbound only while we deal with a customer incident at Stratford. GOOD SERVICE Eastbound.,RealTime
+2026-11-04T11:45:39Z,circle,Circle,10,Good Service,,
+2026-11-04T11:45:39Z,district,District,9,Minor Delays,District Line: Minor delays due to train cancellations.,RealTime
+2026-11-04T11:45:39Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-04T11:45:39Z,jubilee,Jubilee,10,Good Service,,
+2026-11-04T11:45:39Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-04T11:45:39Z,northern,Northern,10,Good Service,,
+2026-11-04T11:45:39Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays due to an earlier signal failure at South Kensington. Tickets are being accepted on London Buses, Weaver line, Great Northern, South Western Railway, Weaver line and Elizabeth Line services via any reasonable route.",RealTime
+2026-11-04T11:45:39Z,victoria,Victoria,10,Good Service,,
+2026-11-04T11:45:39Z,waterloo-city,Waterloo & City,10,Good Service,,
