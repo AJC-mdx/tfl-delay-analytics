@@ -18774,3 +18774,14 @@ Severe delays between North Acton and Ealing Broadway  and between Leytonstone a
 2026-11-04T16:45:34Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-04T16:45:34Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-11-04T16:45:34Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-04T17:00:59Z,bakerloo,Bakerloo,9,Minor Delays,Bakerloo Line: Minor delays between Queen's Park and Harrow & Wealdstone due to an earlier signal failure at Stonebridge Park. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-04T17:00:59Z,central,Central,9,Minor Delays,Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to an earlier customer incident at Stratford. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-04T17:00:59Z,circle,Circle,10,Good Service,,
+2026-11-04T17:00:59Z,district,District,9,Minor Delays,District Line: Minor delays between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-04T17:00:59Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-04T17:00:59Z,jubilee,Jubilee,10,Good Service,,
+2026-11-04T17:00:59Z,metropolitan,Metropolitan,6,Severe Delays,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge while we fix a signal failure at Ruislip. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-04T17:00:59Z,northern,Northern,10,Good Service,,
+2026-11-04T17:00:59Z,piccadilly,Piccadilly,3,Part Suspended,Piccadilly Line: No service between South Harrow and Uxbridge while we fix a signal failure at Ruislip. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-04T17:00:59Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-11-04T17:00:59Z,waterloo-city,Waterloo & City,10,Good Service,,
