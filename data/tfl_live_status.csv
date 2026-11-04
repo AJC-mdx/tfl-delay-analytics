@@ -18575,3 +18575,17 @@ Severe delays between North Acton and Ealing Broadway  and between Leytonstone a
 2026-11-04T12:15:39Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays due to an earlier signal failure at South Kensington. Tickets are being accepted on London Buses, Weaver line, Great Northern, South Western Railway, Weaver line and Elizabeth Line services via any reasonable route.",RealTime
 2026-11-04T12:15:39Z,victoria,Victoria,10,Good Service,,
 2026-11-04T12:15:39Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-04T12:30:54Z,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line while we fix a signal failure at Stonebridge Park. Tickets are being accepted on London Buses, Lioness line and London Northwestern Railway.",RealTime
+2026-11-04T12:30:54Z,bakerloo,Bakerloo,3,Part Suspended,"Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line while we fix a signal failure at Stonebridge Park. Tickets are being accepted on London Buses, Lioness line and London Northwestern Railway.",RealTime
+2026-11-04T12:30:54Z,central,Central,6,Severe Delays,Central Line: Severe delays between White City and Ealing Broadway / West Ruislip. MINOR DELAYS westbound only due to an earlier customer incident at Stratford. GOOD SERVICE Eastbound.,RealTime
+2026-11-04T12:30:54Z,central,Central,9,Minor Delays,Central Line: Severe delays between White City and Ealing Broadway / West Ruislip. MINOR DELAYS westbound only due to an earlier customer incident at Stratford. GOOD SERVICE Eastbound.,RealTime
+2026-11-04T12:30:54Z,circle,Circle,10,Good Service,,
+2026-11-04T12:30:54Z,district,District,10,Good Service,,
+2026-11-04T12:30:54Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-04T12:30:54Z,jubilee,Jubilee,10,Good Service,,
+2026-11-04T12:30:54Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-04T12:30:54Z,northern,Northern,10,Good Service,,
+2026-11-04T12:30:54Z,piccadilly,Piccadilly,6,Severe Delays,"Piccadilly Line: Severe delays between Acton Town and Uxbridge due to an earlier signal failure at South Kensington. Tickets are being accepted on London Buses, Weaver line, Great Northern, South Western Railway, Weaver line and Elizabeth Line services via any reasonable route. MINOR DELAYS on the rest of the line.",RealTime
+2026-11-04T12:30:54Z,piccadilly,Piccadilly,9,Minor Delays,"Piccadilly Line: Severe delays between Acton Town and Uxbridge due to an earlier signal failure at South Kensington. Tickets are being accepted on London Buses, Weaver line, Great Northern, South Western Railway, Weaver line and Elizabeth Line services via any reasonable route. MINOR DELAYS on the rest of the line.",RealTime
+2026-11-04T12:30:54Z,victoria,Victoria,10,Good Service,,
+2026-11-04T12:30:54Z,waterloo-city,Waterloo & City,10,Good Service,,
