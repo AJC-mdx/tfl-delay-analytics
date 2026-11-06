@@ -20955,3 +20955,14 @@ MINOR DELAYS on the rest of the line due to train cancellations.",RealTime
 2026-11-06T15:15:33Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-06T15:15:33Z,victoria,Victoria,10,Good Service,,
 2026-11-06T15:15:33Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-06T15:30:47Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-06T15:30:47Z,central,Central,9,Minor Delays,Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-06T15:30:47Z,circle,Circle,10,Good Service,,
+2026-11-06T15:30:47Z,district,District,6,Severe Delays,District Line: Severe delays between Wimbledon and Edgware Road while we fix a signal failure at Southfields. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses and South Western Railway services.,RealTime
+2026-11-06T15:30:47Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-06T15:30:47Z,jubilee,Jubilee,10,Good Service,,
+2026-11-06T15:30:47Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-06T15:30:47Z,northern,Northern,10,Good Service,,
+2026-11-06T15:30:47Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-06T15:30:47Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays while we fix a faulty train at Green Park.,RealTime
+2026-11-06T15:30:47Z,waterloo-city,Waterloo & City,10,Good Service,,
