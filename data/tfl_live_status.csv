@@ -21240,3 +21240,15 @@ Following the 18:19 departure the next southbound departure will be 18:42.",Real
 2026-11-06T21:00:54Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-06T21:00:54Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-11-06T21:00:54Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-06T21:15:34Z,bakerloo,Bakerloo,9,Minor Delays,"Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden. Tickets will be accepted on London Buses, Lioness line and London Northwestern services. MINOR DELAYS on the rest of the line.",RealTime
+2026-11-06T21:15:34Z,bakerloo,Bakerloo,3,Part Suspended,"Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden. Tickets will be accepted on London Buses, Lioness line and London Northwestern services. MINOR DELAYS on the rest of the line.",RealTime
+2026-11-06T21:15:34Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-06T21:15:34Z,circle,Circle,10,Good Service,,
+2026-11-06T21:15:34Z,district,District,10,Good Service,,
+2026-11-06T21:15:34Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-06T21:15:34Z,jubilee,Jubilee,10,Good Service,,
+2026-11-06T21:15:34Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-06T21:15:34Z,northern,Northern,10,Good Service,,
+2026-11-06T21:15:34Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-06T21:15:34Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-11-06T21:15:34Z,waterloo-city,Waterloo & City,10,Good Service,,
