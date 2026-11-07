@@ -22009,3 +22009,15 @@ Following the 18:19 departure the next southbound departure will be 18:42.",Real
 2026-11-07T13:00:57Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-07T13:00:57Z,victoria,Victoria,10,Good Service,,
 2026-11-07T13:00:57Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-07T13:15:34Z,bakerloo,Bakerloo,9,Minor Delays,"Bakerloo Line: Severe delays between Harrow & Wealdstone and Queen's Park due to infrastructure damage at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Overground and North Western Railway.",RealTime
+2026-11-07T13:15:34Z,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays between Harrow & Wealdstone and Queen's Park due to infrastructure damage at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Overground and North Western Railway.",RealTime
+2026-11-07T13:15:34Z,central,Central,10,Good Service,,
+2026-11-07T13:15:34Z,circle,Circle,6,Severe Delays,Circle Line: Severe delays due to an earlier faulty train at Tower Hill. Tickets are being accepted on London Buses.,RealTime
+2026-11-07T13:15:34Z,district,District,9,Minor Delays,District Line: Minor delays between Tower Hill and Upminster due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-07T13:15:34Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-07T13:15:34Z,jubilee,Jubilee,10,Good Service,,
+2026-11-07T13:15:34Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-07T13:15:34Z,northern,Northern,6,Severe Delays,Northern Line: Severe delays between Camden Town and Battersea Power Station via Charing Cross while we respond to a fire alert at Embankment. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.,RealTime
+2026-11-07T13:15:34Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-07T13:15:34Z,victoria,Victoria,10,Good Service,,
+2026-11-07T13:15:34Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
