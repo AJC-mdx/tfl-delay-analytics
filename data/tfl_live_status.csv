@@ -21918,3 +21918,16 @@ Following the 18:19 departure the next southbound departure will be 18:42.",Real
 2026-11-07T11:15:34Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-07T11:15:34Z,victoria,Victoria,10,Good Service,,
 2026-11-07T11:15:34Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-07T11:30:45Z,bakerloo,Bakerloo,9,Minor Delays,"Bakerloo Line: Severe delays between Harrow & Wealdstone and Queen's Park due to infrastructure damage at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Overground and North Western Railway.",RealTime
+2026-11-07T11:30:45Z,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays between Harrow & Wealdstone and Queen's Park due to infrastructure damage at Harlesden. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses, London Overground and North Western Railway.",RealTime
+2026-11-07T11:30:45Z,central,Central,10,Good Service,,
+2026-11-07T11:30:45Z,circle,Circle,6,Severe Delays,Circle Line: Severe delays due to an earlier faulty train at Tower Hill. Tickets are being accepted on London Buses.,RealTime
+2026-11-07T11:30:45Z,district,District,9,Minor Delays,District Line: Severe delays between Tower Hill and Upminster and MINOR DELAYS between Tower Hill and Earl's Court due to an earlier faulty train at Tower Hill. Tickets are being accepted on London Buses and C2C. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-07T11:30:45Z,district,District,6,Severe Delays,District Line: Severe delays between Tower Hill and Upminster and MINOR DELAYS between Tower Hill and Earl's Court due to an earlier faulty train at Tower Hill. Tickets are being accepted on London Buses and C2C. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-07T11:30:45Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-07T11:30:45Z,jubilee,Jubilee,10,Good Service,,
+2026-11-07T11:30:45Z,metropolitan,Metropolitan,6,Severe Delays,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses.,RealTime
+2026-11-07T11:30:45Z,northern,Northern,10,Good Service,,
+2026-11-07T11:30:45Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-07T11:30:45Z,victoria,Victoria,10,Good Service,,
+2026-11-07T11:30:45Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
