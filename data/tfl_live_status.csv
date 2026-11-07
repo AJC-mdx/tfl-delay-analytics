@@ -22089,3 +22089,14 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-07T14:15:35Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-07T14:15:35Z,victoria,Victoria,10,Good Service,,
 2026-11-07T14:15:35Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-07T14:30:50Z,bakerloo,Bakerloo,9,Minor Delays,Bakerloo Line: Minor delays due to infrastructure damage at Harlesden.,RealTime
+2026-11-07T14:30:50Z,central,Central,9,Minor Delays,Central Line: Minor delays between Epping and Debden while we conduct a track inspection. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-07T14:30:50Z,circle,Circle,9,Minor Delays,Circle Line: Minor delays due to an earlier faulty train at Tower Hill.,RealTime
+2026-11-07T14:30:50Z,district,District,9,Minor Delays,District Line: Minor delays between Tower Hill and Upminster due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-07T14:30:50Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-07T14:30:50Z,jubilee,Jubilee,10,Good Service,,
+2026-11-07T14:30:50Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-07T14:30:50Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays between Camden Town and Battersea Power Station via Charing Cross due to an earlier fire alert at Embankment. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-07T14:30:50Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-07T14:30:50Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-11-07T14:30:50Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
