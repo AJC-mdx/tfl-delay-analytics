@@ -22314,3 +22314,15 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-07T19:00:59Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-07T19:00:59Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-11-07T19:00:59Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-07T19:15:33Z,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: No service between Piccadilly Circus and Elephant & Castle while we fix a points failure at Elephant & Castle. SEVERE DELAYS on the rest of the line due to infrastructure damage at Harlesden. Tickets will be accepted on London Buses, Thameslink and London Northwestern Railway.",RealTime
+2026-11-07T19:15:33Z,bakerloo,Bakerloo,3,Part Suspended,"Bakerloo Line: No service between Piccadilly Circus and Elephant & Castle while we fix a points failure at Elephant & Castle. SEVERE DELAYS on the rest of the line due to infrastructure damage at Harlesden. Tickets will be accepted on London Buses, Thameslink and London Northwestern Railway.",RealTime
+2026-11-07T19:15:33Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-07T19:15:33Z,circle,Circle,10,Good Service,,
+2026-11-07T19:15:33Z,district,District,9,Minor Delays,District Line: Minor delays between Ealing Broadway and Upminster and between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-07T19:15:33Z,hammersmith-city,Hammersmith & City,6,Severe Delays,Hammersmith and City Line: Severe delays due to train cancellations.,RealTime
+2026-11-07T19:15:33Z,jubilee,Jubilee,10,Good Service,,
+2026-11-07T19:15:33Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-07T19:15:33Z,northern,Northern,10,Good Service,,
+2026-11-07T19:15:33Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-07T19:15:33Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-11-07T19:15:33Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
