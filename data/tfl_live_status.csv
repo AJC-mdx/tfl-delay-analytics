@@ -21826,3 +21826,14 @@ Following the 18:19 departure the next southbound departure will be 18:42.",Real
 2026-11-07T09:15:35Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-07T09:15:35Z,victoria,Victoria,10,Good Service,,
 2026-11-07T09:15:35Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-07T09:30:46Z,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays between Harrow & Wealdstone and Queen's Park due to infrastructure damage at Harlesden. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses, London Overground and North Western Railway.",RealTime
+2026-11-07T09:30:46Z,central,Central,10,Good Service,,
+2026-11-07T09:30:46Z,circle,Circle,10,Good Service,,
+2026-11-07T09:30:46Z,district,District,9,Minor Delays,District Line: Minor delays between Earl's Court and Tower Hill due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-07T09:30:46Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-07T09:30:46Z,jubilee,Jubilee,10,Good Service,,
+2026-11-07T09:30:46Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays due to train cancellations.,RealTime
+2026-11-07T09:30:46Z,northern,Northern,10,Good Service,,
+2026-11-07T09:30:46Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-07T09:30:46Z,victoria,Victoria,10,Good Service,,
+2026-11-07T09:30:46Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
