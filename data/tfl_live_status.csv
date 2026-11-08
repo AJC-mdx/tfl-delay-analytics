@@ -23170,3 +23170,15 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-08T13:00:54Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-08T13:00:54Z,victoria,Victoria,10,Good Service,,
 2026-11-08T13:00:54Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-08T13:15:35Z,bakerloo,Bakerloo,6,Severe Delays,Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway.,RealTime
+2026-11-08T13:15:35Z,bakerloo,Bakerloo,3,Part Suspended,Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway.,RealTime
+2026-11-08T13:15:35Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-08T13:15:35Z,circle,Circle,10,Good Service,,
+2026-11-08T13:15:35Z,district,District,10,Good Service,,
+2026-11-08T13:15:35Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-08T13:15:35Z,jubilee,Jubilee,10,Good Service,,
+2026-11-08T13:15:35Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-08T13:15:35Z,northern,Northern,10,Good Service,,
+2026-11-08T13:15:35Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-08T13:15:35Z,victoria,Victoria,10,Good Service,,
+2026-11-08T13:15:35Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
