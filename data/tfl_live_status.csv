@@ -22930,3 +22930,15 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-08T08:00:55Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-08T08:00:55Z,victoria,Victoria,6,Severe Delays,Victoria Line: Severe delays due to an earlier customer incident at King's Cross St Pancras. Tickets are being accepted on London Buses.,RealTime
 2026-11-08T08:00:55Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-08T08:15:37Z,bakerloo,Bakerloo,6,Severe Delays,Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway.,RealTime
+2026-11-08T08:15:37Z,bakerloo,Bakerloo,3,Part Suspended,Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden and SEVERE DELAYS on the rest of the line while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway.,RealTime
+2026-11-08T08:15:37Z,central,Central,10,Good Service,,
+2026-11-08T08:15:37Z,circle,Circle,10,Good Service,,
+2026-11-08T08:15:37Z,district,District,10,Good Service,,
+2026-11-08T08:15:37Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-08T08:15:37Z,jubilee,Jubilee,10,Good Service,,
+2026-11-08T08:15:37Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-08T08:15:37Z,northern,Northern,10,Good Service,,
+2026-11-08T08:15:37Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-08T08:15:37Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to an earlier customer incident at King's Cross St Pancras.,RealTime
+2026-11-08T08:15:37Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
