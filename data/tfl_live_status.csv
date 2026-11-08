@@ -22557,3 +22557,14 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-08T00:15:36Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-08T00:15:36Z,victoria,Victoria,10,Good Service,,
 2026-11-08T00:15:36Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-08T00:30:47Z,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: Severe delays due to a points failure at Elephant & Castle. Tickets will be accepted on London Buses, Thameslink and London Northwestern Railway.",RealTime
+2026-11-08T00:30:47Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-08T00:30:47Z,circle,Circle,10,Good Service,,
+2026-11-08T00:30:47Z,district,District,9,Minor Delays,District Line: Minor delays between Ealing Broadway and Upminster and between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-08T00:30:47Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-08T00:30:47Z,jubilee,Jubilee,10,Good Service,,
+2026-11-08T00:30:47Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. The next departure from Amersham will be at 00:19. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-08T00:30:47Z,northern,Northern,10,Good Service,,
+2026-11-08T00:30:47Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-08T00:30:47Z,victoria,Victoria,10,Good Service,,
+2026-11-08T00:30:47Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
