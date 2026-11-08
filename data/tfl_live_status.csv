@@ -23361,3 +23361,15 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-08T17:00:58Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-08T17:00:58Z,victoria,Victoria,10,Good Service,,
 2026-11-08T17:00:58Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-08T17:15:33Z,bakerloo,Bakerloo,6,Severe Delays,Bakerloo Line: Severe delays due to earlier infrastructure damage at Harlesden and while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway.,RealTime
+2026-11-08T17:15:33Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-08T17:15:33Z,circle,Circle,6,Severe Delays,"Circle Line: Severe delays due to an earlier customer incident at High Street Kensington. Tickets are being accepted on London Buses, Elizabeth line and Thameslink.",RealTime
+2026-11-08T17:15:33Z,district,District,9,Minor Delays,District Line: No service between Earl's Court and Edgware Road due to an earlier customer incident at High Street Kensington. MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses and Elizabeth line.,RealTime
+2026-11-08T17:15:33Z,district,District,3,Part Suspended,District Line: No service between Earl's Court and Edgware Road due to an earlier customer incident at High Street Kensington. MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses and Elizabeth line.,RealTime
+2026-11-08T17:15:33Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-08T17:15:33Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to train cancellations.,RealTime
+2026-11-08T17:15:33Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-08T17:15:33Z,northern,Northern,10,Good Service,,
+2026-11-08T17:15:33Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-08T17:15:33Z,victoria,Victoria,10,Good Service,,
+2026-11-08T17:15:33Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
