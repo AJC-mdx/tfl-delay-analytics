@@ -23672,3 +23672,14 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-08T23:15:34Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-08T23:15:34Z,victoria,Victoria,10,Good Service,,
 2026-11-08T23:15:34Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-08T23:30:46Z,bakerloo,Bakerloo,6,Severe Delays,Bakerloo Line: Severe delays due to earlier infrastructure damage at Harlesden and while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway.,RealTime
+2026-11-08T23:30:46Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-08T23:30:46Z,circle,Circle,9,Minor Delays,Circle Line: Minor delays due to train cancellations.,RealTime
+2026-11-08T23:30:46Z,district,District,10,Good Service,,
+2026-11-08T23:30:46Z,hammersmith-city,Hammersmith & City,6,Severe Delays,"Hammersmith and City Line: Severe delays due to train cancellations. Customers wishing to travel to Barking should change at Plaistow for a District line train. Tickets will also be accepted on London Buses, DLR, Elizabeth line and c2c services.",RealTime
+2026-11-08T23:30:46Z,jubilee,Jubilee,10,Good Service,,
+2026-11-08T23:30:46Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Moor Park and Chesham/Watford due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-08T23:30:46Z,northern,Northern,10,Good Service,,
+2026-11-08T23:30:46Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-08T23:30:46Z,victoria,Victoria,10,Good Service,,
+2026-11-08T23:30:46Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
