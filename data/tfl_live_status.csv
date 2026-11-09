@@ -24590,3 +24590,16 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-09T19:00:59Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-09T19:00:59Z,victoria,Victoria,10,Good Service,,
 2026-11-09T19:00:59Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-09T19:15:35Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-09T19:15:35Z,central,Central,6,Severe Delays,"Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. MINOR DELAYS on the rest of the line. Ticket are being accepted on London Buses, Elizabeth line, Chiltern Railway and Great Western Railway.",RealTime
+2026-11-09T19:15:35Z,central,Central,9,Minor Delays,"Central Line: Severe delays between North Acton and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. MINOR DELAYS on the rest of the line. Ticket are being accepted on London Buses, Elizabeth line, Chiltern Railway and Great Western Railway.",RealTime
+2026-11-09T19:15:35Z,circle,Circle,10,Good Service,,
+2026-11-09T19:15:35Z,district,District,6,Severe Delays,District Line: Severe delays between Upminster and Barking due to train cancellations. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses and C2C.,RealTime
+2026-11-09T19:15:35Z,district,District,9,Minor Delays,District Line: Severe delays between Upminster and Barking due to train cancellations. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses and C2C.,RealTime
+2026-11-09T19:15:35Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-09T19:15:35Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to an earlier faulty train at Canary Wharf.,RealTime
+2026-11-09T19:15:35Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-09T19:15:35Z,northern,Northern,6,Severe Delays,Northern Line: Severe delays between Camden Town and Battersea Power Station via Charing Cross while we fix a signal failure at Waterloo. Tickets are being accepted on London Buses and Southeastern Railway. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-09T19:15:35Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-09T19:15:35Z,victoria,Victoria,10,Good Service,,
+2026-11-09T19:15:35Z,waterloo-city,Waterloo & City,10,Good Service,,
