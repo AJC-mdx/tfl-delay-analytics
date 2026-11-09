@@ -24215,3 +24215,14 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-09T10:45:39Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-09T10:45:39Z,victoria,Victoria,10,Good Service,,
 2026-11-09T10:45:39Z,waterloo-city,Waterloo & City,9,Minor Delays,Waterloo and City Line: Minor delays due to train cancellations,RealTime
+2026-11-09T11:01:00Z,bakerloo,Bakerloo,6,Severe Delays,Bakerloo Line: Severe delays while we fix a signal failure at Baker Street.,RealTime
+2026-11-09T11:01:00Z,central,Central,9,Minor Delays,"Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and between, Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.",RealTime
+2026-11-09T11:01:00Z,circle,Circle,10,Good Service,,
+2026-11-09T11:01:00Z,district,District,9,Minor Delays,District Line: Minor delays due to train cancellations.,RealTime
+2026-11-09T11:01:00Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-09T11:01:00Z,jubilee,Jubilee,10,Good Service,,
+2026-11-09T11:01:00Z,metropolitan,Metropolitan,6,Severe Delays,"Metropolitan Line: Severe delays due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink.",RealTime
+2026-11-09T11:01:00Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays between Camden Town and Battersea Power Station via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-09T11:01:00Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-09T11:01:00Z,victoria,Victoria,10,Good Service,,
+2026-11-09T11:01:00Z,waterloo-city,Waterloo & City,9,Minor Delays,Waterloo and City Line: Minor delays due to train cancellations,RealTime
