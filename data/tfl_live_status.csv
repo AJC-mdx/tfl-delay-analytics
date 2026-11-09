@@ -24262,3 +24262,15 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-09T11:45:39Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-09T11:45:39Z,victoria,Victoria,10,Good Service,,
 2026-11-09T11:45:39Z,waterloo-city,Waterloo & City,9,Minor Delays,Waterloo and City Line: Minor delays due to train cancellations,RealTime
+2026-11-09T12:00:59Z,bakerloo,Bakerloo,9,Minor Delays,Bakerloo Line: Minor delays while we fix a signal failure at Baker Street.,RealTime
+2026-11-09T12:00:59Z,central,Central,10,Good Service,,
+2026-11-09T12:00:59Z,circle,Circle,10,Good Service,,
+2026-11-09T12:00:59Z,district,District,10,Good Service,,
+2026-11-09T12:00:59Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-09T12:00:59Z,jubilee,Jubilee,10,Good Service,,
+2026-11-09T12:00:59Z,metropolitan,Metropolitan,6,Severe Delays,"Metropolitan Line: Severe delays between Aldgate and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.",RealTime
+2026-11-09T12:00:59Z,metropolitan,Metropolitan,9,Minor Delays,"Metropolitan Line: Severe delays between Aldgate and Uxbridge due to an earlier customer incident. Tickets will be accepted on London Buses, Lioness Line, London Northwestern Railway, Thameslink. MINOR DELAYS on the rest of the line.",RealTime
+2026-11-09T12:00:59Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays between Camden Town and Battersea Power Station via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-09T12:00:59Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-09T12:00:59Z,victoria,Victoria,10,Good Service,,
+2026-11-09T12:00:59Z,waterloo-city,Waterloo & City,9,Minor Delays,Waterloo and City Line: Minor delays due to train cancellations,RealTime
