@@ -25636,3 +25636,15 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-10T17:30:48Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-10T17:30:48Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays while we fix a track fault at Brixton.,RealTime
 2026-11-10T17:30:48Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-10T17:45:36Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-10T17:45:36Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-10T17:45:36Z,circle,Circle,10,Good Service,,
+2026-11-10T17:45:36Z,district,District,6,Severe Delays,"District Line: Severe delays between Turnham Green and Richmond due to a signal failure at Shepherd's Bush. SEVERE DELAYS between Barking and Upminster and MINOR DELAYS between Barking and Tower Hill due to train cancellations. Tickets are being accepted on London Buses, Mildmay line and South Western Railway services. GOOD SERVICE on the rest of the line.",RealTime
+2026-11-10T17:45:36Z,district,District,9,Minor Delays,"District Line: Severe delays between Turnham Green and Richmond due to a signal failure at Shepherd's Bush. SEVERE DELAYS between Barking and Upminster and MINOR DELAYS between Barking and Tower Hill due to train cancellations. Tickets are being accepted on London Buses, Mildmay line and South Western Railway services. GOOD SERVICE on the rest of the line.",RealTime
+2026-11-10T17:45:36Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-10T17:45:36Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to train cancellations.,RealTime
+2026-11-10T17:45:36Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-10T17:45:36Z,northern,Northern,10,Good Service,,
+2026-11-10T17:45:36Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-10T17:45:36Z,victoria,Victoria,6,Severe Delays,"Victoria Line: Severe delays while we fix a track fault at Brixton. Tickets are being accepted on London Buses, London Overground, Great Northern Railway, Thameslink, Greater Anglia, South Western Railway and Southeastern Railway services.",RealTime
+2026-11-10T17:45:36Z,waterloo-city,Waterloo & City,10,Good Service,,
