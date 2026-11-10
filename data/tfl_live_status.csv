@@ -24832,3 +24832,15 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-10T00:00:58Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-10T00:00:58Z,victoria,Victoria,10,Good Service,,
 2026-11-10T00:00:58Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-10T00:15:36Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-10T00:15:36Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-10T00:15:36Z,circle,Circle,10,Good Service,,
+2026-11-10T00:15:36Z,district,District,10,Good Service,,
+2026-11-10T00:15:36Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-10T00:15:36Z,jubilee,Jubilee,6,Severe Delays,"Jubilee Line: No service between Stratford and North Greenwich westbound only while we fix a points failure at North Greenwich. SEVERE DELAYS on the rest of the line due to an earlier person ill on a train. Tickets are being accepted on London Buses, DLR, Mildmay line, C2C and Elizabeth Line.",RealTime
+2026-11-10T00:15:36Z,jubilee,Jubilee,3,Part Suspended,"Jubilee Line: No service between Stratford and North Greenwich westbound only while we fix a points failure at North Greenwich. SEVERE DELAYS on the rest of the line due to an earlier person ill on a train. Tickets are being accepted on London Buses, DLR, Mildmay line, C2C and Elizabeth Line.",RealTime
+2026-11-10T00:15:36Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-10T00:15:36Z,northern,Northern,10,Good Service,,
+2026-11-10T00:15:36Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-10T00:15:36Z,victoria,Victoria,10,Good Service,,
+2026-11-10T00:15:36Z,waterloo-city,Waterloo & City,10,Good Service,,
