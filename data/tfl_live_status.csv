@@ -26835,3 +26835,15 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-11T18:49:04Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-11T18:49:04Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-11-11T18:49:04Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-11T19:00:56Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-11T19:00:56Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-11T19:00:56Z,circle,Circle,9,Minor Delays,Circle Line: Minor delays anticlockwise due to an earlier faulty train at Gloucester Road. GOOD SERVICE clockwise.,RealTime
+2026-11-11T19:00:56Z,district,District,6,Severe Delays,"District Line: Severe delays between Tower Hill and Ealing Broadway / Richmond while we fix a faulty train at Gloucester Road. MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted London Buses, the Mildmay line, the Elizabeth line and South Western Railway.",RealTime
+2026-11-11T19:00:56Z,district,District,9,Minor Delays,"District Line: Severe delays between Tower Hill and Ealing Broadway / Richmond while we fix a faulty train at Gloucester Road. MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted London Buses, the Mildmay line, the Elizabeth line and South Western Railway.",RealTime
+2026-11-11T19:00:56Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-11T19:00:56Z,jubilee,Jubilee,10,Good Service,,
+2026-11-11T19:00:56Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-11T19:00:56Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays between Camden Town and Kennington (via Charing Cross) southbound only while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-11T19:00:56Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-11T19:00:56Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-11-11T19:00:56Z,waterloo-city,Waterloo & City,10,Good Service,,
