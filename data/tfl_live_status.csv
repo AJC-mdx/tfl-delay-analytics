@@ -26893,3 +26893,14 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-11T20:00:57Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-11T20:00:57Z,victoria,Victoria,10,Good Service,,
 2026-11-11T20:00:57Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-11T20:15:36Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-11T20:15:36Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-11T20:15:36Z,circle,Circle,9,Minor Delays,Circle Line: Minor delays clockwise due to an earlier faulty train at Gloucester Road. GOOD SERVICE anticlockwise.,RealTime
+2026-11-11T20:15:36Z,district,District,6,Severe Delays,"District Line: Severe delays while we fix a signal failure at Stamford Brook and due to train cancellations. Tickets are being accepted London Buses, Mildmay line, Elizabeth line and South Western Railway via any reasonable route.",RealTime
+2026-11-11T20:15:36Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-11T20:15:36Z,jubilee,Jubilee,10,Good Service,,
+2026-11-11T20:15:36Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-11T20:15:36Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays between Camden Town and Kennington via Charing Cross southbound only while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-11T20:15:36Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-11T20:15:36Z,victoria,Victoria,10,Good Service,,
+2026-11-11T20:15:36Z,waterloo-city,Waterloo & City,10,Good Service,,
