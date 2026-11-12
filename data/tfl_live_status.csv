@@ -27881,3 +27881,15 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-12T17:30:50Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-12T17:30:50Z,victoria,Victoria,10,Good Service,,
 2026-11-12T17:30:50Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-12T17:45:34Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-12T17:45:34Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-12T17:45:34Z,circle,Circle,10,Good Service,,
+2026-11-12T17:45:34Z,district,District,10,Good Service,,
+2026-11-12T17:45:34Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-12T17:45:34Z,jubilee,Jubilee,6,Severe Delays,Jubilee Line: Severe delays between Willesden Green and Stanmore due to train cancellations. MINOR DELAYS on the rest of the line.,RealTime
+2026-11-12T17:45:34Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Severe delays between Willesden Green and Stanmore due to train cancellations. MINOR DELAYS on the rest of the line.,RealTime
+2026-11-12T17:45:34Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-12T17:45:34Z,northern,Northern,6,Severe Delays,"Northern Line: Severe delays due to an earlier points failure at Mornington Crescent. Tickets are  being accepted by London Buses, London Trams, Southeastern, Thameslink and South Western Railway services via any reasonable route.",RealTime
+2026-11-12T17:45:34Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-12T17:45:34Z,victoria,Victoria,10,Good Service,,
+2026-11-12T17:45:34Z,waterloo-city,Waterloo & City,10,Good Service,,
