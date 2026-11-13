@@ -28719,3 +28719,15 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-13T11:01:00Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Heathrow Airport due to an earlier points failure at Northfields. GOOD SERVICE on the rest of the line.,RealTime
 2026-11-13T11:01:00Z,victoria,Victoria,10,Good Service,,
 2026-11-13T11:01:00Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-13T11:15:37Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-13T11:15:37Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-13T11:15:37Z,circle,Circle,10,Good Service,,
+2026-11-13T11:15:37Z,district,District,9,Minor Delays,District Line: Minor delays between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-13T11:15:37Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-13T11:15:37Z,jubilee,Jubilee,10,Good Service,,
+2026-11-13T11:15:37Z,metropolitan,Metropolitan,3,Part Suspended,Metropolitan Line: No service between Chalfont & Latimer and Amersham while we fix a points failure at Amersham. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-13T11:15:37Z,northern,Northern,9,Minor Delays,"Northern Line: No service between Tooting Broadway and Morden while we fix a points failure at Morden. Ticket will be accepted on London Buses, London Trams and Thameslink railways. MINOR DELAYS between Kennington and Tooting Broadway. GOOD SERVICE on the rest of the line.",RealTime
+2026-11-13T11:15:37Z,northern,Northern,3,Part Suspended,"Northern Line: No service between Tooting Broadway and Morden while we fix a points failure at Morden. Ticket will be accepted on London Buses, London Trams and Thameslink railways. MINOR DELAYS between Kennington and Tooting Broadway. GOOD SERVICE on the rest of the line.",RealTime
+2026-11-13T11:15:37Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Heathrow Airport due to an earlier points failure at Northfields. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-13T11:15:37Z,victoria,Victoria,10,Good Service,,
+2026-11-13T11:15:37Z,waterloo-city,Waterloo & City,10,Good Service,,
