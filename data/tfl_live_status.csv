@@ -28232,3 +28232,14 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-13T01:01:01Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-13T01:01:01Z,victoria,Victoria,10,Good Service,,
 2026-11-13T01:01:01Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
+2026-11-13T01:15:35Z,bakerloo,Bakerloo,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime
+2026-11-13T01:15:35Z,central,Central,20,Service Closed,Central Line: Service will resume later this morning.,RealTime
+2026-11-13T01:15:35Z,circle,Circle,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime
+2026-11-13T01:15:35Z,district,District,20,Service Closed,District Line: Service will resume later this morning.,RealTime
+2026-11-13T01:15:35Z,hammersmith-city,Hammersmith & City,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime
+2026-11-13T01:15:35Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to train cancellations.,RealTime
+2026-11-13T01:15:35Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-13T01:15:35Z,northern,Northern,6,Severe Delays,"Northern Line: Severe delays due to an earlier points failure at Mornington Crescent. Tickets are  being accepted by London Buses, London Trams, Southeastern, Thameslink and South Western Railway services via any reasonable route.",RealTime
+2026-11-13T01:15:35Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-13T01:15:35Z,victoria,Victoria,10,Good Service,,
+2026-11-13T01:15:35Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime
