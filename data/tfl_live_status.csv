@@ -28708,3 +28708,14 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-13T10:45:35Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-13T10:45:35Z,victoria,Victoria,10,Good Service,,
 2026-11-13T10:45:35Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-13T11:01:00Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-13T11:01:00Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-13T11:01:00Z,circle,Circle,10,Good Service,,
+2026-11-13T11:01:00Z,district,District,9,Minor Delays,District Line: Minor delays due to train cancellations.,RealTime
+2026-11-13T11:01:00Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-13T11:01:00Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to an earlier points failure at Wembley Park.,RealTime
+2026-11-13T11:01:00Z,metropolitan,Metropolitan,3,Part Suspended,Metropolitan Line: No service between Chalfont & Latimer and Amersham while we fix a points failure at Amersham. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-13T11:01:00Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays between Kennington and Morden due to an earlier points failure at Morden. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-13T11:01:00Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Heathrow Airport due to an earlier points failure at Northfields. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-13T11:01:00Z,victoria,Victoria,10,Good Service,,
+2026-11-13T11:01:00Z,waterloo-city,Waterloo & City,10,Good Service,,
