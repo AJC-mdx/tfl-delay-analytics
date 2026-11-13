@@ -28541,3 +28541,16 @@ MINOR DELAYS on the rest of the line.",RealTime
 2026-11-13T07:30:48Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-13T07:30:48Z,victoria,Victoria,10,Good Service,,
 2026-11-13T07:30:48Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-13T07:45:40Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-13T07:45:40Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-13T07:45:40Z,circle,Circle,10,Good Service,,
+2026-11-13T07:45:40Z,district,District,9,Minor Delays,"District Line: Severe delays between Tower Hill and Upminster eastbound only due to train cancellations. London Buses, Mildmay line, DLR, Elizabeth line, C2C and South Western Railway are accepting valid tickets via any reasonable route. MINOR DELAYS on the rest of the line.",RealTime
+2026-11-13T07:45:40Z,district,District,6,Severe Delays,"District Line: Severe delays between Tower Hill and Upminster eastbound only due to train cancellations. London Buses, Mildmay line, DLR, Elizabeth line, C2C and South Western Railway are accepting valid tickets via any reasonable route. MINOR DELAYS on the rest of the line.",RealTime
+2026-11-13T07:45:40Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-13T07:45:40Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: No service between Stanmore and Willesden Green and MINOR DELAYS on the rest of the line while we fix a points failure at Wembley Park. London Buses are accepting valid tickets via any reasonable route.,RealTime
+2026-11-13T07:45:40Z,jubilee,Jubilee,3,Part Suspended,Jubilee Line: No service between Stanmore and Willesden Green and MINOR DELAYS on the rest of the line while we fix a points failure at Wembley Park. London Buses are accepting valid tickets via any reasonable route.,RealTime
+2026-11-13T07:45:40Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-13T07:45:40Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays between Camden Town and Kennington via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-13T07:45:40Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-13T07:45:40Z,victoria,Victoria,10,Good Service,,
+2026-11-13T07:45:40Z,waterloo-city,Waterloo & City,10,Good Service,,
