@@ -30258,3 +30258,17 @@ Tickets are being accepted on London Buses, Chiltern Railways, Liberty Line and 
 2026-11-14T16:30:47Z,victoria,Victoria,10,Good Service,,
 2026-11-14T16:30:47Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
 2026-11-14T16:30:47Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-11-14T16:38:15Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-14T16:38:15Z,central,Central,9,Minor Delays,Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-14T16:38:15Z,circle,Circle,10,Good Service,,
+2026-11-14T16:38:15Z,district,District,6,Severe Delays,District Line: No service between Earl's Court and Kensington (Olympia) due to train cancellations. SEVERE DELAYS between Turnham Green and Ealing Broadway while we deal with a signalling problem. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-14T16:38:15Z,district,District,3,Part Suspended,District Line: No service between Earl's Court and Kensington (Olympia) due to train cancellations. SEVERE DELAYS between Turnham Green and Ealing Broadway while we deal with a signalling problem. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-14T16:38:15Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-14T16:38:15Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to an earlier points failure at Wembley Park.,RealTime
+2026-11-14T16:38:15Z,metropolitan,Metropolitan,6,Severe Delays,Metropolitan Line: Severe delays between Moor Park and Watford and MINOR DELAYS on the rest of the line due to train cancellations.  London Buses are accepting tickets via any reasonable route.,RealTime
+2026-11-14T16:38:15Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Severe delays between Moor Park and Watford and MINOR DELAYS on the rest of the line due to train cancellations.  London Buses are accepting tickets via any reasonable route.,RealTime
+2026-11-14T16:38:15Z,northern,Northern,5,Part Closure,"NORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only, for Night journeys please use Night Bus services",PlannedWork
+2026-11-14T16:38:15Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-14T16:38:15Z,victoria,Victoria,10,Good Service,,
+2026-11-14T16:38:15Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-14T16:38:15Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
