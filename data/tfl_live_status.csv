@@ -29809,3 +29809,17 @@ Tickets are being accepted on London Buses, Chiltern Railways, Liberty Line and 
 2026-11-14T08:30:50Z,victoria,Victoria,10,Good Service,,
 2026-11-14T08:30:50Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
 2026-11-14T08:30:50Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-11-14T08:45:35Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-14T08:45:35Z,central,Central,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime
+2026-11-14T08:45:35Z,circle,Circle,10,Good Service,,
+2026-11-14T08:45:35Z,district,District,6,Severe Delays,District Line: No service between Ealing Broadway and Turnham Green eastbound only due to a signal failure at Chiswick Park. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses.,RealTime
+2026-11-14T08:45:35Z,district,District,9,Minor Delays,District Line: No service between Ealing Broadway and Turnham Green eastbound only due to a signal failure at Chiswick Park. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses.,RealTime
+2026-11-14T08:45:35Z,district,District,3,Part Suspended,District Line: No service between Ealing Broadway and Turnham Green eastbound only due to a signal failure at Chiswick Park. SEVERE DELAYS between Earl's Court and Kensington (Olympia) due to train cancellations. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses.,RealTime
+2026-11-14T08:45:35Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-14T08:45:35Z,jubilee,Jubilee,6,Severe Delays,"Jubilee Line: Severe delays due to an earlier points failure at Wembley Park. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Southeastern and Thameslink.",RealTime
+2026-11-14T08:45:35Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-14T08:45:35Z,northern,Northern,5,Part Closure,"NORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only, for Night journeys please use Night Bus services",PlannedWork
+2026-11-14T08:45:35Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays due to an earlier animal on the track.,RealTime
+2026-11-14T08:45:35Z,victoria,Victoria,10,Good Service,,
+2026-11-14T08:45:35Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-14T08:45:35Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
