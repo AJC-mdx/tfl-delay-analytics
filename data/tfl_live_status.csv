@@ -30326,3 +30326,16 @@ Tickets are being accepted on London Buses, Chiltern Railways, Liberty Line and 
 2026-11-14T17:30:46Z,victoria,Victoria,10,Good Service,,
 2026-11-14T17:30:46Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
 2026-11-14T17:30:46Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-11-14T17:45:34Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-14T17:45:34Z,central,Central,6,Severe Delays,Central Line: Severe delays between Leytonstone and Epping and between North Acton and West Ruislip due to an earlier customer incident. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line.,RealTime
+2026-11-14T17:45:34Z,central,Central,9,Minor Delays,Central Line: Severe delays between Leytonstone and Epping and between North Acton and West Ruislip due to an earlier customer incident. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line.,RealTime
+2026-11-14T17:45:34Z,circle,Circle,10,Good Service,,
+2026-11-14T17:45:34Z,district,District,9,Minor Delays,"District Line: Minor delays between Turnham Green and Ealing Broadway and between Tower Hill and Barking eastbound only, while we fix a signalling problem. GOOD SERVICE on the rest of the line.",RealTime
+2026-11-14T17:45:34Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-14T17:45:34Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays due to an earlier points failure at Wembley Park.,RealTime
+2026-11-14T17:45:34Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays due to train cancellations.,RealTime
+2026-11-14T17:45:34Z,northern,Northern,5,Part Closure,"NORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only, for Night journeys please use Night Bus services",PlannedWork
+2026-11-14T17:45:34Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Uxbridge and Rayners Lane due to an earlier signalling problem at Ealing Common. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-14T17:45:34Z,victoria,Victoria,10,Good Service,,
+2026-11-14T17:45:34Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-14T17:45:34Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
