@@ -29669,3 +29669,15 @@ Tickets are being accepted on London Buses, Chiltern Railways, Liberty Line and 
 2026-11-14T06:00:55Z,victoria,Victoria,10,Good Service,,
 2026-11-14T06:00:55Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
 2026-11-14T06:00:55Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-11-14T06:15:37Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-14T06:15:37Z,central,Central,10,Good Service,,
+2026-11-14T06:15:37Z,circle,Circle,10,Good Service,,
+2026-11-14T06:15:37Z,district,District,10,Good Service,,
+2026-11-14T06:15:37Z,hammersmith-city,Hammersmith & City,9,Minor Delays,Hammersmith and City Line: Minor Delays due to train cancellations.,RealTime
+2026-11-14T06:15:37Z,jubilee,Jubilee,9,Minor Delays,Jubilee Line: Minor delays between Finchley Road and Stanmore while we fix a points failure at Wembley Park. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-14T06:15:37Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Moor Park and Chesham due to train cancellations. The next southbound train will be at 06:56. Minor Delays Moor park to Watford while we fix a signal failure at Watford. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-14T06:15:37Z,northern,Northern,5,Part Closure,"NORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only, for Night journeys please use Night Bus services",PlannedWork
+2026-11-14T06:15:37Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays between Cockfosters and Acton Town Westbound while we deal with an animal on the track. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-14T06:15:37Z,victoria,Victoria,10,Good Service,,
+2026-11-14T06:15:37Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-14T06:15:37Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
