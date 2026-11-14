@@ -30122,3 +30122,16 @@ Tickets are being accepted on London Buses, Chiltern Railways, Liberty Line and 
 2026-11-14T14:00:56Z,victoria,Victoria,10,Good Service,,
 2026-11-14T14:00:56Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
 2026-11-14T14:00:56Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-11-14T14:15:33Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-14T14:15:33Z,central,Central,10,Good Service,,
+2026-11-14T14:15:33Z,circle,Circle,10,Good Service,,
+2026-11-14T14:15:33Z,district,District,10,Good Service,,
+2026-11-14T14:15:33Z,hammersmith-city,Hammersmith & City,9,Minor Delays,Hammersmith and City Line: Minor delays due to train cancellations.,RealTime
+2026-11-14T14:15:33Z,jubilee,Jubilee,6,Severe Delays,"Jubilee Line: Severe delays due to an earlier points failure at Wembley Park. Tickets are being accepted on London Buses, Mildmay line, DLR, Elizabeth line, C2C, Southeastern and Thameslink.",RealTime
+2026-11-14T14:15:33Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Severe delays between Aldgate and Uxbridge and MINOR DELAYS on the rest of the line due to an earlier signalling problem at Rickmansworth and an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route.,RealTime
+2026-11-14T14:15:33Z,metropolitan,Metropolitan,6,Severe Delays,Metropolitan Line: Severe delays between Aldgate and Uxbridge and MINOR DELAYS on the rest of the line due to an earlier signalling problem at Rickmansworth and an earlier signal failure at Rayners Lane. London Buses are accepting tickets via any reasonable route.,RealTime
+2026-11-14T14:15:33Z,northern,Northern,5,Part Closure,"NORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only, for Night journeys please use Night Bus services",PlannedWork
+2026-11-14T14:15:33Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-14T14:15:33Z,victoria,Victoria,10,Good Service,,
+2026-11-14T14:15:33Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-14T14:15:33Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
