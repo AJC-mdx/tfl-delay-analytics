@@ -31265,3 +31265,14 @@ Tickets are being accepted on London Buses, Chiltern Railways, Liberty Line and 
 2026-11-15T12:15:38Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-15T12:15:38Z,victoria,Victoria,10,Good Service,,
 2026-11-15T12:15:38Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-15T12:30:48Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-15T12:30:48Z,central,Central,10,Good Service,,
+2026-11-15T12:30:48Z,circle,Circle,10,Good Service,,
+2026-11-15T12:30:48Z,district,District,3,Part Suspended,District Line: No service between Earl's Court and Kensington (Olympia) due to train cancellations. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-15T12:30:48Z,hammersmith-city,Hammersmith & City,5,Part Closure,"HAMMERSMITH & CITY LINE: Sunday 15 November, between 1000 and 1800, no service between Plaistow and Barking. Please use DISTRICT LINE services.",PlannedWork
+2026-11-15T12:30:48Z,jubilee,Jubilee,10,Good Service,,
+2026-11-15T12:30:48Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge / Watford / Chesham / Amersham due to train cancellations. The next southbound train departing Chesham will be at 12:26. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-15T12:30:48Z,northern,Northern,5,Part Closure,"NORTHERN LINE: From 0530 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. Replacement bus services operate.",PlannedWork
+2026-11-15T12:30:48Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-15T12:30:48Z,victoria,Victoria,10,Good Service,,
+2026-11-15T12:30:48Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
