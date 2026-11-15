@@ -31553,3 +31553,14 @@ Tickets are being accepted on London Buses, Chiltern Railways, Liberty Line and 
 2026-11-15T18:30:50Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-15T18:30:50Z,victoria,Victoria,10,Good Service,,
 2026-11-15T18:30:50Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-15T18:45:41Z,bakerloo,Bakerloo,6,Severe Delays,Bakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at Kenton. Please use the Lioness line to complete your journey. Tickets are also being accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-15T18:45:41Z,central,Central,9,Minor Delays,Central Line: Minor delays due train cancellations.,RealTime
+2026-11-15T18:45:41Z,circle,Circle,10,Good Service,,
+2026-11-15T18:45:41Z,district,District,9,Minor Delays,District Line: Minor delays between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-15T18:45:41Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-15T18:45:41Z,jubilee,Jubilee,10,Good Service,,
+2026-11-15T18:45:41Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge / Watford / Chesham / Amersham due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-15T18:45:41Z,northern,Northern,5,Part Closure,"NORTHERN LINE: From 0530 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. Replacement bus services operate.",PlannedWork
+2026-11-15T18:45:41Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-15T18:45:41Z,victoria,Victoria,2,Suspended,Victoria Line: No service on the entire line while respond to a fire alert at Seven Sisters. Tickets are being accepted on London Buses.,RealTime
+2026-11-15T18:45:41Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
