@@ -31531,3 +31531,14 @@ Tickets are being accepted on London Buses, Chiltern Railways, Liberty Line and 
 2026-11-15T18:00:57Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-15T18:00:57Z,victoria,Victoria,10,Good Service,,
 2026-11-15T18:00:57Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-15T18:15:33Z,bakerloo,Bakerloo,3,Part Suspended,Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at Kenton. Please use the Lioness line to complete your journey. Tickets are also being accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-15T18:15:33Z,central,Central,9,Minor Delays,Central Line: Minor delays due train cancellations.,RealTime
+2026-11-15T18:15:33Z,circle,Circle,10,Good Service,,
+2026-11-15T18:15:33Z,district,District,9,Minor Delays,District Line: Minor delays between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-15T18:15:33Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-15T18:15:33Z,jubilee,Jubilee,10,Good Service,,
+2026-11-15T18:15:33Z,metropolitan,Metropolitan,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge / Watford / Chesham / Amersham due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-15T18:15:33Z,northern,Northern,5,Part Closure,"NORTHERN LINE: From 0530 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. Replacement bus services operate.",PlannedWork
+2026-11-15T18:15:33Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-15T18:15:33Z,victoria,Victoria,10,Good Service,,
+2026-11-15T18:15:33Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
