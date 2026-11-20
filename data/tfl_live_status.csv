@@ -36698,3 +36698,15 @@ Tickets are being accepted on London Buses, Chiltern Railways, Liberty Line and 
 2026-11-20T10:30:51Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays due to strike action.,RealTime
 2026-11-20T10:30:51Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
 2026-11-20T10:30:51Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-20T10:45:38Z,bakerloo,Bakerloo,6,Severe Delays,"Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone, and SEVERE DELAYS on the rest of the line due to a track fault at Willesden Junction. London Buses and Thameslink are accepting valid tickets via any reasonable route.",RealTime
+2026-11-20T10:45:38Z,bakerloo,Bakerloo,3,Part Suspended,"Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone, and SEVERE DELAYS on the rest of the line due to a track fault at Willesden Junction. London Buses and Thameslink are accepting valid tickets via any reasonable route.",RealTime
+2026-11-20T10:45:38Z,central,Central,6,Severe Delays,"Central Line: Severe delays due to an earlier fire near the track at Leytonstone. London Buses, Liberty line, Chiltern Railways, Great Western Railway, Greater Anglia and Elizabeth line are accepting valid tickets via any reasonable route.",RealTime
+2026-11-20T10:45:38Z,circle,Circle,10,Good Service,,
+2026-11-20T10:45:38Z,district,District,9,Minor Delays,District Line: Minor delays due to train cancellations.,RealTime
+2026-11-20T10:45:38Z,hammersmith-city,Hammersmith & City,10,Good Service,,
+2026-11-20T10:45:38Z,jubilee,Jubilee,10,Good Service,,
+2026-11-20T10:45:38Z,metropolitan,Metropolitan,10,Good Service,,
+2026-11-20T10:45:38Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays between Camden Town and Kennington via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-20T10:45:38Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays due to strike action.,RealTime
+2026-11-20T10:45:38Z,victoria,Victoria,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime
+2026-11-20T10:45:38Z,waterloo-city,Waterloo & City,10,Good Service,,
