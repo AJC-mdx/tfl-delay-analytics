@@ -36543,3 +36543,15 @@ Tickets are being accepted on London Buses, Chiltern Railways, Liberty Line and 
 2026-11-20T07:30:48Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays due to strike action.,RealTime
 2026-11-20T07:30:48Z,victoria,Victoria,10,Good Service,,
 2026-11-20T07:30:48Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-20T07:45:35Z,bakerloo,Bakerloo,6,Severe Delays,Bakerloo Line: Severe delays due to a track fault at Willesden Junction. London Buses and Thameslink are accepting valid tickets via any reasonable route.,RealTime
+2026-11-20T07:45:35Z,central,Central,10,Good Service,,
+2026-11-20T07:45:35Z,circle,Circle,10,Good Service,,
+2026-11-20T07:45:35Z,district,District,9,Minor Delays,"District Line: Severe delays between Barking and Earl's Court due to an earlier faulty train at Upton Park. London Buses, C2C,DLR and Elizabeth line are accepting valid tickets via any reasonable route. MINOR DELAYS on the rest of the line due to train cancellations.",RealTime
+2026-11-20T07:45:35Z,district,District,6,Severe Delays,"District Line: Severe delays between Barking and Earl's Court due to an earlier faulty train at Upton Park. London Buses, C2C,DLR and Elizabeth line are accepting valid tickets via any reasonable route. MINOR DELAYS on the rest of the line due to train cancellations.",RealTime
+2026-11-20T07:45:35Z,hammersmith-city,Hammersmith & City,9,Minor Delays,Hammersmith and City Line: Minor delays westbound only  due to an earlier faulty train at Euston Square. GOOD SERVICE eastbound.,RealTime
+2026-11-20T07:45:35Z,jubilee,Jubilee,10,Good Service,,
+2026-11-20T07:45:35Z,metropolitan,Metropolitan,6,Severe Delays,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Aldgate due to an earlier faulty train at Euston Square. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-20T07:45:35Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays between Camden Town and Kennington via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-20T07:45:35Z,piccadilly,Piccadilly,9,Minor Delays,Piccadilly Line: Minor delays due to strike action.,RealTime
+2026-11-20T07:45:35Z,victoria,Victoria,10,Good Service,,
+2026-11-20T07:45:35Z,waterloo-city,Waterloo & City,10,Good Service,,
