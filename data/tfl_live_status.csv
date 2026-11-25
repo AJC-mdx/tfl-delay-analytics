@@ -42647,3 +42647,15 @@ Tickets are being accepted on London Buses, Chiltern Railways, Liberty Line and 
 2026-11-25T12:01:11Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-25T12:01:11Z,victoria,Victoria,10,Good Service,,
 2026-11-25T12:01:11Z,waterloo-city,Waterloo & City,10,Good Service,,
+2026-11-25T12:15:36Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-25T12:15:36Z,central,Central,10,Good Service,,
+2026-11-25T12:15:36Z,circle,Circle,2,Suspended,Circle Line: No service on the entire line while we fix a signal system failure in the King's Cross area. Tickets are being accepted on London Buses.,RealTime
+2026-11-25T12:15:36Z,district,District,3,Part Suspended,District Line: No service between Turnham Green and Richmond while we fix a signal failure at Richmond. Tickets are being accepted on London Buses and South Western Railway services. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-25T12:15:36Z,hammersmith-city,Hammersmith & City,2,Suspended,"Hammersmith and City Line: No service on the entire line while we fix a signal system failure in the King's Cross area. Tickets are being accepted on London Buses, DLR, C2C and Elizabeth line services.",RealTime
+2026-11-25T12:15:36Z,jubilee,Jubilee,10,Good Service,,
+2026-11-25T12:15:36Z,metropolitan,Metropolitan,6,Severe Delays,"Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line while we fix a signal system failure in the King's Cross area. Tickets are being accepted on London Buses, Lioness Line, Chiltern Railways, Thameslink and London Northwestern Railway.",RealTime
+2026-11-25T12:15:36Z,metropolitan,Metropolitan,3,Part Suspended,"Metropolitan Line: No service between Baker Street and Aldgate and SEVERE DELAYS on the rest of the line while we fix a signal system failure in the King's Cross area. Tickets are being accepted on London Buses, Lioness Line, Chiltern Railways, Thameslink and London Northwestern Railway.",RealTime
+2026-11-25T12:15:36Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays between Camden Town and Kennington via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line.,RealTime
+2026-11-25T12:15:36Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-25T12:15:36Z,victoria,Victoria,10,Good Service,,
+2026-11-25T12:15:36Z,waterloo-city,Waterloo & City,10,Good Service,,
