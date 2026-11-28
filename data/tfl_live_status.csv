@@ -46217,3 +46217,14 @@ Circle Line: No service between Hammersmith and Tower Hill, and between Edgware 
 2026-11-28T09:45:40Z,piccadilly,Piccadilly,10,Good Service,,
 2026-11-28T09:45:40Z,victoria,Victoria,10,Good Service,,
 2026-11-28T09:45:40Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
+2026-11-28T10:00:57Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-28T10:00:57Z,central,Central,10,Good Service,,
+2026-11-28T10:00:57Z,circle,Circle,5,Part Closure,"Circle Line : Saturday 28 and Sunday 29 November - No service between Hammersmith and Tower Hill, Edgware Road and High Street Kensington due to planned engineering work.",PlannedWork
+2026-11-28T10:00:57Z,district,District,5,Part Closure,"DISTRICT LINE: Saturday 28 and Sunday 29 November, no service between High Street Kensington and Edgware Road. There will also be no CIRCLE LINE service on this section.",PlannedWork
+2026-11-28T10:00:57Z,hammersmith-city,Hammersmith & City,4,Planned Closure,"HAMMERSMITH & CITY LINE: Saturday 28 and Sunday 29 November, no service on the entire line. There will also be no CIRCLE LINE service between Hammersmith / High Street Kensington and Tower Hill (via Kings Cross St Pancras). Use DISTRICT LINE services between Aldgate East and Barking.",PlannedWork
+2026-11-28T10:00:57Z,jubilee,Jubilee,10,Good Service,,
+2026-11-28T10:00:57Z,metropolitan,Metropolitan,5,Part Closure,"METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section.",PlannedWork
+2026-11-28T10:00:57Z,northern,Northern,6,Severe Delays,Northern Line: Severe delays between Camden Town and Kennington via Charing Cross northbound only while we deal with a track fire at Charing Cross. Tickets are being accepted on London Buses and Southeastern services.,RealTime
+2026-11-28T10:00:57Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-28T10:00:57Z,victoria,Victoria,10,Good Service,,
+2026-11-28T10:00:57Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
