@@ -46033,3 +46033,14 @@ Tickets are being accepted on London Buses, Chiltern Railways, Liberty Line and 
 2026-11-28T05:45:37Z,victoria,Victoria,10,Good Service,,
 2026-11-28T05:45:37Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
 2026-11-28T05:45:37Z,waterloo-city,Waterloo & City,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime
+2026-11-28T06:01:01Z,bakerloo,Bakerloo,10,Good Service,,
+2026-11-28T06:01:01Z,central,Central,10,Good Service,,
+2026-11-28T06:01:01Z,circle,Circle,5,Part Closure,"CIRCLE LINE: Saturday 28 and Sunday 29 November, no service between Hammersmith / High Street Kensington and Tower Hill (via Kings Cross St Pancras)",PlannedWork
+2026-11-28T06:01:01Z,district,District,5,Part Closure,"DISTRICT LINE: Saturday 28 and Sunday 29 November, no service between High Street Kensington and Edgware Road. There will also be no CIRCLE LINE service on this section.",PlannedWork
+2026-11-28T06:01:01Z,hammersmith-city,Hammersmith & City,4,Planned Closure,"HAMMERSMITH & CITY LINE: Saturday 28 and Sunday 29 November, no service on the entire line. There will also be no CIRCLE LINE service between Hammersmith / High Street Kensington and Tower Hill (via Kings Cross St Pancras). Use DISTRICT LINE services between Aldgate East and Barking.",PlannedWork
+2026-11-28T06:01:01Z,jubilee,Jubilee,10,Good Service,,
+2026-11-28T06:01:01Z,metropolitan,Metropolitan,5,Part Closure,"METROPOLITAN LINE: Saturday 28 and Sunday 29 November, no service between Baker Street and Aldgate. There will also be no CIRCLE or HAMMERSMITH & CITY LINE services on this section.",PlannedWork
+2026-11-28T06:01:01Z,northern,Northern,9,Minor Delays,Northern Line: Minor delays due to a points failure at Kennington.,RealTime
+2026-11-28T06:01:01Z,piccadilly,Piccadilly,10,Good Service,,
+2026-11-28T06:01:01Z,victoria,Victoria,10,Good Service,,
+2026-11-28T06:01:01Z,waterloo-city,Waterloo & City,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information
